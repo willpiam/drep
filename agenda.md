@@ -14,3 +14,11 @@ I recognize the value of advertising and am open minded to funding advertising c
 
 ## Transaction Censorship
 No governance action shall ever enable the censorship of transactions on the Cardano blockchain.
+
+## Build strong bridges with other blockchains and ecosystems
+
+## Cardano as a settlement layer should be cautious about adding cryptographic dependencies
+
+## Ensure Block production does not centralize
+While other networks are embracing the idea that centralized block production is fine assuming decentralized block verification. Cardano should not follow this path. Cardano must keep block production decentralized.
+
