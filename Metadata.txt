@@ -1,24 +1,3 @@
-TESTNET ONLY!!!
-
-This document will be hashed with sha256sum
-
-Wildoy's Sancho DREP metadata
-
-I'm Wildoy and I want your vote!
-
-Agenda:
-    - Prioritize decentralization: The aim is to be as immutable as death, prehaps more
-    - Transparency
-    - Responsable parameter changes
-    - Open Source
-    - Proper, conservative, and careful use of treasury funds
-    - Deter maximalism
-    - Be prepared for quantum computing
-    - Encourage diversity of thought 
-    - Promote freedom through out the world 
-    - Promote radical accountability
-
-
 Twitter: https://twitter.com/william00000010
 
-TESTNET ONLY!!!
+
