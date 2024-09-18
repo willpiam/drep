@@ -1,0 +1,133 @@
+{
+  "@context": {
+    "@language": "en-us",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP119:body",
+      "@context": {
+        "bio": "CIP119:bio",
+        "email": "CIP119:email",
+        "givenName": "CIP119:givenName",
+        "motivations": "CIP119:motivations",
+        "objectives": "CIP119:objectives",
+        "paymentAddress": "CIP119:paymentAddress",
+        "qualifications": "CIP119:qualifications",
+        "image": {
+          "@id": "CIP119:image",
+          "@context": {
+            "ImageObject": "https://schema.org/ImageObject"
+          }
+        },
+        "references": {
+          "@id": "CIP119:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP119:referenceHash",
+              "@context": {
+                "hashDigest": "CIP119:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [
+    {
+      "witness": {
+        "publicKey": {
+          "@value": "a4010103272006215820e715d9c6b5da678cf0f3ee5927715d8cc8b13594141cef09fb9adf7e9ab769b3"
+        },
+        "signature": {
+          "@value": "845829a201276761646472657373581c4281249b0696b2e347ae7cc1757d38e81fd5c7aa763903225b40e7c1a166686173686564f5581cfb76ac7ab9bfc78e7b1085ded12cc7b157aec3bd19ce18d727ba5fc2584093abf897afd0b563082def9dcfa0a5dbe02b32ba5559ef9fb25130b4a266486ab0ad85efc83dbb43e1c1fac292657a57018823fa6e113e298404fe2d86ba120b"
+        },
+        "witnessAlgorithm": {
+          "@value": "Ed25519"
+        }
+      }
+    }
+  ],
+  "hashAlgorithm": {
+    "@value": "blake2b-256"
+  },
+  "body": {
+    "bio": {
+      "@value": "Your friendly neighborhood DRep!"
+    },
+    "email": {
+      "@value": "Empty"
+    },
+    "givenName": {
+      "@value": "William Doyle"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "contentUrl": "https://ipfs.io/ipfs/QmddWCo9HhG1sL3SQv43nan8vqQgXhcKNdDsk6YuJ2267y",
+      "sha256": "1b8889b7a31c7e8cc4ed5568e299813571fb1d56763e57f61368bb444bb8a8d6"
+    },
+    "motivations": {
+      "@value": "Fatherhood: The best thing I can do to increase the probability that my son will enjoy a fulfilling, free, and self-directed life is to work towards ensuring Cardano's success in its mission."
+    },
+    "objectives": {
+      "@value": "Ensure Cardano is viable for generations to come"
+    },
+    "paymentAddress": {
+      "@value": "addr1qx52mlvjf93n77lsz79pn8kl80zw7pcmgqusfn747fe768g8y7a8ud59kv677q7metm2gwh9vkwnakyxwlwlkd5369xqtxleh7"
+    },
+    "qualifications": {
+      "@value": "Blockchain domain expert and dapp developer"
+    },
+    "references": [
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Twitter"
+        },
+        "uri": {
+          "@value": "https://x.com/william00000010"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "ENS"
+        },
+        "uri": {
+          "@value": "https://app.ens.domains/williamdoyle.eth"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Github"
+        },
+        "uri": {
+          "@value": "https://github.com/willpiam"
+        }
+      }
+    ]
+  }
+}
