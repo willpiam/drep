@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "body": {
+    "comment": "We have just unlocked the treasury. This is an exciting yet uncertain time. Many in the Cardano community are concerned that their taxes will be wasted. I share these concerns, which is why I chose to become a dRep. However, the treasury is one of the most powerful aspects of the Cardano ecosystem and must not be undermined.\n\nCardano does not exist solely for its current users. It exists for all of humanity, current and future. It is our responsibility as stewards in these early days to ensure our network continues to improve. Maintaining, growing, and spending our treasury responsibly is not only a matter of personal benefit; it is a sacred duty we owe to our children and our children’s children.\n\nThis proposal, which I am voting to reject, postulates that a 10% tax would suffice due to an expected appreciation in the value of Ada and that decreasing the tax from 20% would benefit the decentralization of the network by encouraging more participation in consensus.\n\nBasing such a critical decision on price speculation is not only unreasonable but dangerously short-sighted.\n\nDecentralization could always be improved; however, it is not the only consideration. As we are currently among the best in class when it comes to decentralization, we should be careful not to prioritize it above other critical considerations. As this proposal would halve the current contributions to the treasury, it has the potential to inhibit our long-term viability.\n\nOur duty as stewards of the treasury is not to drive the price of Ada higher, but to shepherd Cardano through each challenge the future brings. Let us not become distracted by personal gain. May we keep sight of the opportunity granted to us—that we might change the course of human history and deliver all of mankind to a truly trustless world.\n\nSigned William Doyle\n\nYour friendly neighborhood DRep!\n$computerman\ndrep1yfpgzfymq6tt9c684e7vzata8r5pl4w84fmrjqeztdqw0sgpzw3nt"
+  },
+  "hashAlgorithm": "blake2b-256"
+}
