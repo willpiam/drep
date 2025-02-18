@@ -14,6 +14,22 @@
 
 ## How I hash 
 
-### Option 1: Web Portal
+These two methods should yield the same hash.
 
-### Option 2: CLI
+### Method 1: Web Portal
+
+1. Navigate to https://toolkitbay.com/tkb/tool/BLAKE2b_256
+2. select `File input`
+3. Upload file
+4. press `Process from file`
+
+
+### Method 2: CLI
+
+    b2sum -l 256 <path_to_file>
+
+## Commitment Transactions
+
+| Tx Link | Document Hash |
+| ------- | ------------- |
+| [Voltaire Paper Draft 1](https://adastat.net/transactions/beca42f91b669045bfc44c9f949dce8e11d7665aafa8c1aa5b5c4eeb6914df3e) | 254999bc30cef78f78e52c233fcdb12c4a3967ac1f99c27863f513f728f61d1d |
