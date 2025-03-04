@@ -32,7 +32,7 @@ When paired with Genesis, Chronos will provide feature parity with proof-of-work
 
 ## Conclusion
 
-Including **Post Quantum R&D** would be enough to make me change my vote to YES. However I would very much like to see Genesis and Chronos included as I believe they *complete* a significant goal of the Cardano project which is to prove that proof-of-stake can be just as secure as proof-of-work. This would not only help by improving Cardano's security but would have the added benefit of differentiating cardano in an increasingly competitive blockchain industry. 
+Including **Post Quantum R&D** would be enough to make me change my vote to YES. However I would very much like to see Genesis and Chronos included as I believe they *complete* a significant goal of the Cardano project which is to prove that proof-of-stake can be just as secure as proof-of-work. This would not only help by improving Cardano's security but would have the added benefit of differentiating Cardano in an increasingly competitive blockchain industry. 
 
 Signed William Doyle
 
