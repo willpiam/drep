@@ -12,6 +12,8 @@
 | Cardano Constitution to Replace the Interim Constitution | yes | [5_constitution.jsonld](https://github.com/willpiam/drep/blob/master/vote_context/5_constitution.jsonld) | [cardanoscan](https://cardanoscan.io/vote/c6c6a876dbb701c7d955def074b3f4987fa1893d6803b568c8da16582c2bf6bf) |
 |Decrease Treasury Tax from 20% to 10%                  | No      | [6_tax_decrease.jsonld](https://github.com/willpiam/drep/blob/master/vote_context/6_tax_decrease.jsonld) | [cardanoscan](https://cardanoscan.io/vote/f5b449599ed527e010f8fc2815c1607ae00d5eac683735b2c355b0012f4bef92)    |
 | 2025 Roadmap (first tentative vote)   | No | [7a_roadmap.jsonld](https://github.com/willpiam/drep/blob/master/vote_context/7a_roadmap.jsonld) | [cardanoscan](https://cardanoscan.io/vote/43b5f6911416f535f38a1b78800e2b35ce3676449ee3b990e6e584c717779631)
+| 2025 & 2026 Minimum NCL | Yes | [8_ncl.jsonld](https://github.com/willpiam/drep/blob/master/vote_context/8_ncl.jsonld) | [cardanoscan](https://cardanoscan.io/vote/2e8b7b3bec08faf5d2cacba70372c7919ff1083127da9b7bd77b6d8df5847183)
+
 
 ## How I hash 
 
