@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "Since my previous vote, where I stated *\"While the proposed amount of ₳350M is a tad high for my liking, it is not so high as to justify stalling the budget process.\"* I have become convinced that ₳350M is approximately the correct value for the NCL for the remainder of the year.\nThis new proposal would set the NCL at ₳200M.\n\nCardano needs to learn how to swim — and we need to do it fast. Blockchain was conceived to solve the distribution of control problem. No network has fully lived up to that challenge yet, and it remains a problem we desperately need to solve.\nCardano is the closest to fulfilling the true destiny of blockchain, but we will only succeed if we learn to manage resources and make complex decisions.\nWe will not learn that by acting so cautiously that we never take risks. We need the freedom to make mistakes — and an NCL as low as ₳200M does not grant us that freedom.\n\nOur responsibility is to manage the treasury wisely, not to avoid risk out of fear.\nWe need to accept that we will make mistakes, and that's okay — because we will address them and learn from them.\nBecause that's how we get better.\n\nMatthew 25:14–30\n\nhttps://github.com/willpiam/drep/blob/master/vote_context/markdown/10_ncl_2025_b.md\n\nSigned,\nWilliam Doyle"
+  },
+  "hashAlgorithm": "blake2b-256"
+}
