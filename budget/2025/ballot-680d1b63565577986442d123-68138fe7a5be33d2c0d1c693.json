@@ -1,0 +1,793 @@
+{
+  "_id": "68138fe7a5be33d2c0d1c693",
+  "ballotId": "680d1b63565577986442d123",
+  "voterId": "drep1yfpgzfymq6tt9c684e7vzata8r5pl4w84fmrjqeztdqw0sgpzw3nt",
+  "status": "submitted",
+  "createdAt": "2025-05-01T15:14:47.735Z",
+  "merkleRoot": "0x494d118ee4f13f95afa9a3df22436d24e51f4b69204a23e7e9a286c58f32bcf6",
+  "updatedAt": "2025-05-01T15:15:07.331Z",
+  "votes": [
+    {
+      "proposalId": "680d1b63565577986442d244",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b64565577986442d2a2",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1cc",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d152",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d262",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d236",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d1f2",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d1de",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d1dc",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d246",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b63565577986442d248",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b63565577986442d24a",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b63565577986442d172",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1d6",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d1c4",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1a6",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d184",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d15c",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d156",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d13a",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d138",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d136",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d134",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d19e",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1c8",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d202",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d20a",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d220",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d24e",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d256",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d1fe",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d200",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d204",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d206",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d214",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d21c",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b64565577986442d28a",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b64565577986442d28e",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b64565577986442d290",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b64565577986442d292",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b64565577986442d28c",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d27c",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b64565577986442d284",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b64565577986442d294",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d2ac",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b64565577986442d2a0",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d13c",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d2aa",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b63565577986442d14a",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b63565577986442d162",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d258",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d226",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d21a",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d27e",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d234",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b63565577986442d21e",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d228",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1ce",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d224",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d16c",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d182",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1f0",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d278",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d23c",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1ca",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d26a",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d270",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d240",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d26c",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b63565577986442d254",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d18a",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d296",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b64565577986442d298",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b63565577986442d198",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d23e",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d266",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d218",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d222",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d14c",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d150",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1ea",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1ec",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1ee",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1f4",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1f6",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1f8",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1fa",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1fc",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1d8",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1da",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1e0",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1e2",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1e4",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1e6",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1e8",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1b4",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1c2",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1c6",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1d0",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1d2",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d16e",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d170",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d158",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d15e",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d160",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d164",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d166",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d168",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d16a",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1d4",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1ae",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1b0",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1b2",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1b6",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1b8",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1ba",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1bc",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1be",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1c0",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d19a",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d19c",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1a0",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1a2",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1a4",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1a8",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1aa",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d1ac",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d186",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d188",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d18c",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d18e",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d190",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d192",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d194",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d196",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d174",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d176",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d178",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d17a",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d17c",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d17e",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d180",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d208",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d20c",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d210",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d212",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d216",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d22a",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d22c",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d22e",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d230",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d232",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d238",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d242",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d276",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b63565577986442d20e",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b63565577986442d23a",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b63565577986442d24c",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d250",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d252",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d25a",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d25c",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d25e",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d260",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d264",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d268",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d26e",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d274",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d27a",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d280",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b64565577986442d282",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d286",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d288",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d29a",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d29c",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d2a4",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d148",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d14e",
+      "value": 0
+    },
+    {
+      "proposalId": "680d1b63565577986442d154",
+      "value": 1
+    },
+    {
+      "proposalId": "680d1b63565577986442d15a",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d13e",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d140",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d142",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d144",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d146",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d126",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d129",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d12e",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b63565577986442d132",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d2a8",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d272",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d29e",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d2a6",
+      "value": -1
+    },
+    {
+      "proposalId": "680d1b64565577986442d2ae",
+      "value": -1
+    }
+  ],
+  "signature": {
+    "key": "a5010102581c4281249b0696b2e347ae7cc1757d38e81fd5c7aa763903225b40e7c103272006215820e715d9c6b5da678cf0f3ee5927715d8cc8b13594141cef09fb9adf7e9ab769b3",
+    "signature": "845829a201276761646472657373581c4281249b0696b2e347ae7cc1757d38e81fd5c7aa763903225b40e7c1a166686173686564f458423078343934643131386565346631336639356166613961336466323234333664323465353166346236393230346132336537653961323836633538663332626366365840c428faa9187e2bad6903ec46772475f5440579fcb9b9d3d2c53da922cbb0a885aed4458b317563f557ce4b4f3ba692e753ab7255917082d0292464694d685409",
+    "COSE_Sign1_hex": "845829a201276761646472657373581c4281249b0696b2e347ae7cc1757d38e81fd5c7aa763903225b40e7c1a166686173686564f458423078343934643131386565346631336639356166613961336466323234333664323465353166346236393230346132336537653961323836633538663332626366365840c428faa9187e2bad6903ec46772475f5440579fcb9b9d3d2c53da922cbb0a885aed4458b317563f557ce4b4f3ba692e753ab7255917082d0292464694d685409",
+    "COSE_Key_hex": "a5010102581c4281249b0696b2e347ae7cc1757d38e81fd5c7aa763903225b40e7c103272006215820e715d9c6b5da678cf0f3ee5927715d8cc8b13594141cef09fb9adf7e9ab769b3"
+  }
+}
