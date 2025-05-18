@@ -1,6 +1,10 @@
 
 # $computerman's dRep Platform
 
+## Agenda 
+
+*Keep Cardano Viable* for generations to come
+
 ## Vote Context
 
 | title                 | vote      | context                                                                          | transaction                                                                                                                   |
