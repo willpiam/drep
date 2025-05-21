@@ -10,13 +10,20 @@
 
 Requesting ₳50M to __.
 
-Funds would be managed by a seven person multisig including 
+- Funds would be managed by a four of seven multisig with the following members
 
-| Name                | Social Media                          |
-| ------------------- | ------------------------------------- |
-| Linda Roland        | [Twitter](https://x.com/cryptofly777) |
-| Darren Camas        ||
-| 
+    - Linda Roland         
+    - Darren Camas         
+    - Nick Schaub, Ph.D.  
+    - Giorgio Zinetti    
+    - Massimo Morini, Ph.D.
+    - Darlington Wleh
+
+- The seventh member has not yet been selected. 
+- 15% of monthy interest is returned to the treasury
+- 85% remains in the "protocol"
+- 
+
 
 
 ## Statement
