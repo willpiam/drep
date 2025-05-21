@@ -1,7 +1,5 @@
 # Voting __ on "Cardano Treasury DeFi Liquidity Budget"
 
-
-
 **May 21st 2025**
 
 > gov_action1fpqwxp2kxvnntr8hpkh9q9djm78ccdww7qlhg5safugh4stmcwzqql5lauu 
@@ -14,7 +12,11 @@ Requesting ₳50M to __.
 
 Funds would be managed by a seven person multisig including 
 
-- list people here
+| Name                | Social Media                          |
+| ------------------- | ------------------------------------- |
+| Linda Roland        | [Twitter](https://x.com/cryptofly777) |
+| Darren Camas        ||
+| 
 
 
 ## Statement
