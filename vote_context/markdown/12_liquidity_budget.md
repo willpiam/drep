@@ -1,6 +1,6 @@
 # Voting NO on "Cardano Treasury DeFi Liquidity Budget"
 
-**May 21st 2025**
+**May 22nd 2025**
 
 > gov_action1fpqwxp2kxvnntr8hpkh9q9djm78ccdww7qlhg5safugh4stmcwzqql5lauu 
 
