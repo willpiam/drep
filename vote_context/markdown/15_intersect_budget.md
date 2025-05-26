@@ -14,30 +14,15 @@ This proposal seeks ₳275M to fund 39 sub-proposals. These sub-proposals were s
 
 This budget constitutes over 78% of current the NCL.
 
+
 ## Criticisms
 
-### Catalyst
-**₳69,459,000**
+- Catalyst
+- High-yield RWA Asset for Cardano : Tokenized Real Estate
+- Complement Catalyst: Extended Quadratic Funding—Zero Operational Costs
+- Cardano Ecosystem Pavilions at Exhibitions
+- Cardano Builder DAO
 
-We should use the dRep mechanisum to allocate these funds instead of Catalyst. The dReps need to practice selecting which budgets to fund. Catalyst robs the dReps of this opertunity for practice. 
-
-### High-yield RWA Asset for Cardano : Tokenized Real Estate
-
-**₳3,000,000**
-
-blah blah blah...
-
-### Complement Catalyst: Extended Quadratic Funding—Zero Operational Costs
-
-**₳1,500,000**
-
-We don't need another Catalyst. 
-
-### Cardano Ecosystem Pavilions at Exhibitions
-
-**₳1,119,333**
-
-blah blah blah...
 
 ## Statement
 
