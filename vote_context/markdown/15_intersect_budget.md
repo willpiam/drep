@@ -26,6 +26,15 @@ This budget constitutes over 78% of current the NCL.
 
 ## Statement
 
+Dispite having concerns about some of the budget items I am voting YES on this governance action. The majority of these funds are going to important work.  
+
+Please see the link below for graphs of the budget. 
+
+[Budget Analysis On Github](https://github.com/willpiam/intersect_budget_analysis)
+
+
+
+
 
 Signed,
 William Doyle
