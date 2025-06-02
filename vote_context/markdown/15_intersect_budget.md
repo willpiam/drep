@@ -1,8 +1,8 @@
 # Voting (for|against) the "Cardano Blockchain Ecosystem Budget - 275M ada Administered by Intersect"
 
-**May 24, 2025**
+**June 2nd, 2025**
 
->  gov id
+>  gov_action1u9x73kwufaxa70lfy59g4ynwyrcsaxdcd0gxzzmh67s9fxq4j8hqqk2phgh
 
 [View On-Chain]()
 
@@ -23,6 +23,11 @@ This budget constitutes over 78% of current the NCL.
 - Cardano Ecosystem Pavilions at Exhibitions
 - Cardano Builder DAO
 
+## Additional Info
+
+[Details Of All Passing Budget Items](https://2025budget.intersectmbo.org/ballots/680d1b63565577986442d123/proposals?thresholdReached=true)
+
+[My Budget Analysis On Github](https://github.com/willpiam/intersect_budget_analysis)
 
 ## Statement
 
@@ -30,7 +35,6 @@ Dispite having concerns about some of the budget items I am voting YES on this g
 
 Please see the link below for graphs of the budget. 
 
-[Budget Analysis On Github](https://github.com/willpiam/intersect_budget_analysis)
 
 
 
