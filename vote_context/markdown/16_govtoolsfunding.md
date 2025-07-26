@@ -4,7 +4,7 @@
 
 > gov_action1n5sn54mgf47a7men2ryq6ppx88kta4wvenz2qkl4f9v6ppje8easqxwm88m
 
-[View On-Chain]()
+[View On-Chain](https://cardanoscan.io/vote/b2075f85f26238c98cf7e64af73f825bba3c461180bbcc6af9df19cf541f949c)
 
 
 ## Statement
