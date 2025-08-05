@@ -1,16 +1,15 @@
-# Initially voting YES on all 39 Intersect 
+# The Intersect Budget Withdrawals
 
 **August 4th, 2025**
 
 > multiple
 
 
-
 ## Withdraw ₳130,903 for Lucid Evolution Maintenance administered by Intersect
 
 Lucid Evolution is critical infrastructure and this is a reasonable price. Having used Lucid Evolution I can attest to it being a great tool which could absolutely benefit from some investment. 
 
-[View On-Chain]()
+[View On-Chain](https://cardanoscan.io/vote/1ecd40caded32cdc72dbc57e379fa14c16f6bbfcbf14679e74375590d760bac8)
 
 Signed,
 William Doyle
