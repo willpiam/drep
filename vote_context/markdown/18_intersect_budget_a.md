@@ -14,6 +14,9 @@ Lucid Evolution is critical infrastructure and this is a reasonable price. Havin
 
 I'm defaulting to voting yes because there is some degree of consensus already achieved on each of these. So unless I have a significant issue with one of these proposals I will be voting yes on it. 
 
+## Other votes
+
+- [1](https://cardanoscan.io/vote/d3b4a0f568508154942715799856b66794dbecc7a1b15ddf7964c6b4c5a413b5)
 
 
 Signed,
