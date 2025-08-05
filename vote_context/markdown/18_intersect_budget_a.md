@@ -10,13 +10,15 @@ Lucid Evolution is critical infrastructure and this is a reasonable price. Havin
 
 [View On-Chain](https://cardanoscan.io/vote/1ecd40caded32cdc72dbc57e379fa14c16f6bbfcbf14679e74375590d760bac8)
 
-## Default
-
-I'm defaulting to voting yes because there is some degree of consensus already achieved on each of these. So unless I have a significant issue with one of these proposals I will be voting yes on it. 
-
 ## Withdraw ₳3,000,000 for High-yield RWA Asset for Cardano: Tokenized Real Estate
 
-I've never liked this proposal. I don't like the idea of using treasury funds to invest in real estate. The current real estate market is unnaturally high. Also, the amount of trust this product demands is unacceptable. Real world assets are still not mature technology. While I'm open to the idea of funding RWA tooling development, I'm uncomfortable with the idea of investing treasury funds into RWAs made with the currently available technology. Not only do I think it's a bad time to invest in real estate, I think it's a bad idea to invest in immature tokenization products. 
+I've never liked this proposal. I don't like the idea of using treasury funds to invest in real estate. The current real estate market is unnaturally high. Also, the amount of trust this product demands is unacceptable. Real world assets are still not mature technology. While I'm open to the idea of funding RWA tooling development, I'm uncomfortable with the idea of investing treasury funds into RWAs made with the currently available technology. Not only do I think it's a bad time to invest in real estate, I think it's a bad idea to invest in immature tokenization products.
+
+[View On-Chain](https://cardanoscan.io/vote/df6d41bec6d35a800b229a3eac3cb6b7d1216b3bbf53fabafa52c28cfd5d66cc)
+
+## Default
+
+I'm defaulting to voting yes because there is some degree of consensus already achieved on each of these. So unless I have a significant issue with one of these proposals I will be voting yes on it.
 
 ## Other votes
 
@@ -24,6 +26,9 @@ I've never liked this proposal. I don't like the idea of using treasury funds to
 - 1cc1385b9b8f69d970f83f8c756fee35d894719f75d14308c7aaef31142b4ff2
 - 09e28e6e19754b29f0e3ee567f7987d3fd4ff746fe2b2d6f425c5bc25ed7017a
 - 3e4ad56bcb0435bb9b1c19de77b3a74fe20f923f2bbcb85cbe8cb2e82f5f9bd8
+- cec68b02513edccc2c743a62433b0137c7fd93c0b81e67b2e83a74cfe253288b
+- bfecee060de9a5d3cb0cc5b1f2da05854545dbf1047ef048925ed546f6c97ee3
+- c43908b4469465ffae73fa9cba65b8648b09167ab70c66a453f85619eb169b9b
 
 
 Signed,
