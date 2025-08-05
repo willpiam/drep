@@ -4,12 +4,17 @@
 
 > multiple
 
-
 ## Withdraw ₳130,903 for Lucid Evolution Maintenance administered by Intersect
 
 Lucid Evolution is critical infrastructure and this is a reasonable price. Having used Lucid Evolution I can attest to it being a great tool which could absolutely benefit from some investment. 
 
 [View On-Chain](https://cardanoscan.io/vote/1ecd40caded32cdc72dbc57e379fa14c16f6bbfcbf14679e74375590d760bac8)
+
+## Default
+
+I'm defaulting to voting yes because there is some degree of consensus already achieved on each of these. So unless I have a significant issue with one of these proposals I will be voting yes on it. 
+
+
 
 Signed,
 William Doyle
