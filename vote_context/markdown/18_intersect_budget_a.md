@@ -1,15 +1,16 @@
-# Initally voting YES on all 39 Intersect 
+# Initially voting YES on all 39 Intersect 
 
-**July , 2025**
+**August 4th, 2025**
 
 > multiple
 
+
+
+## Withdraw ₳130,903 for Lucid Evolution Maintenance administered by Intersect
+
+Lucid Evolution is critical infrastructure and this is a reasonable price. Having used Lucid Evolution I can attest to it being a great tool which could absolutely benefit from some investment. 
+
 [View On-Chain]()
-
-
-## Statement
-
-To make life easier I am casting 39 treasury withdrawal votes at once. I may change some of them later. I will take into consideration, amoung other factors, that we should aim to minimise "jerking projects around". 
 
 Signed,
 William Doyle
