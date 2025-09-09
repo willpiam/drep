@@ -5,9 +5,9 @@
 
 > gov_action13836fuy3yttxn4hkeqka398q9qnwsjtmul4sxc3nht7qae8uvejsqm7ukh8
 
-[View On-Chain](https://cardanoscan.io/vote/)
+[View On-Chain](https://cardanoscan.io/vote/aecc9e8b145ab9b60ce28542980db2b62b7dd9430ffaacf60dcf938a42d2e876)
 
-[IPFS Reference]()
+[IPFS Reference](https://ipfs.io/ipfs/bafkreidz3xccu6vqsft3kiz2xueovyph7q626camtrskctzbd6fs6ibkua)
 
 ## Summary
 
