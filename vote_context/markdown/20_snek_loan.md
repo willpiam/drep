@@ -3,9 +3,9 @@
 
 **September 15th, 2025**
 
-> gov_action1jr84r96lnsvu9yd6c0jhxe9gj5r7vnd2pgkntc6klplxdpyzz4tqqc9uldx
+[gov_action1jr84r96lnsvu9yd6c0jhxe9gj5r7vnd2pgkntc6klplxdpyzz4tqqc9uldx](https://cardanoscan.io/govAction/gov_action1jr84r96lnsvu9yd6c0jhxe9gj5r7vnd2pgkntc6klplxdpyzz4tqqc9uldx)
 
-[View On-Chain](https://cardanoscan.io/vote/f508573d355a32d63cab932f2c88e2e74df9e64a3e6f5076023a470faf8db5ea)
+[View Vote On-Chain](https://cardanoscan.io/vote/f508573d355a32d63cab932f2c88e2e74df9e64a3e6f5076023a470faf8db5ea)
 
 [IPFS Vote Metadata](https://ipfs.io/ipfs/bafkreieyrdho5g5s6umoj7a7po72xj64zxf7jmpbigt7fhuuyvhbfc5etq)
 
