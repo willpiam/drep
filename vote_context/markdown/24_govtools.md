@@ -2,11 +2,11 @@
 
 **October 20th 2025**
 
-[gov_action16tdkp3fs0j6303e4utgp8rftdug0ckezr4sslgv8wxdaeq40ngpsq5sr06h](gov_action16tdkp3fs0j6303e4utgp8rftdug0ckezr4sslgv8wxdaeq40ngpsq5sr06h)
+[gov_action16tdkp3fs0j6303e4utgp8rftdug0ckezr4sslgv8wxdaeq40ngpsq5sr06h](https://cardanoscan.io/govAction/gov_action16tdkp3fs0j6303e4utgp8rftdug0ckezr4sslgv8wxdaeq40ngpsq5sr06h)
 
-[View Vote On-Chain]()
+[View Vote On-Chain](https://cardanoscan.io/vote/71daf047a8b39bfd3cb03b7652c07443c08d54f0e5102dd4691e4a9b2e8a35aa)
 
-[IPFS Vote Metadata]()
+[IPFS Vote Metadata](https://ipfs.io/ipfs/bafkreieysmd64c5ziqmc4luve2mmaq4g6qjdb6d6dtanjjgcy37jii6lsu)
 
 ## Conclusion
 
