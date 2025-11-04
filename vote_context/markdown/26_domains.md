@@ -1,12 +1,12 @@
 # Voting AGAINST "Securing Generic Top-Level Domains for the Cardano Ecosystem"
 
-**2025**
+**November 4th 2025**
 
 [gov_action15dh2lt4qskmhl97vat8s0l552ruvddrlasa0jndg7lg43g0uju3qq78hvja](https://cardanoscan.io/govAction/gov_action15dh2lt4qskmhl97vat8s0l552ruvddrlasa0jndg7lg43g0uju3qq78hvja)
 
-[View Vote On-Chain]()
+[View Vote On-Chain](https://cardanoscan.io/vote/9f4c5becac3dda057303b774c0bdd088722acfd084fc1299813b7922833c4273)
 
-[IPFS Vote Metadata]()
+[IPFS Vote Metadata](https://ipfs.io/ipfs/bafkreif2446ea27ksxgndv7gzxijuhn2dkxmcslfsygncrqz2swfoglcem)
 
 ## Summery
 
