@@ -1,4 +1,4 @@
-# Voting _ on 
+# Voting _ on *title*
 
 **2025**
 
@@ -8,7 +8,7 @@
 
 [IPFS Vote Metadata]()
 
-## Summery
+## Summary
 
 ## Conclusion
 

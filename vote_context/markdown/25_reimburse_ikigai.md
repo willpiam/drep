@@ -8,7 +8,7 @@
 
 [IPFS Vote Metadata](https://ipfs.io/ipfs/bafkreibq6w2y6nu7v5iczh2dnc6eutjitesbftxfk2hywrta65pffocpcm)
 
-## Summery
+## Summary
 
 Last year some people got together and made an info action basically saying “Cardano is pretty cool, Charles is pretty cool”, but they used a fancy Japanese word, Ikigai. It was a special moment and one of the first governance actions.
 
