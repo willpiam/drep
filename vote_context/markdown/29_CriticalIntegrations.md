@@ -1,4 +1,4 @@
-# Voting _ on *Cardano Critical Integrations Budget*
+# Voting YES on *Cardano Critical Integrations Budget*
 
 **November 28th 2025**
 [lnk](https://gov.tools/connected/governance_actions/8f54d021c6e6fcdd5a4908f10a7b092fa31cd94db2e809f2e06d7ffa4d78773d#0)
@@ -34,8 +34,12 @@ Additional notes:
 - If the allocated budget is not used at the end of the 24-month period, all remaining funds will be returned to the Cardano Treasury.
 -  It is currently not envisioned that the smart contract framework deployed earlier this year will be fully utilized, as this will likely result in disclosure of integration costs, which are typically confidential and protected by non-disclosure agreements.
 
+The proposal justifies itself well in the following excerpt:
+
+*Despite being a top-10 blockchain by market cap, Cardano’s Total Value Locked (TVL) as of November 25th, 2025 remains around $191.860.000 (Source: Defillama.com), which is still far below comparable ecosystems that maintain several billion dollars in DeFi usage. This gap highlights Cardano’s limited market reach and the absence of the core primitives that other networks treat as standard utilities. Without scaling these key components, Cardano risks falling further behind in attracting dApps, liquidity, institutional partners, and large-scale integrations such as tier-one stablecoins.*
 
 ## Conclusion
+
 
 
 Signed,
