@@ -8,7 +8,7 @@
 
 [IPFS Vote Metadata](https://ipfs.io/ipfs/bafkreif2446ea27ksxgndv7gzxijuhn2dkxmcslfsygncrqz2swfoglcem)
 
-## Summery
+## Summary
 
 The Cardano Foundation wants the community to commit to supporting their effort to acquire the rights to the `.ada` and `.cardano` domain names. They say nothing about sharing revenue from the sale of such domains with the treasury.
 

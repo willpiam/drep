@@ -8,7 +8,7 @@
 
 [IPFS Vote Metadata](https://ipfs.io/ipfs/bafkreies5jkklsrtwvt4sm3otu47xal3647mc2onhzoolzaeuzgturkvcy)
 
-## Summery
+## Summary
 
 Withdraw 1M ada to compensate the Constitutional Committee for the next year of service. Five of the seven seats are seeking compensation. Each of those five will receive 200K ada. 
 
