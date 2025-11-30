@@ -1,7 +1,9 @@
 
 # $computerman's dRep Platform
 
-₳₳₳₳₳₳₳₳₳₳₳
+₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳
+
+My typical flow is to create a markdown document in [vote_context/markdown](/vote_context/markdown) with two main sections: a summary of the proposal and a conclusion. I also include other useful links to my on-chain vote, my IPFS metadata, and the governance action itself. After creating this document and casting my vote, I upload it to GitHub and post a link to it on Twitter. GitHub renders markdown beautifully, making it very convenient for readers.
 
 ## Agenda 
 
