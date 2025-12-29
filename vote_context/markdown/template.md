@@ -13,7 +13,7 @@
 ## Conclusion
 
 
-Signed,
+Signed, <br>
 William Doyle
 
 Your friendly neighborhood DRep! <br>
