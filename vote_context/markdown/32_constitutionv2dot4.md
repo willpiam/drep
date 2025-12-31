@@ -25,6 +25,6 @@ I'm not going to approve this or any other constitutional revision with this man
 Signed, <br>
 William Doyle
 
-Your friendly neighborhood DRep! <br>
+Your friendly neighbourhood DRep! <br>
 $computerman <br>
 drep1yfpgzfymq6tt9c684e7vzata8r5pl4w84fmrjqeztdqw0sgpzw3nt
