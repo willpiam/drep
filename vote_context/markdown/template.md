@@ -1,10 +1,10 @@
 # Voting _ on *title*
 
-**2025**
+**2026**
 
-[]()
+[](https://cardanoscan.io/govAction/)
 
-[View Vote On-Chain]()
+[View Vote On-Chain](https://cardanoscan.io/vote/)
 
 [IPFS Vote Metadata]()
 
