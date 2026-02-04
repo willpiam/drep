@@ -14,7 +14,7 @@ Proposes a net change limit (NCL) of 350M ada to cover the period spanning Febru
 
 ## Conclusion
 
-Seems like a reasonable NCL for this period of time. It's approximately in line with previous values.
+Seems like a reasonable NCL for this period of time. It's approximately in line with previous values. I'm voting yes on this NCL proposal.
 
 Signed, <br>
 William Doyle
