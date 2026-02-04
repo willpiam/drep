@@ -8,6 +8,12 @@
 
 [IPFS Vote Metadata](https://ipfs.io/ipfs/bafkreidxsstxwth64wm6fstj3u7elhpeihk5ksix6lvtweetksx4pgw3we)
 
+## Summary
+
+Proposes a net change limit (NCL) of 350M ada to cover the period spanning February 13, 2026 to July 3, 2027. This is approximately 505 days, giving a maximum average daily burn rate of 693,069 ada per day.
+
+## Conclusion
+
 Seems like a reasonable NCL for this period of time. It's approximately in line with previous values.
 
 Signed, <br>
