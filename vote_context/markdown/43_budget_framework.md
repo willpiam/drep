@@ -4,9 +4,9 @@
 
 [gov_action1a95na44kgedjk3k64ajpfp4p9d9jj3sgzc6tt9nmnkvgj7c9nraqq7g4d2u](https://cardanoscan.io/govAction/gov_action1a95na44kgedjk3k64ajpfp4p9d9jj3sgzc6tt9nmnkvgj7c9nraqq7g4d2u)
 
-[View Vote On-Chain](https://cardanoscan.io/vote/)
+[View Vote On-Chain](https://cardanoscan.io/vote/e16743a20b7514b398316d34b1b1c95e173cd92cb8b89a448ae00c8d7e29089a)
 
-[IPFS Vote Metadata]()
+[IPFS Vote Metadata](https://ipfs.io/ipfs/bafkreideu6p3kjrrdjviewitukkrit34nle73ex2lv454d5rujj3437icu)
 
 ## Terminology
 
