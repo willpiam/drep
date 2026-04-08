@@ -1,16 +1,16 @@
-# Voting YES on *Cardano x Draper Dragon: Orion Fund*
+# Abstaining from voting on *Cardano x Draper Dragon: Orion Fund*
 
 **April 8th 2026**
 
 [gov_action13qr78nhrhetywapvx2wpm63y9uxpc2dc45zsu9gkncasxqhuhltqqqfu32x](https://cardanoscan.io/govAction/gov_action13qr78nhrhetywapvx2wpm63y9uxpc2dc45zsu9gkncasxqhuhltqqqfu32x)
 
-[View Vote On-Chain](https://cardanoscan.io/vote/74474d1e2fa3c02802bbffdad71bbf1f013d1efe48834870bafac54f16259a8b)
+[View Vote On-Chain](https://cardanoscan.io/vote/70f7c1b5f2b5cf60809e6b5573de1c9c027f54bc2dc8b78f58d9faf969fd971c)
 
+[metadata](https://ipnso-com.ipns.dweb.link/?cid=QmXrxYSGcdWpp5RpYX9cgV4gphVL5azQ42864dtyYi1gVY)
 
 ## Conclusion
 
-Voted yes. We should diversify treasury revenue. 
-
+Abstain because I am late and the proposal is going to pass with or without me. 
 
 Signed, <br/>
 William Doyle
