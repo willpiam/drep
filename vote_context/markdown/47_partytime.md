@@ -1,12 +1,12 @@
 # Voting Against Funding *Cardano Summit 2026 and TOKEN2049 Singapore*
 
-**April 13th 2026**
+**April 14th 2026**
 
 [gov_action1hkgl5l4fknsf7aktmcatkz6kfl7xpvn7rzh5vnxwexl0n3cc6zrsqt5459v](https://cardanoscan.io/govAction/gov_action1hkgl5l4fknsf7aktmcatkz6kfl7xpvn7rzh5vnxwexl0n3cc6zrsqt5459v)
 
-[View Vote On-Chain](https://cardanoscan.io/vote/)
+[View Vote On-Chain](https://cardanoscan.io/vote/a4e11fefa5c56c038150102f5ba2a3f1f67cf94fb9c6cd01cbd918c7e75b223c)
 
-[IPFS Vote Metadata]()
+[IPFS Vote Metadata](https://ipfs.io/ipfs/bafkreigcv5uennvhl54xknsf7bcw3mf36n4rdgbqfjbfa7xs5vkmm324wi)
 
 ## Summary 
 
