@@ -26,8 +26,7 @@
 
 ## Summery
 
-Nine treasury withdrawals from IOG totalling 
-
+Nine treasury withdrawals from IOG totalling ~162M ada (~$40M USD) 
 
 ## Important Citation
 
@@ -48,14 +47,13 @@ https://x.com/IOHK_Charles/status/2051376829949464792
 Sadly, this is the end result of a piecemeal roadmap. It's an iPhone by committee, with people deciding whether they prefer the fingerprint sensor to wireless charging. You end up with a bizarre, useless product.
 ```
 
-
 ## Statement
 
-There are a handful of people who, when they speak, I think it unwise not to listen. Charles is one such person. And his above statement makes this choice pretty easy. I do not believe in the "wisdom of the crowd" in all cases; a good many things are be developed by skilled individuals or teams. In cases of design and engineering we should seek world class designers and engineers. 
+There are a handful of people who, when they speak, I think it unwise not to listen to. Charles is one such person. His statement above makes this choice pretty easy.
 
-The long term success of Cardano is currently dependent on the continued efforts of IO. While we need to foster a wide ecosystem of R&D firms we cannot afford to jeprodize our relationship with our biggest contributer. IO is the most qualified team on earth to build Cardano.
+While we need to foster a wide ecosystem of R&D firms, we cannot afford to jeopardize our relationship with our biggest contributor. It is obvious and undeniable that the long-term success of Cardano is dependent on the continued efforts of IO.
 
-I am voting for all of these IO proposals because Charles has spoken clearly on the matter, and I think it would be unwise to disregard that. I know that technicaly Charles is biased in the matter, given that he stands to directly gain from these proposals. I understand how bias works. But having bias is far from the same thing as being driven by bias. 
+I am voting for all of these IO proposals because Charles has made it clear that he does not believe Cardano can be successful without each of them, and it would be unwise to disregard his intuition.
 
 Signed, <br/>
 William Doyle
