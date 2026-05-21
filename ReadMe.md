@@ -3,7 +3,11 @@
 
 ₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳₳
 
-My typical flow is to create a markdown document in [vote_context/markdown](/vote_context/markdown) with two main sections: a summary of the proposal and a conclusion. I also include other useful links to my on-chain vote, my IPFS metadata, and the governance action itself. After creating this document and casting my vote, I upload it to GitHub and post a link to it on Twitter. GitHub renders markdown beautifully, making it very convenient for readers.
+My typical flow is to create a markdown document in [vote_context/markdown](/vote_context/markdown) with two main sections: a summary of the proposal and a conclusion.
+
+## LLM Wiki
+
+A compounding knowledge base lives in [wiki/](wiki/) (see [llm-wiki.md](llm-wiki.md) and [AGENTS.md](AGENTS.md)). Drop sources in `wiki/raw/`, then use Cursor skills **wiki-ingest**, **wiki-query**, and **wiki-lint** to maintain it. I also include other useful links to my on-chain vote, my IPFS metadata, and the governance action itself. After creating this document and casting my vote, I upload it to GitHub and post a link to it on Twitter. GitHub renders markdown beautifully, making it very convenient for readers.
 
 ## Agenda 
 
