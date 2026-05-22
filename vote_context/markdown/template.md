@@ -19,4 +19,5 @@ William Doyle
 Your friendly neighbourhood DRep! <br/>
 $computerman <br/>
 drep1yfpgzfymq6tt9c684e7vzata8r5pl4w84fmrjqeztdqw0sgpzw3nt <br/>
-https://x.com/william00000010 <br/>
+[@william00000010 on 𝕏](https://x.com/william00000010) <br/>
+[contact@williamdoyle.ca](mailto:contact@williamdoyle.ca) <br/>
