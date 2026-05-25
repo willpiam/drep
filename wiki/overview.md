@@ -6,11 +6,17 @@ This wiki is the compounding knowledge base for [$computerman's DRep platform](.
 
 ## What lives here
 
-- **Entities** — IOG, Intersect, Cardano Foundation, proposers, committees
-- **Concepts** — NCL, treasury tax, constitution, budget frameworks, sponsorship norms
-- **Sources** — Summaries of proposals, articles, and reference material in `raw/`
+- **Entities** — IOG/IOR, Intersect, proposers, committees
+- **Concepts** — Cardano Vision, post-quantum readiness, Ouroboros/Leios, treasury delivery models
+- **Sources** — Summaries of proposals and reference material in `raw/`
 - **Proposals** — Cross-linked governance actions and voting patterns
 - **Analysis** — Comparisons and syntheses filed from wiki-query sessions
+
+## Current focus (May 2026)
+
+The first ingested source is **Cardano Vision 2026** from IO Research: a ₳32.9M treasury ask continuing the five-year research program approved in 2025. The program organizes work into seven packages under three themes—**post-quantum security**, **scalable architecture**, and **human-centred design**—with an explicit IOR → ARC → CBU pipeline to improve research-to-deployment conversion.
+
+Published DRep vote context records **YES** on this action ([vote 53](../vote_context/markdown/53_IOR_quantum.md)), aligned with earlier emphasis on post-quantum R&D in [2025 roadmap feedback](../vote_context/markdown/7a_roadmap.md). Vote rationale text in that file is still sparse; the wiki proposal page tracks open gaps (e.g. Chronos not named in the 2026 draft).
 
 ## Voting workflow (human)
 
