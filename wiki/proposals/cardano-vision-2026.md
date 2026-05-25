@@ -33,13 +33,13 @@ Several production paths are explicitly **out of scope** here and assigned to se
 
 ## DRep position
 
-Published vote context: [[vote_context/markdown/53_IOR_quantum.md]] — **YES** on *Cardano Vision 2026: Human Centred, Scalable, Post Quantum Secure - IO Research* (summary and conclusion sections not yet filled in vote markdown).
+Published vote context: [vote 53](../../vote_context/markdown/53_IOR.md) — **YES** on *Cardano Vision 2026: Human Centred, Scalable, Post Quantum Secure - IO Research* (summary and conclusion sections not yet filled in vote markdown).
 
-**Alignment with prior DRep priorities:** In the [2025 Product Committee roadmap feedback](vote_context/markdown/7a_roadmap.md), $computerman listed **post-quantum R&D** as sufficient to flip a tentative NO to YES, and also requested **Ouroboros Genesis** and **Ouroboros Chronos**. This proposal includes substantial [[concepts/post-quantum-cardano|post-quantum]] work (WP1.2) and mentions **Genesis** as in development, but does **not** name Chronos as a deliverable—worth tracking if that gap matters for future votes.
+**Alignment with prior DRep priorities:** In the [2025 Product Committee roadmap feedback](../../vote_context/markdown/7a_roadmap.md), $computerman listed **post-quantum R&D** as sufficient to flip a tentative NO to YES, and also requested **Ouroboros Genesis** and **Ouroboros Chronos**. This proposal includes substantial [[concepts/post-quantum-cardano|post-quantum]] work (WP1.2) and mentions **Genesis** as in development, but does **not** name Chronos as a deliverable—worth tracking if that gap matters for future votes.
 
 ## Open questions
 
-- How does this ₳32.9M tranche relate to the broader IOG 2026 withdrawal bundle (~₳162M across nine actions) in [[vote_context/markdown/49_iog_funding_2026.md]]?
+- How does this ₳32.9M tranche relate to the broader IOG 2026 withdrawal bundle (~₳162M across nine actions) in [vote 49](../../vote_context/markdown/49_iog_funding_2026.md)?
 - What measurable on-chain KPIs will Intersect report against (27M monthly txs, 3× throughput)?
 - Timeline and dependency for Genesis vs Peras/Leios deployment readiness claimed for 2026.
 
@@ -48,4 +48,4 @@ Published vote context: [[vote_context/markdown/53_IOR_quantum.md]] — **YES** 
 - [[concepts/ouroboros]] — consensus family central to WP1
 - [[concepts/leios]] — throughput upgrade; research vs engineering split
 - [[concepts/research-delivery-pipeline]] — IOR/ARC/CBU model
-- Legacy vote artifacts: `vote_context/markdown/53_IOR_quantum.md`
+- Legacy vote artifacts: `vote_context/markdown/53_IOR.md`

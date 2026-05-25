@@ -19,4 +19,4 @@ See [[proposals/cardano-vision-2026]] and [[sources/cardano-vision-2026-ior]]. C
 
 ## Related votes
 
-- [[vote_context/markdown/53_IOR_quantum.md]] — DRep YES (2026)
+- [vote 53](../../vote_context/markdown/53_IOR.md) — DRep YES (2026)

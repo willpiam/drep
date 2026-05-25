@@ -14,9 +14,11 @@ This wiki is the compounding knowledge base for [$computerman's DRep platform](.
 
 ## Current focus (May 2026)
 
-The first ingested source is **Cardano Vision 2026** from IO Research: a ₳32.9M treasury ask continuing the five-year research program approved in 2025. The program organizes work into seven packages under three themes—**post-quantum security**, **scalable architecture**, and **human-centred design**—with an explicit IOR → ARC → CBU pipeline to improve research-to-deployment conversion.
+The core ingested governance source is **Cardano Vision 2026** from IO Research: a ₳32.9M treasury ask continuing the five-year research program approved in 2025. The program organizes work into seven packages under three themes—**post-quantum security**, **scalable architecture**, and **human-centred design**—with an explicit IOR → ARC → CBU pipeline to improve research-to-deployment conversion.
 
-Published DRep vote context records **YES** on this action ([vote 53](../vote_context/markdown/53_IOR_quantum.md)), aligned with earlier emphasis on post-quantum R&D in [2025 roadmap feedback](../vote_context/markdown/7a_roadmap.md). Vote rationale text in that file is still sparse; the wiki proposal page tracks open gaps (e.g. Chronos not named in the 2026 draft).
+Published DRep vote context records **YES** on this action ([vote 53](../vote_context/markdown/53_IOR.md)), aligned with earlier emphasis on post-quantum R&D in [2025 roadmap feedback](../vote_context/markdown/7a_roadmap.md). Vote rationale text in that file is still sparse; the wiki proposal page tracks open gaps (e.g. Chronos not named in the 2026 draft).
+
+The wiki now also tracks external post-quantum warning sources. [[sources/brace-for-impact-ecdlp-challenges]] proposes a reproducible [[concepts/ecdlp-challenge-ladder]] for [[concepts/quantum-cryptanalysis]]. [[sources/securing-elliptic-curve-cryptocurrencies]] reports lower secp256k1 attack resource estimates, introduces [[concepts/blockchain-quantum-attack-modes]], and explicitly flags Cardano staking and voting keys as at-rest exposure surfaces. Together they strengthen the governance case for completing primitive assessment, Ouroboros security analysis, and migration planning before public quantum demonstrations reach high-risk rungs.
 
 ## Voting workflow (human)
 

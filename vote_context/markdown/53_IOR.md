@@ -1,16 +1,22 @@
 # Voting YES on *Cardano Vision 2026: Human Centred, Scalable, Post Quantum Secure - IO Research*
 
-**2026**
+**May 25th 2026**
 
 [gov_action1ttgs45ulfxs0jwkfrecystc3flduhszmyzk8wnd7yw5za77tsg9qq4afmus](https://cardanoscan.io/govAction/gov_action1ttgs45ulfxs0jwkfrecystc3flduhszmyzk8wnd7yw5za77tsg9qq4afmus)
 
-[View Vote On-Chain](https://cardanoscan.io/vote/)
+[View Vote On-Chain](https://cardanoscan.io/vote/4388f10ae5bc4ff5f69f931da7e65d49d2c6ac9ad82765819322dfda4fa9592d)
 
-[IPFS Vote Metadata]()
+[View 2nd Vote On-Chain (corrected metadata)](https://cardanoscan.io/vote/9b6edbc857887731aa9e55e1155885b167ba61a8ec737bec06e8261c66aebfb8)
+
+[IPFS Vote Metadata](https://ipfs.io/ipfs/bafkreidsdbyxvjfxlsx4v64mmuqxtxyryajzmdwxsao6xljg7t26cv3gkm)
+
+[IPFS Vote Metadata (corrected)](https://ipfs.io/ipfs/bafkreiehpzehwezv2ccfq4rgvckkzpc72mydug6u5xutigw6s4em3xi55i)
 
 ## Summary
 
-This proposal is an approximatly ₳33M withdrawal to be managed by Intersect and distributed to IOG and various subcontractors for seven work packages. 
+This proposal requests a withdrawal of approximately ₳33M, to be managed by Intersect and distributed to IOG and various subcontractors for seven work packages designed to further the research on which Cardano is built.
+
+## A Brief Review Of The Work Packages
 
 | Name | Main focus |
 |------|------------|
@@ -22,18 +28,14 @@ This proposal is an approximatly ₳33M withdrawal to be managed by Intersect an
 | Governance, Identity & Social Infrastructure | Governance incentives & DAO DSL, proof of personhood, verifiable credentials |
 | Delivery, Dissemination & Partnerships | Program management, R&D sessions, CIP translation, ecosystem communication (in-kind via IOG) |
 
-## Post Quantum
 
-Being uniquly qualified in the subject I wanted to talk a little bit about what I like about what is being proposed here and what I would like to see more of. This is one of the most significant threats to not only Cardano but the blockchain industry in general.
+## Conclusion 
 
-This proposal does not do enough to address the quantum threat. We cannot see this as the totality of or post quantum efforts this year. IO is a good team to direct this research & development effort but the itinary on these work packages does not aim to produce a comprehensive solution.
+Much of the success of Cardano can be attributed to its scientific approach. And I'm excited to see this proposal continue the research which got us this far. These work packages are very exciting. 
 
-We should be exploring a post quantum ouroborus implementation with a "ECC convenience" overlay layer isomorpich to the currently running instance of cardano. This way we can "drop down" to quantum secure operating at the drop of a hat
+I'm particularly excited to see the PQC elements of the first work package. A recent landmark paper from Google [1] urges *all vulnerable cryptocurrency communities to join the migration to PQC without delay*. I happen to know a little bit [2, 3, 4, 5] about this issue and I'm very happy to see it begin to be addressed. I am however fearful that this may be too little, too late. I hope IOG and the community will show even more emphasis on delivering post-quantum Cardano.
 
-## Conclusion
-
-Much of the success of Cardano can be attributed to the science-first approch taken to its construction. 
-
+I'm voting in favor of this proposal.
 
 Signed, <br/>
 William Doyle
@@ -46,6 +48,12 @@ drep1yfpgzfymq6tt9c684e7vzata8r5pl4w84fmrjqeztdqw0sgpzw3nt <br/>
 
 ## References
 
-- Dallaire-Demers, P.-L., Doyle, W., & Foo, T. (2026). *Brace for impact: ECDLP challenges for quantum cryptanalysis*. [arXiv:2508.14011](https://arxiv.org/abs/2508.14011) [quant-ph].
+1. Babbush, R., Zalcman, A., Gidney, C., Broughton, M., Khattar, T., Neven, H., Bergamaschi, T., Drake, J., & Boneh, D. (2026). *Securing elliptic curve cryptocurrencies against quantum vulnerabilities: Resource estimates and mitigations*. [arXiv:2603.28846](https://arxiv.org/abs/2603.28846) [quant-ph].
 
-- 
+2. Dallaire-Demers, P.L., Doyle, W., & Foo, T. (2026). *Brace for impact: ECDLP challenges for quantum cryptanalysis*. [arXiv:2508.14011](https://arxiv.org/abs/2508.14011) [quant-ph].
+
+3. Dallaire-Demers, P.L., & Doyle, W. (2023). *Post-quantum security for Cardano accounts*. [Catalyst Fund 10 proposal](https://projectcatalyst.io/funds/10/development-and-infrastructure/post-quantum-security-for-cardano-accounts).
+
+4. Dallaire-Demers, P.L., & Doyle, W. (live). *Anchor Vault: A post-quantum smart contract wallet for Ethereum*. [Chrome Web Store extension](https://chromewebstore.google.com/detail/anchor-vault/omifklijimcjhfiojhodcnfihkljeali).
+
+5. Doyle, W. (live). *EBP: Quantum-secure identity and email*. [Website](https://williamdoyle.ca/ebp/).
