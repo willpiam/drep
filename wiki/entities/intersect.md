@@ -2,17 +2,27 @@
 
 **Intersect** is a member-based organization that administers Cardano treasury execution on behalf of **Cardano Development Holdings (CDH)** under the Constitution. For major IO/IOG withdrawals it typically holds the off-chain legal contract, operates **Treasury Reserve Smart Contracts (TRSC)** and project-specific contracts (PSSC), and coordinates delivery assurance and community reporting.
 
-## Cardano Vision 2026 administration
+## Treasury administration pattern (2025–2026 proposals)
 
-Per [[sources/cardano-vision-2026-ior]]:
+Per [[sources/cardano-vision-2026-ior]] and [[sources/tweag-core-cardano-infrastructure-2026-2028]]:
 
-- Legal contract between Input Output and CDH; milestones agreed with Intersect
-- Sundae Labs treasury management framework; 2025 TRSC stake address documented in proposal appendix
-- Oversight Committee (2025): Sundae Labs, Cardano Foundation, Dquadrant, Xerberus, NMKR — verify admin actions on-chain
+- Legal contract between proposer and CDH; milestones agreed with Intersect
+- Sundae Labs treasury management framework (TRSC/PSSC); audited by TxPipe and MLabs
+- 2025 TRSC stake address: `stake17xzc8pt7fgf0lc0x7eq6z7z6puhsxmzktna7dluahrj6g6ghh5qjr`; migration to 2026 TRSC when established
+- Oversight Committee (2025): Sundae Labs, Cardano Foundation, Dquadrant, Xerberus, NMKR — verify admin actions on-chain without governance discretion
 - Third-party assurer reviews milestone deliverables; audit costs in proposal overhead
-- Community dashboard for TRSC/PSSC tracking; funds delegate to auto-abstain DRep when staked
+- Community dashboard for TRSC/PSSC tracking; funds delegate to auto-abstain DRep when staked; no SPO delegation
+
+### Administered proposals (ingested)
+
+| Proposal | Proposer | Ask |
+|----------|----------|-----|
+| [[proposals/cardano-vision-2026]] | [[entities/io-research|IO Research]] | ₳32.9M |
+| [[proposals/tweag-core-cardano-infrastructure-2026-2028]] | [[entities/tweag|Tweag]] | ₳39.8M |
 
 ## Related
 
 - [[proposals/cardano-vision-2026]]
+- [[proposals/tweag-core-cardano-infrastructure-2026-2028]]
 - [[entities/input-output-group]]
+- [[entities/tweag]]

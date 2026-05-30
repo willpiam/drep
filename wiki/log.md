@@ -39,3 +39,11 @@ Answered which deliverables correspond to each Cardano Vision 2026 work package 
 ## [2026-05-25] filing | Cardano Vision 2026 Work Package Deliverables
 
 Created analysis note mapping WP1-WP7 to their proposal deliverables.
+
+## [2026-05-25] ingest | Pebble & Ecosystem Maintenance: TypeScript Core of Cardano
+
+Ingested HLabs treasury proposal JSON: created source summary, proposal page, Harmonic Labs entity, Pebble concept, Cardano TypeScript tooling concept, and treasury escrow oversight concept. Updated index and overview.
+
+## [2026-05-30] ingest | Tweag Core Cardano Infrastructure: Treasury Withdrawal 2026–2028
+
+Ingested Tweag treasury proposal JSON (CIP-108/169): source summary, proposal page, Tweag entity, Peras/History Expiry/Hoarding Node concepts; updated Intersect, Ouroboros, Leios, research pipeline, treasury escrow oversight. Updated index and overview.

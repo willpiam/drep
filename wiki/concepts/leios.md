@@ -13,6 +13,8 @@ Cardano Vision 2026 ([[sources/cardano-vision-2026-ior]]) funds **IOR** work on:
 
 **Out of scope for IOR:** Productionisation in the **IO Consensus Initiative**—hard-fork preparation, parameter validation, large-scale testnet, red-teaming, production threat modelling.
 
+**Engineering complement:** [[entities/tweag|Tweag]]'s [[proposals/tweag-core-cardano-infrastructure-2026-2028|2026–2028 proposal]] extends the CTC conformance framework for Peras and Leios, investigates block costs under higher throughput, and delivers [[concepts/history-expiry|History Expiry]] to mitigate projected SPO storage growth (~1 GB/hour at 100–1000 TPS).
+
 ## Status (as of 2025 delivery, per proposal)
 
 - Prototype progressed; handed to engineering with a **CIP**

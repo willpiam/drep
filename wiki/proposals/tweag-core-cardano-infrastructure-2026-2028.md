@@ -1,0 +1,71 @@
+# Tweag Core Cardano Infrastructure 2026–2028
+
+**Type:** Treasury withdrawal (core L1 engineering)  
+**Proposer:** [[entities/tweag|Tweag by Modus Create]]  
+**Administrator:** [[entities/intersect|Intersect]] (on behalf of CDH)  
+**Source:** [[sources/tweag-core-cardano-infrastructure-2026-2028]]  
+**On-chain recipient:** `stake17xzc8pt7fgf0lc0x7eq6z7z6puhsxmzktna7dluahrj6g6ghh5qjr` (Intersect 2025 TRSC)
+
+Tweag requests **₳39,787,316** (~$9.95M) over two years to deliver 17 work packages focused on **[[concepts/peras|Peras]] mainnet deployment** and the engineering scaffolding required to safely activate Peras, [[concepts/history-expiry|History Expiry]], and related protocol upgrades alongside [[concepts/leios|Leios]] throughput growth.
+
+## Context
+
+| Item | Detail |
+|------|--------|
+| Total ask | ₳39,787,316 |
+| USD equivalent | ~$9,946,829 at ₳0.25/USD |
+| Duration | 2026–2028 (2 years) |
+| Work packages | 17 across 9 infrastructure areas |
+| Rate basis | $176/hr senior Cardano infrastructure engineers |
+| Prior Tweag allocation | ₳11,070,322.68 (TSC ID `680d1b63565577986442d24e`) |
+| Admin model | Intersect TRSC/PSSC; Sundae Labs framework; 3rd-party assurer |
+
+## Work packages (summary)
+
+| Area | Packages | Focus |
+|------|----------|-------|
+| Peras | v1, v2 | Mainnet cryptography, KillSwitch, pre-agreement, cooldown recovery |
+| Node economics | History Expiry | Partial-history nodes; SPO storage cost mitigation |
+| Resilience | Conformance testing, adversarial fork testing, mutation testing, block cost investigation | CTC for Peras/Leios; Genesis fork simulation; test adequacy |
+| Observability | Hoarding Node (4 packages) | Live deployment, distributed mode, consensus validation, tx collection |
+| Developer tooling | Plutus Script Re-Executor, Canonical Ledger State & Mithril | DApp debugging; CIP-0165 state snapshots |
+| Incident response | Hard Fork Mempool Bridger | Transaction preservation during fork incidents |
+| Maintenance | Genesis Sync Accelerator, Cardano Node Emulator | Protocol-version compatibility |
+
+Detailed per-package PDFs are linked from the source JSON references (IPFS bundle `QmNcegfkH3WFf8xgjrKKTH9YoMRdmkAYUvCwmJy514XxdK`).
+
+## Relationship to IOR research
+
+[[proposals/cardano-vision-2026|Cardano Vision 2026]] explicitly excludes production hard-fork work (IO Consensus Initiative scope). Tweag fills the complementary **engineering delivery** lane: mainnet Peras, History Expiry, testing infrastructure, and operational tooling. The proposal argues the 17 packages form one pipeline — Hoarding Node and testing scaffolding validate Peras/History Expiry changes that cannot be safely separated.
+
+## Governance and controls
+
+Same Intersect administration pattern as Cardano Vision 2026:
+
+- Legal contract between Tweag and CDH; milestones via Intersect
+- Sundae Labs TRSC/PSSC; 2025 TRSC stake address; migration to 2026 TRSC when established
+- Oversight Committee: Sundae Labs, Cardano Foundation, Dquadrant, Xerberus, NMKR
+- Funds delegate to auto-abstain DRep; no SPO delegation
+- 3rd-party assurer signs off milestones; community dashboard
+- Unspent funds returned at delivery end; proportional refund on scope reduction
+
+## DRep position
+
+No published vote context recorded in `vote_context/markdown/` at ingest time. Evaluate against prior emphasis on **Ouroboros Genesis** and **Peras/Leios deployment readiness** in [[concepts/ouroboros]] and roadmap feedback.
+
+## Open questions
+
+- What is the on-chain governance action ID once submitted?
+- How do Peras v1/v2 HFC windows align with IO Consensus Initiative and IOR research timelines?
+- Is ₳39.8M appropriately scoped relative to the broader IOG 2026 withdrawal bundle?
+- What measurable mainnet KPIs (finality latency, SPO storage reduction, conformance coverage) will milestones enforce?
+- How does Tweag's prior ₳11M delivery record compare to acceptance criteria for this expanded portfolio?
+
+## Related
+
+- [[entities/tweag]]
+- [[concepts/peras]], [[concepts/history-expiry]], [[concepts/hoarding-node]]
+- [[concepts/ouroboros]], [[concepts/leios]]
+- [[concepts/research-delivery-pipeline]] — IOR research vs engineering delivery split
+- [[concepts/treasury-escrow-oversight]]
+- [[proposals/cardano-vision-2026]]

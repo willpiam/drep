@@ -11,7 +11,7 @@
 | Genesis | **In development** | Secure bootstrapping without trusted checkpoints under dynamic participation |
 | Omega | Research | “Final form”: optimistic execution + multi-resource security |
 
-**Near-term upgrades on Praos:** [[concepts/leios|Leios]] (throughput) and **Peras** (settlement latency). IOR targets deployment readiness for Peras and Leios in **2026**; production hard-fork work sits outside IOR scope (IO Consensus Initiative).
+**Near-term upgrades on Praos:** [[concepts/leios|Leios]] (throughput) and [[concepts/peras|Peras]] (settlement latency). IOR targets deployment readiness for Peras and Leios in **2026**; production hard-fork work sits outside IOR scope (IO Consensus Initiative). [[entities/tweag|Tweag]]'s [[proposals/tweag-core-cardano-infrastructure-2026-2028|2026–2028 treasury proposal]] is the ingested engineering-delivery path for Peras mainnet (v1/v2), History Expiry, and related testing scaffolding.
 
 ## Research themes in Vision 2026 (WP1.1)
 
