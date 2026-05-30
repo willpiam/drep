@@ -19,22 +19,3 @@ drep1yfpgzfymq6tt9c684e7vzata8r5pl4w84fmrjqeztdqw0sgpzw3nt <br/>
 [@william00000010 on 𝕏](https://x.com/william00000010) <br/>
 [contact@williamdoyle.ca](mailto:contact@williamdoyle.ca) <br/>
 
-
-
-```
-
-# Voting YES on *Pebble & Ecosystem maintenance: TypeScript core of Cardano*
-
-
-For the same reasons outlined in [HLabs Funding](https://github.com/willpiam/drep/blob/master/vote_context/markdown/48_hlabs_funding.md) and [Gerolamo](https://github.com/willpiam/drep/blob/master/vote_context/markdown/52_gerolamo.md) I am voting in support of this proposal. TypeScript is a very common language. One of my favourites. Pebble should help further make development easier. Beyond that I think its important to keep firms like hlaps viable. 
-
-Signed, <br/>
-William Doyle
-
-Your friendly neighbourhood DRep! <br/>
-$computerman <br/>
-drep1yfpgzfymq6tt9c684e7vzata8r5pl4w84fmrjqeztdqw0sgpzw3nt <br/>
-[@william00000010 on 𝕏](https://x.com/william00000010) <br/>
-[contact@williamdoyle.ca](mailto:contact@williamdoyle.ca) <br/>
-
-```
