@@ -47,3 +47,19 @@ Ingested HLabs treasury proposal JSON: created source summary, proposal page, Ha
 ## [2026-05-30] ingest | Tweag Core Cardano Infrastructure: Treasury Withdrawal 2026–2028
 
 Ingested Tweag treasury proposal JSON (CIP-108/169): source summary, proposal page, Tweag entity, Peras/History Expiry/Hoarding Node concepts; updated Intersect, Ouroboros, Leios, research pipeline, treasury escrow oversight. Updated index and overview.
+
+## [2026-06-01] ingest | Tweag Core Cardano Infrastructure (PDF)
+
+Supplemental ingest of `wiki/raw/tweag.pdf`: filed [[analysis/tweag-2026-2028-work-package-deliverables]] with 17-package budget table and milestone summaries; enriched source page, Peras/History Expiry concepts, Tweag entity, and proposal page with PDF acceptance criteria and metrics.
+
+## [2026-06-01] query | Tweag proposer vs IOG
+
+Answered whether Tweag treasury withdrawal is an IOG proposal (no — Tweag is contractor; Intersect administers).
+
+## [2026-06-01] filing | Tweag Treasury Proposer vs IOG / IOR
+
+Created [[analysis/tweag-proposer-vs-iog]]; clarified [[proposals/tweag-core-cardano-infrastructure-2026-2028]].
+
+## [2026-06-01] query | Cardano Foundation role in Tweag proposal
+
+Answered CF involvement: TRSC Oversight Committee trusted entity only, not proposer or deliverer. Updated [[concepts/treasury-escrow-oversight]] and [[entities/intersect]].

@@ -8,6 +8,8 @@
 
 Tweag requests **₳39,787,316** (~$9.95M) over two years to deliver 17 work packages focused on **[[concepts/peras|Peras]] mainnet deployment** and the engineering scaffolding required to safely activate Peras, [[concepts/history-expiry|History Expiry]], and related protocol upgrades alongside [[concepts/leios|Leios]] throughput growth.
 
+This is **not** an IOG or IOR proposal: Tweag is the contracting party; Intersect administers on behalf of CDH. Long-standing IOG contractor history and CBU/ARK crypto subcontracts do not change proposer identity — see [[analysis/tweag-proposer-vs-iog]].
+
 ## Context
 
 | Item | Detail |
@@ -32,7 +34,20 @@ Tweag requests **₳39,787,316** (~$9.95M) over two years to deliver 17 work pac
 | Incident response | Hard Fork Mempool Bridger | Transaction preservation during fork incidents |
 | Maintenance | Genesis Sync Accelerator, Cardano Node Emulator | Protocol-version compatibility |
 
-Detailed per-package PDFs are linked from the source JSON references (IPFS bundle `QmNcegfkH3WFf8xgjrKKTH9YoMRdmkAYUvCwmJy514XxdK`).
+Per-package budgets, milestones, and acceptance criteria: [[analysis/tweag-2026-2028-work-package-deliverables]]. Individual work-package PDFs are linked from the source JSON references (IPFS bundle `QmNcegfkH3WFf8xgjrKKTH9YoMRdmkAYUvCwmJy514XxdK`). Full compiled proposal: `wiki/raw/tweag.pdf`.
+
+| Work package | Budget (₳) |
+|--------------|------------|
+| Peras v1 | 4,954,688 |
+| Peras v2 | 8,240,040 |
+| Plutus Script Re-Executor | 6,724,024 |
+| CTC Peras & Leios | 4,860,760 |
+| Hoarding Node (live) | 2,969,336 |
+| History Expiry | 2,816,016 |
+| Canonical ledger state & Mithril | 2,464,014 |
+| Hard Fork Mempool Bridger | 1,478,408 |
+| Other packages (8) | 5,259,777 |
+| **Total** | **39,787,316** |
 
 ## Relationship to IOR research
 
@@ -69,3 +84,4 @@ No published vote context recorded in `vote_context/markdown/` at ingest time. E
 - [[concepts/research-delivery-pipeline]] — IOR research vs engineering delivery split
 - [[concepts/treasury-escrow-oversight]]
 - [[proposals/cardano-vision-2026]]
+- [[analysis/tweag-2026-2028-work-package-deliverables]]

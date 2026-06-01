@@ -1,6 +1,6 @@
 # Tweag (Modus Create)
 
-**Tweag by Modus Create** is an engineering firm that has worked on Cardano core infrastructure since **January 2018**, including consensus and ledger teams, **Ouroboros Genesis** implementation, and **[[concepts/peras|Peras]]** design contributions.
+**Tweag by Modus Create** is an engineering firm (EURL Tweag since **2013**) that has worked on Cardano core infrastructure since **January 2018**, including consensus and ledger teams, **Ouroboros Genesis** implementation, and **[[concepts/peras|Peras]]** design contributions. **Modus Create** acquired Tweag in **2022**; formal audits on Cardano mission-critical code since **May 2021**.
 
 ## Position
 
@@ -13,7 +13,9 @@ Per [[sources/tweag-core-cardano-infrastructure-2026-2028]]:
 - **Ask:** ₳39,787,316 over 2026–2028 for 17 work packages (Peras mainnet, History Expiry, testing scaffolding, Hoarding Node, developer tooling, maintenance)
 - **Administrator:** [[entities/intersect|Intersect]] on behalf of CDH
 - **Prior treasury receipt:** ₳11,070,322.68 via Treasury Smart Contract ID `680d1b63565577986442d24e`
-- **Commitments:** Open-source deliverables; demos every 2 months at [tweag.github.io/cardano-website](https://tweag.github.io/cardano-website/); "ready-for-activation" posture for governance-dependent items (HFC, CIPs)
+- **Commitments:** Open-source deliverables; demos every 2 months at [tweag.github.io/cardano-website](https://tweag.github.io/cardano-website/); dedicated Discord and program Slack with IOG; "ready-for-activation" posture for governance-dependent items (HFC, CIPs)
+- **Administration:** Intersect as auditor of record; milestone-based fixed-price contracts preferred; TSC oversight for multi-supplier workstreams
+- **Deliverables map:** [[analysis/tweag-2026-2028-work-package-deliverables]]
 
 ## History
 

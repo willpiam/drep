@@ -9,7 +9,7 @@ Per [[sources/cardano-vision-2026-ior]] and [[sources/tweag-core-cardano-infrast
 - Legal contract between proposer and CDH; milestones agreed with Intersect
 - Sundae Labs treasury management framework (TRSC/PSSC); audited by TxPipe and MLabs
 - 2025 TRSC stake address: `stake17xzc8pt7fgf0lc0x7eq6z7z6puhsxmzktna7dluahrj6g6ghh5qjr`; migration to 2026 TRSC when established
-- Oversight Committee (2025): Sundae Labs, Cardano Foundation, Dquadrant, Xerberus, NMKR — verify admin actions on-chain without governance discretion
+- **Oversight Committee (2025 TRSC):** Sundae Labs, **Cardano Foundation**, Dquadrant, Xerberus, NMKR — co-sign Fund/Modify (2/5), Disperse/Reorganize (3/5), etc.; verify admin actions on-chain **without governance discretion** (not milestone technical acceptance; that is Intersect delivery assurance + 3rd-party assurer)
 - Third-party assurer reviews milestone deliverables; audit costs in proposal overhead
 - Community dashboard for TRSC/PSSC tracking; funds delegate to auto-abstain DRep when staked; no SPO delegation
 

@@ -1,9 +1,11 @@
 # Tweag Core Cardano Infrastructure: Treasury Withdrawal 2026–2028
 
-**Raw:** [../raw/bafkreifdoitcxw4anxadosoqi5y5ny647hym4u62gpyvkkuyg7wpnq6gbi.json](../raw/bafkreifdoitcxw4anxadosoqi5y5ny647hym4u62gpyvkkuyg7wpnq6gbi.json)  
-**Ingested:** 2026-05-30  
+**Raw (PDF):** [../raw/tweag.pdf](../raw/tweag.pdf) — *Cardano Budget 2026-2028 - Tweag's Proposals* (2025-03-31)  
+**Raw (on-chain JSON):** [../raw/bafkreifdoitcxw4anxadosoqi5y5ny647hym4u62gpyvkkuyg7wpnq6gbi.json](../raw/bafkreifdoitcxw4anxadosoqi5y5ny647hym4u62gpyvkkuyg7wpnq6gbi.json)  
+**Ingested:** 2026-05-30 (JSON); **2026-06-01** (PDF milestones and budgets)  
 **Full proposal (IPFS):** [ipfs://QmeXB2ZgyDSStkhPTCMwPTHCfTWU8RJJnVLc6KRKFQY4Ca](ipfs://QmeXB2ZgyDSStkhPTCMwPTHCfTWU8RJJnVLc6KRKFQY4Ca)  
-**On-chain recipient:** `stake17xzc8pt7fgf0lc0x7eq6z7z6puhsxmzktna7dluahrj6g6ghh5qjr` (Intersect 2025 TRSC)
+**On-chain recipient:** `stake17xzc8pt7fgf0lc0x7eq6z7z6puhsxmzktna7dluahrj6g6ghh5qjr` (Intersect 2025 TRSC)  
+**Deliverables map:** [[analysis/tweag-2026-2028-work-package-deliverables]]
 
 ## Summary
 
@@ -31,6 +33,7 @@ Tweag positions this as the engineering complement to IOR research: where [[prop
 - **Compliance:** NCL guardrail TREASURY-02a; unspent funds returned at delivery end; 3rd-party assurer for milestones; audit costs in overhead.
 - **Community:** Public demos every 2 months at [tweag.github.io/cardano-website](https://tweag.github.io/cardano-website/); dedicated Discord; program Slack with IOG and ecosystem contributors.
 - **Strategic pillars cited:** Pillar 1 (Infrastructure and Research Excellence); Pillar 5 (Ecosystem Sustainability and Resilience).
+- **PDF detail (2026-06-01):** Per-package budgets and milestone acceptance criteria; Peras v1 targets ≤5 min median settlement and ≤30% storage vs Praos; KillSwitch stability metric (no activation first 6 epochs); Plutus Script Re-Executor is largest line item (₳6.7M); History Expiry requires new CIP; Mempool Bridger targets ≥80% orphaned-tx re-inclusion in testnet scenarios; TSC multi-supplier coordination; EURL Tweag since 2013, Modus Create acquisition 2022.
 
 ## Wiki updates
 
@@ -40,3 +43,4 @@ Tweag positions this as the engineering complement to IOR research: where [[prop
 - Created [[concepts/peras]], [[concepts/history-expiry]], [[concepts/hoarding-node]]
 - Updated [[entities/intersect]], [[concepts/ouroboros]], [[concepts/leios]], [[concepts/treasury-escrow-oversight]], [[concepts/research-delivery-pipeline]]
 - Updated [[overview]], [[index]]
+- **2026-06-01:** PDF ingest — [[analysis/tweag-2026-2028-work-package-deliverables]]; enriched [[concepts/peras]], [[concepts/history-expiry]], [[entities/tweag]], [[proposals/tweag-core-cardano-infrastructure-2026-2028]]
