@@ -66,11 +66,13 @@ Same Intersect administration pattern as Cardano Vision 2026:
 
 ## DRep position
 
-No published vote context recorded in `vote_context/markdown/` at ingest time. Evaluate against prior emphasis on **Ouroboros Genesis** and **Peras/Leios deployment readiness** in [[concepts/ouroboros]] and roadmap feedback.
+Published vote context: [vote 56](../../vote_context/markdown/56_tweag.md) — **YES** on *Tweag Core Cardano Infrastructure: Treasury Withdrawal 2026–2028* (2026-06-01). Source summary: [[sources/vote-56-tweag-core-cardano-infrastructure-2026-2028]].
+
+**Rationale (summary):** Many delegates vote NO because of the **two-year timeline** and **bundled 17-package** structure. $computerman previously disfavored bundling but now accepts it when workstreams are interdependent ([[concepts/treasury-proposal-bundling]]). The two-year horizon is reasonable if continuous development through 2028 is required; proposer-stated success conditions should weigh in delegate judgment. The integrated pipeline argument (Peras + testing + History Expiry) aligns with the proposal's own framing and with prior wiki emphasis on **Peras/Leios deployment readiness** in [[concepts/ouroboros]].
+
+**On-chain:** [gov_action14u26vcn3wmcnhc5pqrt6494ypugr7c7f3e2ns60r32cntl6zjtxsqqgeu8p](https://cardanoscan.io/govAction/gov_action14u26vcn3wmcnhc5pqrt6494ypugr7c7f3e2ns60r32cntl6zjtxsqqgeu8p) · [vote record](https://cardanoscan.io/vote/e0d3fa958f8ecd0369ffc81b81cb4bcafea3b6a042f4981ddb231fd6f91d0ce0) · IPFS [bafkreidmxs5qzicttakxdeafwdl27cie5k4wgp3cvlkx7sdaoxsalwmfju](https://ipfs.io/ipfs/bafkreidmxs5qzicttakxdeafwdl27cie5k4wgp3cvlkx7sdaoxsalwmfju)
 
 ## Open questions
-
-- What is the on-chain governance action ID once submitted?
 - How do Peras v1/v2 HFC windows align with IO Consensus Initiative and IOR research timelines?
 - Is ₳39.8M appropriately scoped relative to the broader IOG 2026 withdrawal bundle?
 - What measurable mainnet KPIs (finality latency, SPO storage reduction, conformance coverage) will milestones enforce?
@@ -85,3 +87,6 @@ No published vote context recorded in `vote_context/markdown/` at ingest time. E
 - [[concepts/treasury-escrow-oversight]]
 - [[proposals/cardano-vision-2026]]
 - [[analysis/tweag-2026-2028-work-package-deliverables]]
+- [[concepts/treasury-proposal-bundling]]
+- [[sources/vote-56-tweag-core-cardano-infrastructure-2026-2028]]
+- Legacy vote artifact: `vote_context/markdown/56_tweag.md`

@@ -28,7 +28,7 @@ See [[analysis/tweag-2026-2028-work-package-deliverables]] for per-milestone acc
 
 ## Related votes
 
-No DRep vote context recorded yet for [[proposals/tweag-core-cardano-infrastructure-2026-2028]].
+- [[sources/vote-56-tweag-core-cardano-infrastructure-2026-2028]] — DRep **YES** (2026-06-01) on [[proposals/tweag-core-cardano-infrastructure-2026-2028]]; mainnet delivery funding for Peras v1/v2 is central to the rationale
 
 ## Open questions
 

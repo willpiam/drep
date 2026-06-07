@@ -43,6 +43,7 @@ _Governance topics, mechanisms, and recurring themes._
 | [concepts/quantum-cryptanalysis.md](concepts/quantum-cryptanalysis.md) | Shor/ECDLP threat model and Cardano migration planning horizon |
 | [concepts/research-delivery-pipeline.md](concepts/research-delivery-pipeline.md) | IOR → ARC → CBU TRL funnel and deliverable types |
 | [concepts/treasury-escrow-oversight.md](concepts/treasury-escrow-oversight.md) | Milestone escrow, oversight boards, and reporting controls for treasury withdrawals |
+| [concepts/treasury-proposal-bundling.md](concepts/treasury-proposal-bundling.md) | When multi-WP treasury actions are appropriate; DRep evolving view (vote 56) |
 
 ## Sources
 
@@ -55,6 +56,7 @@ _Summaries of ingested raw documents (one page per source)._
 | [sources/pebble-ecosystem-maintenance-typescript-core-cardano.md](sources/pebble-ecosystem-maintenance-typescript-core-cardano.md) | HLabs proposal: 4.6M ADA for Pebble and TypeScript ecosystem maintenance |
 | [sources/securing-elliptic-curve-cryptocurrencies.md](sources/securing-elliptic-curve-cryptocurrencies.md) | Google/Ethereum/Stanford paper: lower ECDLP resource estimates and blockchain quantum-risk taxonomy |
 | [sources/tweag-core-cardano-infrastructure-2026-2028.md](sources/tweag-core-cardano-infrastructure-2026-2028.md) | Tweag proposal: ₳39.8M, 17 WPs, Peras mainnet and core L1 engineering 2026–2028 |
+| [sources/vote-56-tweag-core-cardano-infrastructure-2026-2028.md](sources/vote-56-tweag-core-cardano-infrastructure-2026-2028.md) | DRep YES (vote 56): bundling, two-year horizon, proposer success conditions |
 
 ## Proposals
 
@@ -64,7 +66,7 @@ _Governance actions and vote-context syntheses._
 |------|---------|
 | [proposals/cardano-vision-2026.md](proposals/cardano-vision-2026.md) | Treasury withdrawal — Cardano Vision 2026; DRep YES (vote 53) |
 | [proposals/pebble-ecosystem-maintenance-2026.md](proposals/pebble-ecosystem-maintenance-2026.md) | Treasury withdrawal — Pebble and TypeScript ecosystem maintenance; DRep vote not yet recorded |
-| [proposals/tweag-core-cardano-infrastructure-2026-2028.md](proposals/tweag-core-cardano-infrastructure-2026-2028.md) | Treasury withdrawal — Tweag core L1 engineering (Peras, History Expiry, testing); DRep vote not yet recorded |
+| [proposals/tweag-core-cardano-infrastructure-2026-2028.md](proposals/tweag-core-cardano-infrastructure-2026-2028.md) | Treasury withdrawal — Tweag core L1 engineering (Peras, History Expiry, testing); DRep YES (vote 56) |
 
 ## Analysis
 

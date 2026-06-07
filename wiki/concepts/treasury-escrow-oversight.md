@@ -61,6 +61,7 @@ Per on-chain proposal metadata ([[sources/tweag-core-cardano-infrastructure-2026
 - [[proposals/pebble-ecosystem-maintenance-2026]]
 - [[proposals/cardano-vision-2026]] — Intersect/CDH-administered TRSC/PSSC with Oversight Committee and 3rd-party assurer
 - [[proposals/tweag-core-cardano-infrastructure-2026-2028]] — same Intersect administration model as Cardano Vision 2026
+- [[concepts/treasury-proposal-bundling]] — governance-action granularity vs milestone-level escrow control
 
 ## Open questions
 

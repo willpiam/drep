@@ -63,3 +63,7 @@ Created [[analysis/tweag-proposer-vs-iog]]; clarified [[proposals/tweag-core-car
 ## [2026-06-01] query | Cardano Foundation role in Tweag proposal
 
 Answered CF involvement: TRSC Oversight Committee trusted entity only, not proposer or deliverer. Updated [[concepts/treasury-escrow-oversight]] and [[entities/intersect]].
+
+## [2026-06-04] ingest | Vote 56 — Tweag Core Cardano Infrastructure 2026–2028
+
+Ingested `vote_context/markdown/56_tweag.md`: DRep YES on ₳39.8M / 17 WPs / 2026–2028; rationale on bundling, two-year horizon, and proposer success conditions. Created [[sources/vote-56-tweag-core-cardano-infrastructure-2026-2028]], [[concepts/treasury-proposal-bundling]]; updated proposal page, Peras, Tweag entity, Tweag source page, index, overview.

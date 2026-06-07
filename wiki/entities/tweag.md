@@ -17,6 +17,10 @@ Per [[sources/tweag-core-cardano-infrastructure-2026-2028]]:
 - **Administration:** Intersect as auditor of record; milestone-based fixed-price contracts preferred; TSC oversight for multi-supplier workstreams
 - **Deliverables map:** [[analysis/tweag-2026-2028-work-package-deliverables]]
 
+## Related votes
+
+- [[sources/vote-56-tweag-core-cardano-infrastructure-2026-2028]] — DRep **YES** (vote 56, 2026-06-01) on [[proposals/tweag-core-cardano-infrastructure-2026-2028]]
+
 ## History
 
 - Since 2018: consensus and ledger engineering on Cardano
