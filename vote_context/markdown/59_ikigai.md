@@ -1,12 +1,12 @@
 # Voting YES on *Reimburse Ikigai Info Governance Action Deposit.*
 
-**June 9th 2026**
+**June 10th 2026**
 
 [gov_action1654yj97lf7guxsh27phtknq2tsc4dajp95fh7vrucaltjy0502csq7qtkhq](https://cardanoscan.io/govAction/gov_action1654yj97lf7guxsh27phtknq2tsc4dajp95fh7vrucaltjy0502csq7qtkhq)
 
-[View Vote On-Chain](https://cardanoscan.io/vote/)
+[View Vote On-Chain](https://cardanoscan.io/vote/2a95ab2a1ebfb769ac8d19fa6c250da78ea13163f6ff689cb7dd8c030f25ec13)
 
-[IPFS Vote Metadata]()
+[IPFS Vote Metadata](https://bafkreieg4a4mhcbdi7p5gzpfukmda32qkdluka3ho5yss3wjjcbnqtveki.ipfs.inbrowser.link/)
 
 ## Statement
 
