@@ -8,6 +8,8 @@
 
 [IPFS Vote Metadata](https://bafkreieg4a4mhcbdi7p5gzpfukmda32qkdluka3ho5yss3wjjcbnqtveki.ipfs.inbrowser.link/)
 
+[Previous vote to do this](https://github.com/willpiam/drep/blob/master/vote_context/markdown/25_reimburse_ikigai.md)
+
 ## Statement
 
 I can't believe we didn't do this back in October!
