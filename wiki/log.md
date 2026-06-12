@@ -67,3 +67,11 @@ Answered CF involvement: TRSC Oversight Committee trusted entity only, not propo
 ## [2026-06-04] ingest | Vote 56 — Tweag Core Cardano Infrastructure 2026–2028
 
 Ingested `vote_context/markdown/56_tweag.md`: DRep YES on ₳39.8M / 17 WPs / 2026–2028; rationale on bundling, two-year horizon, and proposer success conditions. Created [[sources/vote-56-tweag-core-cardano-infrastructure-2026-2028]], [[concepts/treasury-proposal-bundling]]; updated proposal page, Peras, Tweag entity, Tweag source page, index, overview.
+
+## [2026-06-11] ingest | Eternl: Path to Sustainability (2026-2027)
+
+Ingested Eternl treasury proposal JSON: source summary, proposal page, Eternl and Tastenkunst entities, treasury payback model concept; updated treasury escrow oversight, Intersect, Cardano TypeScript tooling. Updated index and overview.
+
+## [2026-06-12] ingest | Reduce committeeMinSize from 7 to 5
+
+Ingested Intersect parameter-change JSON: source summary, proposal page, constitutional committee and committeeMinSize concepts, Civics Committee / TSC / Parameter Committee entities; updated Intersect. Vote 60 placeholder — no DRep position yet. Updated index and overview.

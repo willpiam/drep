@@ -10,6 +10,10 @@
 
 ## Summary
 
+Ask: ₳1,680,000 ($420k at $0.25/ADA) for 12 months (Aug 2026–Jul 2027) — 6 FTE at $70k each to keep Eternl running across web, extension, iOS, and Android.
+
+
+
 ## Conclusion
 
 

@@ -15,6 +15,10 @@
 | `plutus-machine` | CEK machine implementation for UPLC evaluation |
 | `uplc` | TypeScript/JavaScript representation of UPLC |
 
+## Wallet-native TypeScript stacks
+
+[[entities/eternl|Eternl]] is rewriting its core with a **custom TypeScript CBOR library** (planned BUSL-1.1 release to npm under `@eternl`), replacing CSL across the codebase per [[proposals/eternl-path-to-sustainability-2026-2027]]. This is parallel infrastructure to the Harmonic Labs ledger/UPLC stack — wallet-local encoding and transaction building rather than shared protocol libraries — but it expands the TypeScript dependency surface for Cardano client software.
+
 ## Downstream dependencies
 
 The proposal names Mesh, Lucid Evolution, and Midgard as downstream projects that depend on the Harmonic Labs stack directly or transitively. It also points to wallet integrations, indexers, dApp backends, and other production projects as affected consumers.
@@ -26,6 +30,7 @@ The maintenance argument is a public-goods argument: if core library updates are
 ## Related votes
 
 - [[proposals/pebble-ecosystem-maintenance-2026]]
+- [[proposals/eternl-path-to-sustainability-2026-2027]]
 
 ## Open questions
 

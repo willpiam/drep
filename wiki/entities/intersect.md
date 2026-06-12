@@ -19,6 +19,21 @@ Per [[sources/cardano-vision-2026-ior]] and [[sources/tweag-core-cardano-infrast
 |----------|----------|-----|
 | [[proposals/cardano-vision-2026]] | [[entities/io-research|IO Research]] | ₳32.9M |
 | [[proposals/tweag-core-cardano-infrastructure-2026-2028]] | [[entities/tweag|Tweag]] | ₳39.8M |
+| [[entities/eternl|Eternl]] (2025 budget) | [[entities/tastenkunst|Tastenkunst GmbH]] | ₳583,000 — funding period ends July 2026 |
+
+The 2026–2027 [[proposals/eternl-path-to-sustainability-2026-2027]] proposal shifts Eternl fund administration from Intersect to Tastenkunst self-administration with a [[concepts/treasury-payback-model|revenue payback]] model.
+
+## Governance parameter proposals
+
+Intersect also coordinates **parameter-change** governance actions through internal committees:
+
+| Committee | Role |
+|-----------|------|
+| [[entities/civics-committee|Civics Committee]] | Constitutional process and CC operations |
+| [[entities/technical-steering-committee|Technical Steering Committee]] | Technical approval for protocol-impacting actions |
+| [[entities/parameter-committee|Parameter Committee]] | PCP review and recommendations |
+
+**[[proposals/committee-min-size-7-to-5]]** (2026): Intersect proposes reducing [[concepts/committee-min-size|`committeeMinSize`]] from 7 to 5 for [[concepts/constitutional-committee|Constitutional Committee]] operational resilience. Civics approved 2026-03-13; TSC approved 2026-06-03. Resubmission after a prior action collided with another parameter change. Intersect also facilitates periodic CC elections targeting **7 seats**.
 
 ## Related
 
@@ -26,3 +41,10 @@ Per [[sources/cardano-vision-2026-ior]] and [[sources/tweag-core-cardano-infrast
 - [[proposals/tweag-core-cardano-infrastructure-2026-2028]]
 - [[entities/input-output-group]]
 - [[entities/tweag]]
+- [[entities/eternl]]
+- [[entities/tastenkunst]]
+- [[entities/civics-committee]]
+- [[entities/technical-steering-committee]]
+- [[entities/parameter-committee]]
+- [[proposals/committee-min-size-7-to-5]]
+- [[concepts/constitutional-committee]]

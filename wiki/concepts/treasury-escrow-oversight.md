@@ -31,6 +31,14 @@ The proposal commits to:
 - a public transaction journal for treasury withdrawal, disbursement, reorganizations, and sweeps;
 - acceptance criteria tied to public releases, CI status, benchmark submissions, and documentation artifacts.
 
+## Self-administered operational grant (Eternl)
+
+[[proposals/eternl-path-to-sustainability-2026-2027]] uses neither milestone escrow nor Intersect TRSC. [[entities/tastenkunst|Tastenkunst GmbH]] self-administers a **non-milestone** 12-month operational withdrawal: funds convert to stablecoins in a public company wallet, with **[[concepts/treasury-payback-model|biannual surplus repayments]]** tied to Pro subscription revenue rather than deliverable acceptance.
+
+Transparency commitments include on-chain Pro-plan metadata, public earnings reports, and published repayment transaction hashes. There is no independent oversight board or smart-contract release schedule in this proposal.
+
+The prior 2025 Eternl treasury withdrawal (₳583,000) was **Intersect-administered**; the 2026–2027 proposal shifts administration to Tastenkunst directly.
+
 ## Intersect TRSC model (Cardano Vision, Tweag)
 
 For [[proposals/cardano-vision-2026]] and [[proposals/tweag-core-cardano-infrastructure-2026-2028]], withdrawn ADA flows through Intersect’s **Treasury Reserve Smart Contract (TRSC)** and project-specific **PSSC** contracts (Sundae Labs framework). This is a different pattern from Pebble’s vendor-specific `treasury.ak` / `vendor.ak` board above.
@@ -62,6 +70,7 @@ Per on-chain proposal metadata ([[sources/tweag-core-cardano-infrastructure-2026
 - [[proposals/cardano-vision-2026]] — Intersect/CDH-administered TRSC/PSSC with Oversight Committee and 3rd-party assurer
 - [[proposals/tweag-core-cardano-infrastructure-2026-2028]] — same Intersect administration model as Cardano Vision 2026
 - [[concepts/treasury-proposal-bundling]] — governance-action granularity vs milestone-level escrow control
+- [[proposals/eternl-path-to-sustainability-2026-2027]] — self-administered operational grant with revenue payback (no milestone escrow)
 
 ## Open questions
 

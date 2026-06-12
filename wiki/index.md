@@ -22,6 +22,11 @@ _Organizations, people, and governance bodies._
 | [entities/intersect.md](entities/intersect.md) | Treasury administration, TRSC/PSSC, delivery assurance |
 | [entities/pauli-group.md](entities/pauli-group.md) | Pauli Group — ECDLP challenge benchmarks and quantum cryptanalysis migration warning |
 | [entities/tweag.md](entities/tweag.md) | Tweag by Modus Create — core L1 engineering since 2018; Peras/Genesis delivery |
+| [entities/eternl.md](entities/eternl.md) | Eternl — non-custodial Cardano light wallet; governance UI; Pro subscription sustainability path |
+| [entities/tastenkunst.md](entities/tastenkunst.md) | Tastenkunst GmbH — Eternl legal entity and self-administrator for operational treasury grants |
+| [entities/civics-committee.md](entities/civics-committee.md) | Intersect Civics Committee — constitutional process; approved committeeMinSize proposal |
+| [entities/technical-steering-committee.md](entities/technical-steering-committee.md) | Intersect TSC — technical approval for protocol governance actions |
+| [entities/parameter-committee.md](entities/parameter-committee.md) | Intersect Parameter Committee — PCP review for protocol parameter changes |
 
 ## Concepts
 
@@ -44,6 +49,9 @@ _Governance topics, mechanisms, and recurring themes._
 | [concepts/research-delivery-pipeline.md](concepts/research-delivery-pipeline.md) | IOR → ARC → CBU TRL funnel and deliverable types |
 | [concepts/treasury-escrow-oversight.md](concepts/treasury-escrow-oversight.md) | Milestone escrow, oversight boards, and reporting controls for treasury withdrawals |
 | [concepts/treasury-proposal-bundling.md](concepts/treasury-proposal-bundling.md) | When multi-WP treasury actions are appropriate; DRep evolving view (vote 56) |
+| [concepts/treasury-payback-model.md](concepts/treasury-payback-model.md) | Voluntary treasury repayment from commercial revenue; Eternl Pro-plan payback schedule |
+| [concepts/constitutional-committee.md](concepts/constitutional-committee.md) | CC role in ratifying parameter, constitution, treasury, and hard-fork actions |
+| [concepts/committee-min-size.md](concepts/committee-min-size.md) | On-chain minimum CC membership; operability floor and voting-threshold trade-offs |
 
 ## Sources
 
@@ -57,6 +65,8 @@ _Summaries of ingested raw documents (one page per source)._
 | [sources/securing-elliptic-curve-cryptocurrencies.md](sources/securing-elliptic-curve-cryptocurrencies.md) | Google/Ethereum/Stanford paper: lower ECDLP resource estimates and blockchain quantum-risk taxonomy |
 | [sources/tweag-core-cardano-infrastructure-2026-2028.md](sources/tweag-core-cardano-infrastructure-2026-2028.md) | Tweag proposal: ₳39.8M, 17 WPs, Peras mainnet and core L1 engineering 2026–2028 |
 | [sources/vote-56-tweag-core-cardano-infrastructure-2026-2028.md](sources/vote-56-tweag-core-cardano-infrastructure-2026-2028.md) | DRep YES (vote 56): bundling, two-year horizon, proposer success conditions |
+| [sources/eternl-path-to-sustainability-2026-2027.md](sources/eternl-path-to-sustainability-2026-2027.md) | Eternl proposal: ₳1.68M, 12-month ops, Pro subscriptions, treasury payback model |
+| [sources/reduce-committeeminsize-7-to-5.md](sources/reduce-committeeminsize-7-to-5.md) | Intersect parameter change: committeeMinSize 7→5 for CC operational resilience |
 
 ## Proposals
 
@@ -67,6 +77,8 @@ _Governance actions and vote-context syntheses._
 | [proposals/cardano-vision-2026.md](proposals/cardano-vision-2026.md) | Treasury withdrawal — Cardano Vision 2026; DRep YES (vote 53) |
 | [proposals/pebble-ecosystem-maintenance-2026.md](proposals/pebble-ecosystem-maintenance-2026.md) | Treasury withdrawal — Pebble and TypeScript ecosystem maintenance; DRep vote not yet recorded |
 | [proposals/tweag-core-cardano-infrastructure-2026-2028.md](proposals/tweag-core-cardano-infrastructure-2026-2028.md) | Treasury withdrawal — Tweag core L1 engineering (Peras, History Expiry, testing); DRep YES (vote 56) |
+| [proposals/eternl-path-to-sustainability-2026-2027.md](proposals/eternl-path-to-sustainability-2026-2027.md) | Treasury withdrawal — Eternl wallet operations; self-administered with Pro revenue payback; DRep vote pending |
+| [proposals/committee-min-size-7-to-5.md](proposals/committee-min-size-7-to-5.md) | Parameter change — committeeMinSize 7→5; Intersect Civics/TSC; DRep vote pending (vote 60) |
 
 ## Analysis
 
