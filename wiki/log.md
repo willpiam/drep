@@ -75,3 +75,9 @@ Ingested Eternl treasury proposal JSON: source summary, proposal page, Eternl an
 ## [2026-06-12] ingest | Reduce committeeMinSize from 7 to 5
 
 Ingested Intersect parameter-change JSON: source summary, proposal page, constitutional committee and committeeMinSize concepts, Civics Committee / TSC / Parameter Committee entities; updated Intersect. Vote 60 placeholder — no DRep position yet. Updated index and overview.
+
+## [2026-06-13] query | Eternl 6 FTE justification
+
+## [2026-06-13] filing | Eternl 6 FTE staffing justification
+
+Proposal states 6.0 FTE at $70k and extensive delivery scope but no role-by-role headcount model. Filed [[analysis/eternl-fte-staffing-justification]]; updated proposal open questions and index.

@@ -90,6 +90,7 @@ _Comparisons, queries filed back, and exploratory write-ups._
 | [analysis/google-crqc-timeline.md](analysis/google-crqc-timeline.md) | Google paper does not forecast a CRQC calendar year; recommends immediate preparation under uncertain, architecture-dependent arrival. |
 | [analysis/tweag-2026-2028-work-package-deliverables.md](analysis/tweag-2026-2028-work-package-deliverables.md) | Per-package budgets, milestones, and Peras v1 success metrics from Tweag PDF proposal |
 | [analysis/tweag-proposer-vs-iog.md](analysis/tweag-proposer-vs-iog.md) | Tweag treasury withdrawal is contracted to Tweag, not IOG/IOR; Intersect is administrator only |
+| [analysis/eternl-fte-staffing-justification.md](analysis/eternl-fte-staffing-justification.md) | Eternl proposal states 6 FTE / $420k but lacks role-by-role headcount rationale |
 
 ## Legacy vote context
 

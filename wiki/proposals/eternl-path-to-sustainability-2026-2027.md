@@ -77,6 +77,7 @@ No completed DRep vote context is currently recorded.
 
 ## Open questions
 
+- The proposal states **6.0 FTE at $70k** across a **10-person** team but does not justify that headcount with a role breakdown or workload model — see [[analysis/eternl-fte-staffing-justification]].
 - Is voluntary payback without smart-contract escrow sufficient accountability for ₳1.68M?
 - How should DReps weigh closed-source UI vs npm-published libraries and planned Hub open source?
 - Does the ~$133k shortfall from 2025 funding justify a larger 2026 ask, or indicate treasury execution risk?
