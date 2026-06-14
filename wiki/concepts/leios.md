@@ -15,6 +15,8 @@ Cardano Vision 2026 ([[sources/cardano-vision-2026-ior]]) funds **IOR** work on:
 
 **Engineering complement:** [[entities/tweag|Tweag]]'s [[proposals/tweag-core-cardano-infrastructure-2026-2028|2026–2028 proposal]] extends the CTC conformance framework for Peras and Leios, investigates block costs under higher throughput, and delivers [[concepts/history-expiry|History Expiry]] to mitigate projected SPO storage growth (~1 GB/hour at 100–1000 TPS).
 
+**L2 complement:** [[concepts/hydra|Hydra]] state channels address sub-second finality and near-zero fees that L1 upgrades alone cannot reach (scaling trilemma). [[proposals/io-hydra|IO: Hydra]] funds v2 hardening for production users while Leios/Peras expand base-layer throughput and finality.
+
 ## Status (as of 2025 delivery, per proposal)
 
 - Prototype progressed; handed to engineering with a **CIP**
@@ -30,4 +32,6 @@ Cardano Vision 2026 ([[sources/cardano-vision-2026-ior]]) funds **IOR** work on:
 ## Related
 
 - [[proposals/cardano-vision-2026]]
+- [[proposals/io-hydra]]
+- [[concepts/hydra]]
 - [[entities/io-research]]

@@ -11,6 +11,8 @@
 
 IOR targets **2026 deployment readiness**; production hard-fork work is explicitly out of IOR scope. Tweag's 2026–2028 proposal is the primary treasury-funded **mainnet delivery** path ingested in this wiki.
 
+**L2 complement:** [[concepts/hydra|Hydra]] addresses sub-second finality and near-zero fees for high-performance apps that Peras (~2 min) and Praos (~12 min) cannot match; see [[proposals/io-hydra]].
+
 ## Tweag delivery scope (2026–2028)
 
 Per [[sources/tweag-core-cardano-infrastructure-2026-2028]]:
@@ -40,6 +42,8 @@ See [[analysis/tweag-2026-2028-work-package-deliverables]] for per-milestone acc
 
 - [[concepts/ouroboros]]
 - [[concepts/leios]]
+- [[concepts/hydra]]
 - [[entities/tweag]], [[entities/io-research]]
 - [[proposals/tweag-core-cardano-infrastructure-2026-2028]]
+- [[proposals/io-hydra]]
 - [[proposals/cardano-vision-2026]]

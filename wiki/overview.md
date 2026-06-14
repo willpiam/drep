@@ -7,7 +7,7 @@ This wiki is the compounding knowledge base for [$computerman's DRep platform](.
 ## What lives here
 
 - **Entities** — IOG/IOR, Harmonic Labs, Intersect, proposers, committees
-- **Concepts** — Cardano Vision, post-quantum readiness, Ouroboros/Leios, Pebble/TypeScript tooling, treasury delivery models
+- **Concepts** — Cardano Vision, post-quantum readiness, Ouroboros/Leios/Peras/Hydra, Pebble/TypeScript tooling, treasury delivery models
 - **Sources** — Summaries of proposals and reference material in `raw/`
 - **Proposals** — Cross-linked governance actions and voting patterns
 - **Analysis** — Comparisons and syntheses filed from wiki-query sessions
@@ -29,6 +29,8 @@ Published DRep vote context records **YES** on this action ([vote 56](../vote_co
 A fourth 2026 treasury source is [[sources/eternl-path-to-sustainability-2026-2027]]: [[entities/eternl]] / [[entities/tastenkunst]] requests **₳1,680,000** ($420k at $0.25/ADA) for 12 months of wallet operations while rolling out **Pro subscriptions** as a sustainability path. This uses a **[[concepts/treasury-payback-model|revenue payback]]** model (biannual surplus returns) rather than milestone escrow or Intersect TRSC administration — contrasting with Pebble's SundaeSwap escrow and Tweag's Intersect/CDH contract pattern. Eternl claims 10–18% of mainnet transactions and positions itself as the only wallet with comprehensive in-app governance tooling. No DRep vote context is recorded yet.
 
 A governance-parameter source is [[sources/reduce-committeeminsize-7-to-5]]: [[entities/intersect]] (Civics + TSC, Parameter Committee PCP-005) proposes lowering **`committeeMinSize`** from **7** to **5** so the [[concepts/constitutional-committee|Constitutional Committee]] can keep operating if one or two members depart. The seven-member body currently equals the minimum, so a single resignation halts CC-dependent actions. The change is a resubmission after a prior collision with another parameter action; enactment depends temporally on a Plutus cost-model change for the van Rossem hard fork. Trade-off: easier blocking at effective size 5 (2/3 threshold) vs catastrophic governance halt. Intersect elections still target 7 seats. DRep vote context is a placeholder ([vote 60](../vote_context/markdown/60_committeeMinSize.md)).
+
+A fifth 2026 treasury source is [[sources/io-hydra]]: [[entities/input-output-group|IOG]] requests **₳5,100,781** to harden **[[concepts/hydra|Hydra]] v2** — Cardano's production state-channel L2. Four workstreams cover performance (2–10× snapshot gains), operational excellence, ecosystem support, and DevX through Q3–Q4 2026. Production users include Delta DeFi, Masumi, Intersect voting, Blockfrost, and Glacier Drop. The proposal frames Hydra as closing L1 finality/cost gaps that [[concepts/leios|Leios]] and [[concepts/peras|Peras]] cannot fully address due to the scaling trilemma, while complementing L1 upgrades. Intersect administers via TRSC/PSSC. Published DRep vote context records **YES** ([vote 62](../vote_context/markdown/62_ioHydra.md), 2026-06-14); rationale text is still sparse.
 
 ## Voting workflow (human)
 

@@ -39,6 +39,7 @@ _Governance topics, mechanisms, and recurring themes._
 | [concepts/cardano-typescript-tooling.md](concepts/cardano-typescript-tooling.md) | Cardano TypeScript tooling — HLabs libraries and downstream SDK/application dependency surface |
 | [concepts/ecdlp-challenge-ladder.md](concepts/ecdlp-challenge-ladder.md) | Reproducible secpkk1 ECDLP rungs from 6 to 256 bits |
 | [concepts/history-expiry.md](concepts/history-expiry.md) | Partial-history nodes; SPO storage economics under Leios throughput |
+| [concepts/hydra.md](concepts/hydra.md) | State-channel L2 — sub-second finality, isomorphic Plutus; production users and IO v2 hardening ask |
 | [concepts/hoarding-node.md](concepts/hoarding-node.md) | Network observability for orphaned blocks, mempool anomalies, adversarial behavior |
 | [concepts/leios.md](concepts/leios.md) | Throughput upgrade; IOR research vs IO engineering split |
 | [concepts/ouroboros.md](concepts/ouroboros.md) | PoS consensus family: Praos, Genesis, Omega, Peras |
@@ -66,6 +67,7 @@ _Summaries of ingested raw documents (one page per source)._
 | [sources/tweag-core-cardano-infrastructure-2026-2028.md](sources/tweag-core-cardano-infrastructure-2026-2028.md) | Tweag proposal: ₳39.8M, 17 WPs, Peras mainnet and core L1 engineering 2026–2028 |
 | [sources/vote-56-tweag-core-cardano-infrastructure-2026-2028.md](sources/vote-56-tweag-core-cardano-infrastructure-2026-2028.md) | DRep YES (vote 56): bundling, two-year horizon, proposer success conditions |
 | [sources/eternl-path-to-sustainability-2026-2027.md](sources/eternl-path-to-sustainability-2026-2027.md) | Eternl proposal: ₳1.68M, 12-month ops, Pro subscriptions, treasury payback model |
+| [sources/io-hydra.md](sources/io-hydra.md) | IOG Hydra proposal: ₳5.1M, v2 hardening, four workstreams, production L2 users |
 | [sources/reduce-committeeminsize-7-to-5.md](sources/reduce-committeeminsize-7-to-5.md) | Intersect parameter change: committeeMinSize 7→5 for CC operational resilience |
 
 ## Proposals
@@ -78,6 +80,7 @@ _Governance actions and vote-context syntheses._
 | [proposals/pebble-ecosystem-maintenance-2026.md](proposals/pebble-ecosystem-maintenance-2026.md) | Treasury withdrawal — Pebble and TypeScript ecosystem maintenance; DRep vote not yet recorded |
 | [proposals/tweag-core-cardano-infrastructure-2026-2028.md](proposals/tweag-core-cardano-infrastructure-2026-2028.md) | Treasury withdrawal — Tweag core L1 engineering (Peras, History Expiry, testing); DRep YES (vote 56) |
 | [proposals/eternl-path-to-sustainability-2026-2027.md](proposals/eternl-path-to-sustainability-2026-2027.md) | Treasury withdrawal — Eternl wallet operations; self-administered with Pro revenue payback; DRep vote pending |
+| [proposals/io-hydra.md](proposals/io-hydra.md) | Treasury withdrawal — Hydra v2 hardening; IOG + Intersect admin; DRep YES (vote 62) |
 | [proposals/committee-min-size-7-to-5.md](proposals/committee-min-size-7-to-5.md) | Parameter change — committeeMinSize 7→5; Intersect Civics/TSC; DRep vote pending (vote 60) |
 
 ## Analysis

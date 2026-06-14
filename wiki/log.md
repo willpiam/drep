@@ -81,3 +81,7 @@ Ingested Intersect parameter-change JSON: source summary, proposal page, constit
 ## [2026-06-13] filing | Eternl 6 FTE staffing justification
 
 Proposal states 6.0 FTE at $70k and extensive delivery scope but no role-by-role headcount model. Filed [[analysis/eternl-fte-staffing-justification]]; updated proposal open questions and index.
+
+## [2026-06-14] ingest | IO: Hydra
+
+Ingested IOG Hydra treasury proposal JSON: source summary, proposal page with DRep YES (vote 62), Hydra concept; updated IOG treasury history, Intersect administered proposals, Leios/Peras L2 complement. Updated index and overview.
