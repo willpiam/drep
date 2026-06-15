@@ -53,6 +53,8 @@ _Governance topics, mechanisms, and recurring themes._
 | [concepts/treasury-payback-model.md](concepts/treasury-payback-model.md) | Voluntary treasury repayment from commercial revenue; Eternl Pro-plan payback schedule |
 | [concepts/constitutional-committee.md](concepts/constitutional-committee.md) | CC role in ratifying parameter, constitution, treasury, and hard-fork actions |
 | [concepts/committee-min-size.md](concepts/committee-min-size.md) | On-chain minimum CC membership; operability floor and voting-threshold trade-offs |
+| [concepts/plutus-cost-models.md](concepts/plutus-cost-models.md) | On-chain CPU/memory costs per Plutus builtin; PCM guardrails; benchmarking process |
+| [concepts/van-rossem-hard-fork.md](concepts/van-rossem-hard-fork.md) | Protocol Version 11 hard fork; new Plutus primitives; governance dependencies |
 
 ## Sources
 
@@ -69,6 +71,7 @@ _Summaries of ingested raw documents (one page per source)._
 | [sources/eternl-path-to-sustainability-2026-2027.md](sources/eternl-path-to-sustainability-2026-2027.md) | Eternl proposal: ₳1.68M, 12-month ops, Pro subscriptions, treasury payback model |
 | [sources/io-hydra.md](sources/io-hydra.md) | IOG Hydra proposal: ₳5.1M, v2 hardening, four workstreams, production L2 users |
 | [sources/reduce-committeeminsize-7-to-5.md](sources/reduce-committeeminsize-7-to-5.md) | Intersect parameter change: committeeMinSize 7→5 for CC operational resilience |
+| [sources/update-plutus-cost-models.md](sources/update-plutus-cost-models.md) | Intersect parameter change: Plutus V1/V2/V3 cost models for van Rossem hard fork |
 
 ## Proposals
 
@@ -82,6 +85,7 @@ _Governance actions and vote-context syntheses._
 | [proposals/eternl-path-to-sustainability-2026-2027.md](proposals/eternl-path-to-sustainability-2026-2027.md) | Treasury withdrawal — Eternl wallet operations; self-administered with Pro revenue payback; DRep vote pending |
 | [proposals/io-hydra.md](proposals/io-hydra.md) | Treasury withdrawal — Hydra v2 hardening; IOG + Intersect admin; DRep YES (vote 62) |
 | [proposals/committee-min-size-7-to-5.md](proposals/committee-min-size-7-to-5.md) | Parameter change — committeeMinSize 7→5; Intersect Civics/TSC; DRep vote pending (vote 60) |
+| [proposals/update-plutus-cost-models.md](proposals/update-plutus-cost-models.md) | Parameter change — Plutus V1/V2/V3 cost models; van Rossem prep; DRep YES (vote 63) |
 
 ## Analysis
 

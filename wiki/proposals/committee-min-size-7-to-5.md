@@ -24,7 +24,7 @@ Setting the minimum to **5** allows the committee to keep operating with up to t
 
 ## Dependencies
 
-**Temporal dependency only:** ratification requires enactment of a separate Plutus cost-model parameter change for the **van Rossem** hard fork (`gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r`). No technical interaction between the parameter updates.
+**Temporal dependency only:** ratification requires enactment of [[proposals/update-plutus-cost-models]] (`gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r`) for the **[[concepts/van-rossem-hard-fork|van Rossem]]** hard fork. No technical interaction between the parameter updates.
 
 ## Approvals and process
 
@@ -69,3 +69,5 @@ Vote context placeholder exists ([vote 60](../../vote_context/markdown/60_commit
 - [[entities/civics-committee]]
 - [[entities/technical-steering-committee]]
 - [[entities/parameter-committee]]
+- [[proposals/update-plutus-cost-models]]
+- [[concepts/van-rossem-hard-fork]]

@@ -85,3 +85,7 @@ Proposal states 6.0 FTE at $70k and extensive delivery scope but no role-by-role
 ## [2026-06-14] ingest | IO: Hydra
 
 Ingested IOG Hydra treasury proposal JSON: source summary, proposal page with DRep YES (vote 62), Hydra concept; updated IOG treasury history, Intersect administered proposals, Leios/Peras L2 complement. Updated index and overview.
+
+## [2026-06-15] ingest | Update Plutus Cost Models
+
+Ingested Intersect Plutus cost-model parameter-change JSON: source summary, proposal page with DRep YES (vote 63), plutus-cost-models and van-rossem-hard-fork concepts; updated Parameter Committee, TSC, Intersect, committee-min-size dependency links. Updated index and overview.

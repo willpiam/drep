@@ -34,7 +34,9 @@ Intersect also coordinates **parameter-change** governance actions through inter
 | [[entities/technical-steering-committee|Technical Steering Committee]] | Technical approval for protocol-impacting actions |
 | [[entities/parameter-committee|Parameter Committee]] | PCP review and recommendations |
 
-**[[proposals/committee-min-size-7-to-5]]** (2026): Intersect proposes reducing [[concepts/committee-min-size|`committeeMinSize`]] from 7 to 5 for [[concepts/constitutional-committee|Constitutional Committee]] operational resilience. Civics approved 2026-03-13; TSC approved 2026-06-03. Resubmission after a prior action collided with another parameter change. Intersect also facilitates periodic CC elections targeting **7 seats**.
+**[[proposals/committee-min-size-7-to-5]]** (2026): Intersect proposes reducing [[concepts/committee-min-size|`committeeMinSize`]] from 7 to 5 for [[concepts/constitutional-committee|Constitutional Committee]] operational resilience. Civics approved 2026-03-13; TSC approved 2026-06-03. Resubmission after a prior action collided with another parameter change. Ratification depends temporally on [[proposals/update-plutus-cost-models]]. Intersect also facilitates periodic CC elections targeting **7 seats**.
+
+**[[proposals/update-plutus-cost-models]]** (2026): Intersect (Parameter Committee) proposes updating [[concepts/plutus-cost-models|Plutus V1/V2/V3 cost models]] for the **[[concepts/van-rossem-hard-fork|van Rossem hard fork]]** (Protocol Version 11). Parameter Committee recommended 2026-03-05/19; TSC confirmed 2026-05-13. Tested on SanchoNet, Preview, and Preprod before mainnet submission.
 
 ## Related
 

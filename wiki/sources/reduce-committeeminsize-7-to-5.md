@@ -7,7 +7,7 @@
 
 [[entities/intersect|Intersect]] (on behalf of the [[entities/civics-committee|Civics Committee]] and [[entities/technical-steering-committee|Technical Steering Committee]], with [[entities/parameter-committee|Parameter Committee]] recommendation) proposes a **parameter change** lowering **`committeeMinSize`** from **7** to **5**. The change introduces an operational buffer between the on-chain minimum and the current seven-seat [[concepts/constitutional-committee|Constitutional Committee]] body, so one or two resignations or term expirations do not halt governance.
 
-Ratification **depends temporally** on enactment of a separate Plutus cost-model parameter change ahead of the **van Rossem** hard fork (`gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r`). There is no technical interaction between the two actions.
+Ratification **depends temporally** on enactment of [[proposals/update-plutus-cost-models]] ahead of the **[[concepts/van-rossem-hard-fork|van Rossem]]** hard fork (`gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r`). There is no technical interaction between the two actions.
 
 On-chain update sets `committee_min_size` to **5** (deposit **₳100,000**). Civics Committee approved submission **2026-03-13**; TSC approved **2026-06-03**. Off-chain discussion: [PCP-005 on Cardano Forum](https://forum.cardano.org/t/pcp-005-committeeminsize-yuta/151156) (Yuta, published **2025-11-11**).
 
