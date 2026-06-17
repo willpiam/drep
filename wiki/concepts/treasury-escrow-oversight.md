@@ -39,6 +39,18 @@ Transparency commitments include on-chain Pro-plan metadata, public earnings rep
 
 The prior 2025 Eternl treasury withdrawal (₳583,000) was **Intersect-administered**; the 2026–2027 proposal shifts administration to Tastenkunst directly.
 
+## Pentad CCI model (Critical Integrations V2)
+
+[[proposals/cardano-critical-integrations-v2|CCI V2]] uses Intersect TRSC administration with a **Pentad Steering Committee** layer above standard Oversight Committee multisig:
+
+| Layer | Role |
+|-------|------|
+| Pentad Steering Committee | IOG, Cardano Foundation, EMURGO, Midnight (voting); Intersect (Administrator, non-voting). Approves maintenance renewals and enhancement-reserve drawdowns (3/4 quorum). |
+| Intersect Administrator | TRSC custody, SOW verification, delivery assurance, bi-annual reporting |
+| TRSC multisig | Sundae Labs, Cardano Foundation, DQuadrant, Xerberus, NMKR — same pattern as Vision/Tweag |
+
+Enhancement-reserve drawdowns require Steering Committee scope approval; maintenance drawdowns tie to continuation of V1 operational SLAs. Unused enhancement reserve and end-of-period balances return to treasury. Vendor costs are confidential; public reporting is by category.
+
 ## Intersect TRSC model (Cardano Vision, Tweag)
 
 For [[proposals/cardano-vision-2026]] and [[proposals/tweag-core-cardano-infrastructure-2026-2028]], withdrawn ADA flows through Intersect’s **Treasury Reserve Smart Contract (TRSC)** and project-specific **PSSC** contracts (Sundae Labs framework). This is a different pattern from Pebble’s vendor-specific `treasury.ak` / `vendor.ak` board above.
@@ -71,6 +83,7 @@ Per on-chain proposal metadata ([[sources/tweag-core-cardano-infrastructure-2026
 - [[proposals/tweag-core-cardano-infrastructure-2026-2028]] — same Intersect administration model as Cardano Vision 2026
 - [[concepts/treasury-proposal-bundling]] — governance-action granularity vs milestone-level escrow control
 - [[proposals/eternl-path-to-sustainability-2026-2027]] — self-administered operational grant with revenue payback (no milestone escrow)
+- [[proposals/cardano-critical-integrations-v2]] — Pentad Steering Committee + Intersect TRSC for recurring integration maintenance
 
 ## Open questions
 

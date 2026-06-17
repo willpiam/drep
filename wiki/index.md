@@ -27,6 +27,9 @@ _Organizations, people, and governance bodies._
 | [entities/civics-committee.md](entities/civics-committee.md) | Intersect Civics Committee — constitutional process; approved committeeMinSize proposal |
 | [entities/technical-steering-committee.md](entities/technical-steering-committee.md) | Intersect TSC — technical approval for protocol governance actions |
 | [entities/parameter-committee.md](entities/parameter-committee.md) | Intersect Parameter Committee — PCP review for protocol parameter changes |
+| [entities/cardano-foundation.md](entities/cardano-foundation.md) | Cardano Foundation — Pentad co-proposer; TRSC Oversight Committee; CCI Steering Committee |
+| [entities/emurgo.md](entities/emurgo.md) | EMURGO — founding entity; Pentad co-proposer and CCI Steering Committee member |
+| [entities/midnight-foundation.md](entities/midnight-foundation.md) | Midnight Foundation — privacy sidechain steward; Pentad CCI co-proposer |
 
 ## Concepts
 
@@ -55,6 +58,7 @@ _Governance topics, mechanisms, and recurring themes._
 | [concepts/committee-min-size.md](concepts/committee-min-size.md) | On-chain minimum CC membership; operability floor and voting-threshold trade-offs |
 | [concepts/plutus-cost-models.md](concepts/plutus-cost-models.md) | On-chain CPU/memory costs per Plutus builtin; PCM guardrails; benchmarking process |
 | [concepts/van-rossem-hard-fork.md](concepts/van-rossem-hard-fork.md) | Protocol Version 11 hard fork; new Plutus primitives; governance dependencies |
+| [concepts/cardano-critical-integrations.md](concepts/cardano-critical-integrations.md) | Pentad-led tier-one integration program (USDCx, LayerZero, Pyth, Dune, Fireblocks); V1 delivery + V2 maintenance |
 
 ## Sources
 
@@ -72,6 +76,7 @@ _Summaries of ingested raw documents (one page per source)._
 | [sources/io-hydra.md](sources/io-hydra.md) | IOG Hydra proposal: ₳5.1M, v2 hardening, four workstreams, production L2 users |
 | [sources/reduce-committeeminsize-7-to-5.md](sources/reduce-committeeminsize-7-to-5.md) | Intersect parameter change: committeeMinSize 7→5 for CC operational resilience |
 | [sources/update-plutus-cost-models.md](sources/update-plutus-cost-models.md) | Intersect parameter change: Plutus V1/V2/V3 cost models for van Rossem hard fork |
+| [sources/cardano-critical-integrations-v2.md](sources/cardano-critical-integrations-v2.md) | Pentad CCI V2: ₳23M, 12-month maintenance for USDCx, LayerZero, Pyth, Dune + Fireblocks |
 
 ## Proposals
 
@@ -86,6 +91,8 @@ _Governance actions and vote-context syntheses._
 | [proposals/io-hydra.md](proposals/io-hydra.md) | Treasury withdrawal — Hydra v2 hardening; IOG + Intersect admin; DRep YES (vote 62) |
 | [proposals/committee-min-size-7-to-5.md](proposals/committee-min-size-7-to-5.md) | Parameter change — committeeMinSize 7→5; Intersect Civics/TSC; DRep vote pending (vote 60) |
 | [proposals/update-plutus-cost-models.md](proposals/update-plutus-cost-models.md) | Parameter change — Plutus V1/V2/V3 cost models; van Rossem prep; DRep YES (vote 63) |
+| [proposals/cardano-critical-integrations-v1.md](proposals/cardano-critical-integrations-v1.md) | Treasury withdrawal — CCI V1 tier-one integrations; ₳70M / 24 months; DRep YES, enacted |
+| [proposals/cardano-critical-integrations-v2.md](proposals/cardano-critical-integrations-v2.md) | Treasury withdrawal — CCI V2 maintenance + Fireblocks; ₳23M / 12 months; DRep NO (vote 65) |
 
 ## Analysis
 

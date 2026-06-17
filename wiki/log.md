@@ -89,3 +89,7 @@ Ingested IOG Hydra treasury proposal JSON: source summary, proposal page with DR
 ## [2026-06-15] ingest | Update Plutus Cost Models
 
 Ingested Intersect Plutus cost-model parameter-change JSON: source summary, proposal page with DRep YES (vote 63), plutus-cost-models and van-rossem-hard-fork concepts; updated Parameter Committee, TSC, Intersect, committee-min-size dependency links. Updated index and overview.
+
+## [2026-06-17] ingest | Cardano Critical Integrations V2
+
+Ingested Pentad CCI V2 treasury proposal JSON: source summary, V1/V2 proposal pages with DRep NO (vote 65), cardano-critical-integrations concept; created Cardano Foundation, EMURGO, Midnight Foundation entities; updated Intersect, IOG, treasury escrow oversight, treasury proposal bundling. Updated index and overview.

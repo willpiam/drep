@@ -20,6 +20,8 @@ Per [[sources/cardano-vision-2026-ior]] and [[sources/tweag-core-cardano-infrast
 | [[proposals/cardano-vision-2026]] | [[entities/io-research|IO Research]] | ₳32.9M |
 | [[proposals/tweag-core-cardano-infrastructure-2026-2028]] | [[entities/tweag|Tweag]] | ₳39.8M |
 | [[proposals/io-hydra]] | [[entities/input-output-group|IOG]] | ₳5.1M |
+| [[proposals/cardano-critical-integrations-v1|CCI V1]] | Pentad (IOG, CF, EMURGO, Midnight) | ₳70M — enacted Dec 2025 |
+| [[proposals/cardano-critical-integrations-v2|CCI V2]] | Pentad + Intersect as Administrator | ₳23M — 12-month maintenance |
 | [[entities/eternl|Eternl]] (2025 budget) | [[entities/tastenkunst|Tastenkunst GmbH]] | ₳583,000 — funding period ends July 2026 |
 
 The 2026–2027 [[proposals/eternl-path-to-sustainability-2026-2027]] proposal shifts Eternl fund administration from Intersect to Tastenkunst self-administration with a [[concepts/treasury-payback-model|revenue payback]] model.
@@ -43,8 +45,14 @@ Intersect also coordinates **parameter-change** governance actions through inter
 - [[proposals/cardano-vision-2026]]
 - [[proposals/tweag-core-cardano-infrastructure-2026-2028]]
 - [[proposals/io-hydra]]
+- [[proposals/cardano-critical-integrations-v1]]
+- [[proposals/cardano-critical-integrations-v2]]
+- [[concepts/cardano-critical-integrations]]
 - [[concepts/hydra]]
 - [[entities/input-output-group]]
+- [[entities/cardano-foundation]]
+- [[entities/emurgo]]
+- [[entities/midnight-foundation]]
 - [[entities/tweag]]
 - [[entities/eternl]]
 - [[entities/tastenkunst]]

@@ -21,6 +21,10 @@ Large treasury withdrawals are typically structured as legal contracts between *
 
 Cardano Vision 2026 is a distinct IOR program ask (₳32.917M); broader 2026 IOG funding is discussed separately in published vote context (e.g. nine withdrawals ~₳162M).
 
+## Pentad / Critical Integrations
+
+IOG co-proposes [[concepts/cardano-critical-integrations|Cardano Critical Integrations]] with the Cardano Foundation, EMURGO, and Midnight Foundation. [[proposals/cardano-critical-integrations-v1|CCI V1]] (₳70M, enacted Dec 2025) delivered tier-one integrations; [[proposals/cardano-critical-integrations-v2|CCI V2]] (₳23M) funds 12-month maintenance plus Fireblocks. [[entities/intersect|Intersect]] administers via TRSC; Pentad Steering Committee sets maintenance and enhancement priorities.
+
 ## Hydra L2 (2026)
 
 [[proposals/io-hydra|IO: Hydra]] requests **₳5,100,781** to harden **[[concepts/hydra|Hydra]] v2** — state-channel L2 with production users (Delta DeFi, Masumi, Intersect voting, Blockfrost, etc.). Intersect administers via TRSC/PSSC. DRep vote context records **YES** ([vote 62](../../vote_context/markdown/62_ioHydra.md), 2026-06-14).
@@ -31,4 +35,7 @@ Cardano Vision 2026 is a distinct IOR program ask (₳32.917M); broader 2026 IOG
 - [[entities/intersect]]
 - [[proposals/cardano-vision-2026]]
 - [[proposals/io-hydra]]
+- [[proposals/cardano-critical-integrations-v1]]
+- [[proposals/cardano-critical-integrations-v2]]
+- [[concepts/cardano-critical-integrations]]
 - [[concepts/hydra]]
