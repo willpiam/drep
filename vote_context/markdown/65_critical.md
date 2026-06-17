@@ -8,9 +8,17 @@
 
 [IPFS Vote Metadata](https://ipfs.io/ipfs/)
 
+## Considerations
+
+- USDCx has been nice
+- We gave them ₳70M 6 months ago
+- The Cardano Foundation is involved and I'm unhappy with them because they don't have a single community elected board member
+- Emergo is involved and I'm unhappy with them because they control an unhealthy amount of voting power
+- It sounds like this ₳23M is going to be a recurring cost
+
 ## Statement
 
-We gave you guys ₳70M 6 months ago. 
+We gave you guys ₳70M 6 months ago. Now you want ₳23M more?
 
 ## References
 
