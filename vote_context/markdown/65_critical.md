@@ -1,24 +1,28 @@
-# Voting NO on *Cardano Critical Integrations V2*
+# Voting YES on *Cardano Critical Integrations V2*
 
-**June 17th 2026**
+**June 18th 2026**
 
 [gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz](https://cardanoscan.io/govAction/gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz)
 
-[View Vote On-Chain](https://cardanoscan.io/vote/)
+[View Vote On-Chain](https://cardanoscan.io/vote/971965e071c24003220cdff6c1bcb1586fe6aa93639e3951cd67f55c28438142)
 
-[IPFS Vote Metadata](https://ipfs.io/ipfs/)
+[IPFS Vote Metadata](https://ipfs.io/ipfs/bafkreiefghzfdz3skjbzs4rxt5boe6vxyq4olzuc3xc5wvwdf3ypcg6tgi)
 
 ## Considerations
 
 - USDCx has been nice
 - We gave them ₳70M 6 months ago
-- The Cardano Foundation is involved and I'm unhappy with them because they don't have a single community elected board member
+- The Cardano Foundation is involved and I'm unhappy with them because they don't have a single community-elected board member
 - Emergo is involved and I'm unhappy with them because they control an unhealthy amount of voting power
-- It sounds like this ₳23M is going to be a recurring cost
+- It sounds like much of this ₳23M is going to be a recurring cost
+- We just got USDCx, why are we paying for it again so soon?
+- At 4 months old, USDCx has a supply of just over $19M
+- USDM, which is over 2 years old, has a supply of just over $12M
+- At over 3 years old Djed has a supply of about $3.3M
 
 ## Statement
 
-We gave you guys ₳70M 6 months ago. Now you want ₳23M more?
+We've seen initial success with USDCx. We don't want to half-commit to initiatives. I'm voting in support of this proposal.
 
 ## References
 
@@ -28,6 +32,9 @@ We gave you guys ₳70M 6 months ago. Now you want ₳23M more?
     - I voted YES
     - Enacted
 - [Cerkoryn makes a good point](https://cardanoscan.io/vote/397de927cd618c7f2cc17f64d71b626737af7ed46a874f1bf9d40c2ac29d94ea)
+- [Cardanoscan USDCx Details](https://cardanoscan.io/token/1f3aec8bfe7ea4fe14c5f121e2a92e301afe414147860d557cac7e345553444378)
+- [Cardanoscan USDM Details](https://cardanoscan.io/token/c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad0014df105553444d)
+- [Djed Details From CoinMarketCap](https://coinmarketcap.com/currencies/djed/)
 
 Signed, <br/>
 William Doyle

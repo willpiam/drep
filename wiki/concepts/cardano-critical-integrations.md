@@ -10,7 +10,7 @@ CCI V1 ([[proposals/cardano-critical-integrations-v1]]) secured **₳70M** over 
 
 | Integration | V1 status | V2 scope |
 |-------------|-----------|----------|
-| **Circle (USDCx)** | Launched / integrating | Attestor ops, monitoring, contract administrator oversight |
+| **Circle (USDCx)** | Launched / integrating | Year 2 license/platform/attestation fees (confidential amount); attestor ops, monitoring, contract administrator oversight — largest V1 vendor per Intersect status report |
 | **LayerZero** | Launched / integrating | Endpoint ops, DVN configuration, protocol-version compatibility |
 | **Pyth** | Launched / integrating | Oracle feed continuity, publisher incentives, Cardano infrastructure |
 | **Dune Analytics** | Launched / integrating | Subgraph coverage, schema maintenance, dashboard refresh |
@@ -37,8 +37,10 @@ New integrations (USDT0, LayerZero OFT expansion, other custodial/analytics targ
 
 - What is the expected annual run-rate after V2's 12-month window?
 - How much vendor-level cost detail can the Steering Committee disclose in progress reports despite NDAs?
+- What is Circle's confidential Year 2 fee within the ₳20.7M maintenance bucket (vs LayerZero, Pyth, Dune, Fireblocks)?
 - What measurable adoption metrics (TVL, USDCx circulation, bridge volume) will tie maintenance spend to ecosystem outcomes?
 - How does CCI maintenance funding compare to self-sustaining integration models on other chains?
+- What treasury actions beyond CCI V2 are required to fund USDCx ops through a two-year horizon? → [[analysis/usdcx-two-year-funding-horizon]]
 
 ## Related
 

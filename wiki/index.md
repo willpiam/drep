@@ -105,6 +105,9 @@ _Comparisons, queries filed back, and exploratory write-ups._
 | [analysis/tweag-2026-2028-work-package-deliverables.md](analysis/tweag-2026-2028-work-package-deliverables.md) | Per-package budgets, milestones, and Peras v1 success metrics from Tweag PDF proposal |
 | [analysis/tweag-proposer-vs-iog.md](analysis/tweag-proposer-vs-iog.md) | Tweag treasury withdrawal is contracted to Tweag, not IOG/IOR; Intersect is administrator only |
 | [analysis/eternl-fte-staffing-justification.md](analysis/eternl-fte-staffing-justification.md) | Eternl proposal states 6 FTE / $420k but lacks role-by-role headcount rationale |
+| [analysis/cci-v2-budget-breakdown.md](analysis/cci-v2-budget-breakdown.md) | What ₳23M buys: 90% V1 maintenance + Fireblocks Y1, 5% tooling reserve, 5% audit/admin; vendor splits confidential |
+| [analysis/circle-usdcx-cci-costs.md](analysis/circle-usdcx-cci-costs.md) | Circle USDCx: no public V2 split; Year 2 was pre-contracted in V1; attestor + licensing fees; squeeze not provable |
+| [analysis/usdcx-two-year-funding-horizon.md](analysis/usdcx-two-year-funding-horizon.md) | V2 = one year USDCx ops (Year 2); Year 3+ needs future votes; liquidity/marketing excluded |
 
 ## Legacy vote context
 

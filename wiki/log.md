@@ -93,3 +93,21 @@ Ingested Intersect Plutus cost-model parameter-change JSON: source summary, prop
 ## [2026-06-17] ingest | Cardano Critical Integrations V2
 
 Ingested Pentad CCI V2 treasury proposal JSON: source summary, V1/V2 proposal pages with DRep NO (vote 65), cardano-critical-integrations concept; created Cardano Foundation, EMURGO, Midnight Foundation entities; updated Intersect, IOG, treasury escrow oversight, treasury proposal bundling. Updated index and overview.
+
+## [2026-06-18] query | CCI V2 ₳23M spend breakdown
+
+## [2026-06-18] filing | CCI V2 — What the ₳23M Buys
+
+Filed [[analysis/cci-v2-budget-breakdown]]: category and per-integration maintenance map, V1 vs V2 framing, exclusions, recurring-cost implication, and confidentiality limits. Updated index.
+
+## [2026-06-18] query | Circle USDCx CCI V2 fee disclosure
+
+## [2026-06-18] filing | Circle USDCx — CCI cost disclosure and Year 2 fees
+
+Filed [[analysis/circle-usdcx-cci-costs]]; updated [[concepts/cardano-critical-integrations]] Circle row and open questions. Updated index.
+
+## [2026-06-18] query | USDCx two-year funding horizon
+
+## [2026-06-18] filing | USDCx — two-year funding horizon (CCI)
+
+Filed [[analysis/usdcx-two-year-funding-horizon]]; linked from [[concepts/cardano-critical-integrations]]. Updated index.
