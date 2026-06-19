@@ -29,6 +29,8 @@ Work is organized into seven work packages (trust/security, scalability, develop
 
 Targets referenced include **27M monthly transactions**, **3× throughput**, and broader **2030** adoption and on-chain economic activity goals.
 
+Real-world adoption proposals also cite Vision 2030 pillar alignment. [[proposals/5am-earth-trust-layer-vision-2030-kpis]] projects by 2030: **3M farmers**, **112.5M annual on-chain transactions**, **$900M TVL**, and **16–20M ADA** annual protocol revenue from an [[concepts/agricultural-trust-layer|agricultural trust layer]] — contrasting with IOR's protocol-research framing but sharing the same KPI vocabulary.
+
 ## Sources
 
 - [[sources/cardano-vision-2026-ior]]

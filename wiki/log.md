@@ -111,3 +111,7 @@ Filed [[analysis/circle-usdcx-cci-costs]]; updated [[concepts/cardano-critical-i
 ## [2026-06-18] filing | USDCx — two-year funding horizon (CCI)
 
 Filed [[analysis/usdcx-two-year-funding-horizon]]; linked from [[concepts/cardano-critical-integrations]]. Updated index.
+
+## [2026-06-19] ingest | 5am.earth Trust Layer Targeting Vision 2030 KPIs
+
+Ingested treasury withdrawal JSON: source summary, proposal page, entities (5am.earth Foundation, Syngenta Foundation India), concepts (agricultural trust layer, Project Swaminathan). Updated Intersect administered-proposals table, cardano-vision KPI alignment, treasury-escrow-oversight TRSC pattern, overview, index.
