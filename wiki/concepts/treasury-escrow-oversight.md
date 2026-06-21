@@ -53,13 +53,13 @@ Enhancement-reserve drawdowns require Steering Committee scope approval; mainten
 
 ## Intersect TRSC model (Cardano Vision, Tweag)
 
-For [[proposals/cardano-vision-2026]], [[proposals/tweag-core-cardano-infrastructure-2026-2028]], [[proposals/io-hydra]], and [[proposals/5am-earth-trust-layer-vision-2030-kpis]], withdrawn ADA flows through Intersect’s **Treasury Reserve Smart Contract (TRSC)** and project-specific **PSSC** contracts (Sundae Labs framework). This is a different pattern from Pebble’s vendor-specific `treasury.ak` / `vendor.ak` board above.
+For [[proposals/cardano-vision-2026]], [[proposals/tweag-core-cardano-infrastructure-2026-2027]], [[proposals/tweag-core-cardano-infrastructure-2026-2028]], [[proposals/io-hydra]], and [[proposals/5am-earth-trust-layer-vision-2030-kpis]], withdrawn ADA flows through Intersect's **Treasury Reserve Smart Contract (TRSC)** and project-specific **PSSC** contracts (Sundae Labs framework). This is a different pattern from Pebble's vendor-specific `treasury.ak` / `vendor.ak` board above.
 
 [[proposals/5am-earth-trust-layer-vision-2030-kpis]] adds a **delivery/administration separation** explicit in constitutional terms: 5am.earth delivers; Intersect administers; Oversight Committee verifies admin actions; 3rd-party assurer reviews milestone deliverables. Payment schedule: ₳5M approval / ₳2M M1 / ₳3M M2 (M3 is evidence-only self-sustain gate).
 
 ### Oversight Committee (includes Cardano Foundation)
 
-Per on-chain proposal metadata ([[sources/tweag-core-cardano-infrastructure-2026-2028]], same text as Cardano Vision admin):
+Per on-chain proposal metadata ([[sources/tweag-core-cardano-infrastructure-2026-2028]], [[sources/tweag-core-cardano-infrastructure-2026-2027]], same text as Cardano Vision admin):
 
 | Member | Role |
 |--------|------|
@@ -75,13 +75,14 @@ Per on-chain proposal metadata ([[sources/tweag-core-cardano-infrastructure-2026
 
 - Not proposer, contractor, or delivery party (those are Tweag and Intersect/CDH respectively)
 - Not metadata author (Intersect witnesses governance metadata)
-- Not the **third-party assurer** who signs off technical milestones against the legal contract (separate role, funded from proposal overhead)
+- Not the **third-party assurer** who signs off technical milestones against the legal contract (separate role, funded from proposal overhead; **No Witness Labs** named in [[sources/tweag-core-cardano-infrastructure-2026-2027]])
 - Not named in the Tweag PDF body for technical workstreams (no TSC/delivery role documented there)
 
 ## Related votes
 
 - [[proposals/pebble-ecosystem-maintenance-2026]]
 - [[proposals/cardano-vision-2026]] — Intersect/CDH-administered TRSC/PSSC with Oversight Committee and 3rd-party assurer
+- [[proposals/tweag-core-cardano-infrastructure-2026-2027]] — same Intersect administration model; No Witness Labs as 3rd-party assurer
 - [[proposals/tweag-core-cardano-infrastructure-2026-2028]] — same Intersect administration model as Cardano Vision 2026
 - [[concepts/treasury-proposal-bundling]] — governance-action granularity vs milestone-level escrow control
 - [[proposals/eternl-path-to-sustainability-2026-2027]] — self-administered operational grant with revenue payback (no milestone escrow)

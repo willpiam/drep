@@ -22,6 +22,7 @@ Per [[sources/vote-56-tweag-core-cardano-infrastructure-2026-2028]] (2026-06-01)
 
 | Proposal | Bundling note |
 |----------|----------------|
+| [[proposals/tweag-core-cardano-infrastructure-2026-2027]] | 3 WPs, ₳18.3M — reduced Peras v1 + History Expiry + CTC pipeline; vote pending |
 | [[proposals/tweag-core-cardano-infrastructure-2026-2028]] | 17 WPs, ₳39.8M, 2 years — DRep YES despite bundling objections in the community |
 | [[proposals/cardano-vision-2026]] | 7 WPs under one IOR ask — separate engineering delivery via Tweag |
 | IOG 2026 bundle | Broader multi-action withdrawal pattern — see legacy [vote 49](../../vote_context/markdown/49_iog_funding_2026.md) |
@@ -36,6 +37,7 @@ Per [[sources/vote-56-tweag-core-cardano-infrastructure-2026-2028]] (2026-06-01)
 ## Related
 
 - [[concepts/treasury-escrow-oversight]] — milestone and escrow detail below governance-action level
+- [[proposals/tweag-core-cardano-infrastructure-2026-2027]]
 - [[proposals/tweag-core-cardano-infrastructure-2026-2028]]
 - [[proposals/cardano-critical-integrations-v2]]
 - [[concepts/cardano-critical-integrations]]

@@ -8,6 +8,8 @@
 
 Tweag requests **₳39,787,316** (~$9.95M) over two years to deliver 17 work packages focused on **[[concepts/peras|Peras]] mainnet deployment** and the engineering scaffolding required to safely activate Peras, [[concepts/history-expiry|History Expiry]], and related protocol upgrades alongside [[concepts/leios|Leios]] throughput growth.
 
+A **narrower successor** proposal exists: [[proposals/tweag-core-cardano-infrastructure-2026-2027]] (₳18.3M, 3 WPs, Peras v1 only). Relationship between the two on-chain actions is an open governance question.
+
 This is **not** an IOG or IOR proposal: Tweag is the contracting party; Intersect administers on behalf of CDH. Long-standing IOG contractor history and CBU/ARK crypto subcontracts do not change proposer identity — see [[analysis/tweag-proposer-vs-iog]].
 
 ## Context
@@ -80,6 +82,7 @@ Published vote context: [vote 56](../../vote_context/markdown/56_tweag.md) — *
 
 ## Related
 
+- [[proposals/tweag-core-cardano-infrastructure-2026-2027]] — narrower successor (₳18.3M, 3 WPs)
 - [[entities/tweag]]
 - [[concepts/peras]], [[concepts/history-expiry]], [[concepts/hoarding-node]]
 - [[concepts/ouroboros]], [[concepts/leios]]

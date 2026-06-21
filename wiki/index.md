@@ -74,6 +74,7 @@ _Summaries of ingested raw documents (one page per source)._
 | [sources/cardano-vision-2026-ior.md](sources/cardano-vision-2026-ior.md) | IOR draft proposal: ₳32.9M, 7 WPs, PQ/scalability/UX themes |
 | [sources/pebble-ecosystem-maintenance-typescript-core-cardano.md](sources/pebble-ecosystem-maintenance-typescript-core-cardano.md) | HLabs proposal: 4.6M ADA for Pebble and TypeScript ecosystem maintenance |
 | [sources/securing-elliptic-curve-cryptocurrencies.md](sources/securing-elliptic-curve-cryptocurrencies.md) | Google/Ethereum/Stanford paper: lower ECDLP resource estimates and blockchain quantum-risk taxonomy |
+| [sources/tweag-core-cardano-infrastructure-2026-2027.md](sources/tweag-core-cardano-infrastructure-2026-2027.md) | Tweag proposal: ₳18.3M, 3 WPs, Peras v1 + History Expiry + CTC (2026–2027) |
 | [sources/tweag-core-cardano-infrastructure-2026-2028.md](sources/tweag-core-cardano-infrastructure-2026-2028.md) | Tweag proposal: ₳39.8M, 17 WPs, Peras mainnet and core L1 engineering 2026–2028 |
 | [sources/vote-56-tweag-core-cardano-infrastructure-2026-2028.md](sources/vote-56-tweag-core-cardano-infrastructure-2026-2028.md) | DRep YES (vote 56): bundling, two-year horizon, proposer success conditions |
 | [sources/eternl-path-to-sustainability-2026-2027.md](sources/eternl-path-to-sustainability-2026-2027.md) | Eternl proposal: ₳1.68M, 12-month ops, Pro subscriptions, treasury payback model |
@@ -91,6 +92,7 @@ _Governance actions and vote-context syntheses._
 |------|---------|
 | [proposals/cardano-vision-2026.md](proposals/cardano-vision-2026.md) | Treasury withdrawal — Cardano Vision 2026; DRep YES (vote 53) |
 | [proposals/pebble-ecosystem-maintenance-2026.md](proposals/pebble-ecosystem-maintenance-2026.md) | Treasury withdrawal — Pebble and TypeScript ecosystem maintenance; DRep vote not yet recorded |
+| [proposals/tweag-core-cardano-infrastructure-2026-2027.md](proposals/tweag-core-cardano-infrastructure-2026-2027.md) | Treasury withdrawal — Tweag core L1 (Peras v1, History Expiry, CTC); ₳18.3M; DRep vote pending (vote 69) |
 | [proposals/tweag-core-cardano-infrastructure-2026-2028.md](proposals/tweag-core-cardano-infrastructure-2026-2028.md) | Treasury withdrawal — Tweag core L1 engineering (Peras, History Expiry, testing); DRep YES (vote 56) |
 | [proposals/eternl-path-to-sustainability-2026-2027.md](proposals/eternl-path-to-sustainability-2026-2027.md) | Treasury withdrawal — Eternl wallet operations; self-administered with Pro revenue payback; DRep vote pending |
 | [proposals/io-hydra.md](proposals/io-hydra.md) | Treasury withdrawal — Hydra v2 hardening; IOG + Intersect admin; DRep YES (vote 62) |

@@ -112,6 +112,6 @@ Filed [[analysis/circle-usdcx-cci-costs]]; updated [[concepts/cardano-critical-i
 
 Filed [[analysis/usdcx-two-year-funding-horizon]]; linked from [[concepts/cardano-critical-integrations]]. Updated index.
 
-## [2026-06-19] ingest | 5am.earth Trust Layer Targeting Vision 2030 KPIs
+## [2026-06-21] ingest | Tweag Core Cardano Infrastructure: Treasury Withdrawal 2026–2027
 
-Ingested treasury withdrawal JSON: source summary, proposal page, entities (5am.earth Foundation, Syngenta Foundation India), concepts (agricultural trust layer, Project Swaminathan). Updated Intersect administered-proposals table, cardano-vision KPI alignment, treasury-escrow-oversight TRSC pattern, overview, index.
+Ingested Tweag treasury proposal JSON (CIP-108/169): source summary, proposal page (₳18.3M / 3 WPs / Peras v1 + History Expiry + CTC). Updated Tweag and Intersect entities; Peras, History Expiry, Leios, research-delivery-pipeline, treasury-proposal-bundling, treasury-escrow-oversight; cross-linked from 2026–2028 proposal and source. Updated index and overview.

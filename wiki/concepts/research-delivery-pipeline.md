@@ -32,7 +32,7 @@ Quarterly updates; bi-annual reports via Intersect; public **Cardano R&D Session
 
 ## Engineering delivery lane
 
-IOR explicitly excludes production hard-fork work (IO Consensus Initiative). [[entities/tweag|Tweag]]'s [[proposals/tweag-core-cardano-infrastructure-2026-2028|2026–2028 treasury proposal]] represents the complementary **engineering delivery** track: mainnet Peras, History Expiry, conformance/mutation/adversarial testing, Hoarding Node observability, and developer tooling — funded separately from IOR research but positioned as one integrated activation pipeline.
+IOR explicitly excludes production hard-fork work (IO Consensus Initiative). [[entities/tweag|Tweag]]'s [[proposals/tweag-core-cardano-infrastructure-2026-2027|2026–2027 treasury proposal]] (₳18.3M, Peras v1 + History Expiry + CTC) and the broader [[proposals/tweag-core-cardano-infrastructure-2026-2028|2026–2028 proposal]] represent the complementary **engineering delivery** track — funded separately from IOR research but positioned as integrated activation pipelines.
 
 ## Related
 

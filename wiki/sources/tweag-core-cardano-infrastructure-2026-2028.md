@@ -45,3 +45,4 @@ Tweag positions this as the engineering complement to IOR research: where [[prop
 - Updated [[overview]], [[index]]
 - **2026-06-01:** PDF ingest — [[analysis/tweag-2026-2028-work-package-deliverables]]; enriched [[concepts/peras]], [[concepts/history-expiry]], [[entities/tweag]], [[proposals/tweag-core-cardano-infrastructure-2026-2028]]
 - **2026-06-04:** Vote 56 ingest — [[sources/vote-56-tweag-core-cardano-infrastructure-2026-2028]]; DRep YES; [[concepts/treasury-proposal-bundling]]
+- **2026-06-21:** Narrower successor ingested — [[sources/tweag-core-cardano-infrastructure-2026-2027]] (₳18.3M, 3 WPs); see [[proposals/tweag-core-cardano-infrastructure-2026-2027]]

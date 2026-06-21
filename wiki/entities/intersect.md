@@ -4,7 +4,7 @@
 
 ## Treasury administration pattern (2025–2026 proposals)
 
-Per [[sources/cardano-vision-2026-ior]] and [[sources/tweag-core-cardano-infrastructure-2026-2028]]:
+Per [[sources/cardano-vision-2026-ior]], [[sources/tweag-core-cardano-infrastructure-2026-2028]], and [[sources/tweag-core-cardano-infrastructure-2026-2027]]:
 
 - Legal contract between proposer and CDH; milestones agreed with Intersect
 - Sundae Labs treasury management framework (TRSC/PSSC); audited by TxPipe and MLabs
@@ -18,6 +18,7 @@ Per [[sources/cardano-vision-2026-ior]] and [[sources/tweag-core-cardano-infrast
 | Proposal | Proposer | Ask |
 |----------|----------|-----|
 | [[proposals/cardano-vision-2026]] | [[entities/io-research|IO Research]] | ₳32.9M |
+| [[proposals/tweag-core-cardano-infrastructure-2026-2027]] | [[entities/tweag|Tweag]] (Intersect submitter) | ₳18.3M |
 | [[proposals/tweag-core-cardano-infrastructure-2026-2028]] | [[entities/tweag|Tweag]] | ₳39.8M |
 | [[proposals/io-hydra]] | [[entities/input-output-group|IOG]] | ₳5.1M |
 | [[proposals/cardano-critical-integrations-v1|CCI V1]] | Pentad (IOG, CF, EMURGO, Midnight) | ₳70M — enacted Dec 2025 |
@@ -44,6 +45,7 @@ Intersect also coordinates **parameter-change** governance actions through inter
 ## Related
 
 - [[proposals/cardano-vision-2026]]
+- [[proposals/tweag-core-cardano-infrastructure-2026-2027]]
 - [[proposals/tweag-core-cardano-infrastructure-2026-2028]]
 - [[proposals/io-hydra]]
 - [[proposals/cardano-critical-integrations-v1]]
