@@ -32,6 +32,8 @@ _Organizations, people, and governance bodies._
 | [entities/midnight-foundation.md](entities/midnight-foundation.md) | Midnight Foundation — privacy sidechain steward; Pentad CCI co-proposer |
 | [entities/5am-earth-foundation.md](entities/5am-earth-foundation.md) | 5am.earth Foundation — neutral steward of open agricultural trust layer on Cardano |
 | [entities/syngenta-foundation-india.md](entities/syngenta-foundation-india.md) | Syngenta Foundation India — Project Swaminathan field distribution; 26k+ AEs |
+| [entities/sundae-labs.md](entities/sundae-labs.md) | Sundae Labs — TRSC/PSSC treasury smart contracts; Oversight Committee member |
+| [entities/vacuumlabs.md](entities/vacuumlabs.md) | VacuumLabs — cardano-hw-cli and HW interop library; likely 2026 maintenance vendor |
 
 ## Concepts
 
@@ -63,6 +65,7 @@ _Governance topics, mechanisms, and recurring themes._
 | [concepts/cardano-critical-integrations.md](concepts/cardano-critical-integrations.md) | Pentad-led tier-one integration program (USDCx, LayerZero, Pyth, Dune, Fireblocks); V1 delivery + V2 maintenance |
 | [concepts/agricultural-trust-layer.md](concepts/agricultural-trust-layer.md) | Shared Cardano-anchored farmer/farm verification — verify once, use many times |
 | [concepts/project-swaminathan.md](concepts/project-swaminathan.md) | Live Cardano Mainnet agricultural onboarding pilot in Maharashtra; Catalyst F13 baseline |
+| [concepts/hardware-wallet-interoperability.md](concepts/hardware-wallet-interoperability.md) | CIP-21 HW signing constraints; canonical CBOR; device capability gaps |
 
 ## Sources
 
@@ -83,6 +86,8 @@ _Summaries of ingested raw documents (one page per source)._
 | [sources/update-plutus-cost-models.md](sources/update-plutus-cost-models.md) | Intersect parameter change: Plutus V1/V2/V3 cost models for van Rossem hard fork |
 | [sources/cardano-critical-integrations-v2.md](sources/cardano-critical-integrations-v2.md) | Pentad CCI V2: ₳23M, 12-month maintenance for USDCx, LayerZero, Pyth, Dune + Fireblocks |
 | [sources/5am-earth-trust-layer-vision-2030-kpis.md](sources/5am-earth-trust-layer-vision-2030-kpis.md) | 5am.earth: ₳10M, 18-month agricultural trust layer; India/Cambodia/Kenya; Vision 2030 KPI alignment |
+| [sources/withdraw-hardware-wallet-maintenance-2026.md](sources/withdraw-hardware-wallet-maintenance-2026.md) | Intersect: ₳1.31M, 12-month Ledger/Trezor + cardano-hw-cli maintenance; 2026 TRSC |
+| [sources/cip-21-hardware-wallet-interoperability.md](sources/cip-21-hardware-wallet-interoperability.md) | CIP-21: canonical CBOR and transaction restrictions for HW wallet signing |
 
 ## Proposals
 
@@ -101,6 +106,7 @@ _Governance actions and vote-context syntheses._
 | [proposals/cardano-critical-integrations-v1.md](proposals/cardano-critical-integrations-v1.md) | Treasury withdrawal — CCI V1 tier-one integrations; ₳70M / 24 months; DRep YES, enacted |
 | [proposals/cardano-critical-integrations-v2.md](proposals/cardano-critical-integrations-v2.md) | Treasury withdrawal — CCI V2 maintenance + Fireblocks; ₳23M / 12 months; DRep NO (vote 65) |
 | [proposals/5am-earth-trust-layer-vision-2030-kpis.md](proposals/5am-earth-trust-layer-vision-2030-kpis.md) | Treasury withdrawal — agricultural trust layer; ₳10M / 18 months; Intersect TRSC; DRep vote pending |
+| [proposals/hardware-wallet-maintenance-2026.md](proposals/hardware-wallet-maintenance-2026.md) | Treasury withdrawal — HW wallet maintenance; ₳1.31M / 12 months; Intersect 2026 TRSC; DRep vote pending |
 
 ## Analysis
 

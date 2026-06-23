@@ -16,7 +16,7 @@ Eternl is transitioning from transaction service fees (DApp Browser, MonsterSwap
 |------------|-------------|
 | Eternl Core | Full rewrite; custom TypeScript CBOR library (BUSL-1.1, npm later); CSL replaced across codebase |
 | Eternl Hub | Cross-app wallet/settings sharing, forwarded signing; future CIP + open source |
-| Hardware wallets | Expanded vendor support; Bluetooth on mobile (Ledger, OneKey, Trezor in v2.1) |
+| Hardware wallets | Expanded vendor support; Bluetooth on mobile (Ledger, OneKey, Trezor in v2.1); depends on **[[concepts/hardware-wallet-interoperability|CIP-21]]** stack maintained by [[entities/vacuumlabs|VacuumLabs]] / [[proposals/hardware-wallet-maintenance-2026|2026 treasury maintenance]] |
 | Governance tooling | DRep dashboards, proposal browser, in-wallet voting and proposal authoring |
 | Backend | Multi-region nodes, DBSync indexers, governance/scam-token metadata, 24/7 monitoring |
 
@@ -32,9 +32,14 @@ Main UI is **not** open-source; selected libraries publish under `@eternl` on np
 | 2025 treasury (Intersect-administered) | ₳583,000 ask — ~$133k short vs USD expectation at $0.70/ADA |
 | **2026–2027 proposal** | ₳1,680,000 — see [[proposals/eternl-path-to-sustainability-2026-2027]] |
 
+## TRSC oversight role (2026)
+
+Eternl is named on Intersect's **2026 TRSC Oversight Committee** (alongside Sundae Labs, Cardano Foundation, Dquadrant, NMKR, Sundial) per [[sources/withdraw-hardware-wallet-maintenance-2026]] — co-signing selected admin actions without governance discretion. This is separate from Eternl's self-administered [[proposals/eternl-path-to-sustainability-2026-2027]] operational withdrawal.
+
 ## Related votes
 
 - [[proposals/eternl-path-to-sustainability-2026-2027]] — pending DRep position
+- [[proposals/hardware-wallet-maintenance-2026]] — related infrastructure; Eternl on Oversight Committee
 
 ## Open questions
 

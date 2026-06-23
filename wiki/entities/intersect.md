@@ -10,6 +10,8 @@ Per [[sources/cardano-vision-2026-ior]], [[sources/tweag-core-cardano-infrastruc
 - Sundae Labs treasury management framework (TRSC/PSSC); audited by TxPipe and MLabs
 - 2025 TRSC stake address: `stake17xzc8pt7fgf0lc0x7eq6z7z6puhsxmzktna7dluahrj6g6ghh5qjr`; migration to 2026 TRSC when established
 - **Oversight Committee (2025 TRSC):** Sundae Labs, **Cardano Foundation**, Dquadrant, Xerberus, NMKR — co-sign Fund/Modify (2/5), Disperse/Reorganize (3/5), etc.; verify admin actions on-chain **without governance discretion** (not milestone technical acceptance; that is Intersect delivery assurance + 3rd-party assurer)
+- **Oversight Committee (2026 TRSC):** Sundae Labs, Cardano Foundation, Dquadrant, NMKR, Sundial, **Eternl** — six trusted entities; same verification role ([[sources/withdraw-hardware-wallet-maintenance-2026]])
+- **2026 TRSC stake:** `stake1784sdxt6jjennmstphgdu7l7c2scf5d02a6cve2dgn5s2kq5u3j9v` (per 2026 budget-cycle withdrawals)
 - Third-party assurer reviews milestone deliverables; audit costs in proposal overhead
 - Community dashboard for TRSC/PSSC tracking; funds delegate to auto-abstain DRep when staked; no SPO delegation
 
@@ -24,6 +26,7 @@ Per [[sources/cardano-vision-2026-ior]], [[sources/tweag-core-cardano-infrastruc
 | [[proposals/cardano-critical-integrations-v1|CCI V1]] | Pentad (IOG, CF, EMURGO, Midnight) | ₳70M — enacted Dec 2025 |
 | [[proposals/cardano-critical-integrations-v2|CCI V2]] | Pentad + Intersect as Administrator | ₳23M — 12-month maintenance |
 | [[proposals/5am-earth-trust-layer-vision-2030-kpis|5am.earth trust layer]] | [[entities/5am-earth-foundation|5am.earth Foundation]] | ₳10M — 18-month agricultural trust layer |
+| [[proposals/hardware-wallet-maintenance-2026|Hardware wallet maintenance]] | Vendor (Intersect submitter) | ₳1.31M — 12-month Ledger/Trezor + cardano-hw-cli upkeep |
 | [[entities/eternl|Eternl]] (2025 budget) | [[entities/tastenkunst|Tastenkunst GmbH]] | ₳583,000 — funding period ends July 2026 |
 
 The 2026–2027 [[proposals/eternl-path-to-sustainability-2026-2027]] proposal shifts Eternl fund administration from Intersect to Tastenkunst self-administration with a [[concepts/treasury-payback-model|revenue payback]] model.
@@ -51,6 +54,10 @@ Intersect also coordinates **parameter-change** governance actions through inter
 - [[proposals/cardano-critical-integrations-v1]]
 - [[proposals/cardano-critical-integrations-v2]]
 - [[proposals/5am-earth-trust-layer-vision-2030-kpis]]
+- [[proposals/hardware-wallet-maintenance-2026]]
+- [[entities/sundae-labs]]
+- [[entities/vacuumlabs]]
+- [[concepts/hardware-wallet-interoperability]]
 - [[concepts/agricultural-trust-layer]]
 - [[concepts/cardano-critical-integrations]]
 - [[concepts/hydra]]

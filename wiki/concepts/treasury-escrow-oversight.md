@@ -53,21 +53,23 @@ Enhancement-reserve drawdowns require Steering Committee scope approval; mainten
 
 ## Intersect TRSC model (Cardano Vision, Tweag)
 
-For [[proposals/cardano-vision-2026]], [[proposals/tweag-core-cardano-infrastructure-2026-2027]], [[proposals/tweag-core-cardano-infrastructure-2026-2028]], [[proposals/io-hydra]], and [[proposals/5am-earth-trust-layer-vision-2030-kpis]], withdrawn ADA flows through Intersect's **Treasury Reserve Smart Contract (TRSC)** and project-specific **PSSC** contracts (Sundae Labs framework). This is a different pattern from Pebble's vendor-specific `treasury.ak` / `vendor.ak` board above.
+For [[proposals/cardano-vision-2026]], [[proposals/tweag-core-cardano-infrastructure-2026-2027]], [[proposals/tweag-core-cardano-infrastructure-2026-2028]], [[proposals/io-hydra]], [[proposals/5am-earth-trust-layer-vision-2030-kpis]], and [[proposals/hardware-wallet-maintenance-2026]], withdrawn ADA flows through Intersect's **Treasury Reserve Smart Contract (TRSC)** and project-specific **PSSC** contracts ([[entities/sundae-labs|Sundae Labs]] framework). This is a different pattern from Pebble's vendor-specific `treasury.ak` / `vendor.ak` board above.
 
 [[proposals/5am-earth-trust-layer-vision-2030-kpis]] adds a **delivery/administration separation** explicit in constitutional terms: 5am.earth delivers; Intersect administers; Oversight Committee verifies admin actions; 3rd-party assurer reviews milestone deliverables. Payment schedule: ₳5M approval / ₳2M M1 / ₳3M M2 (M3 is evidence-only self-sustain gate).
 
-### Oversight Committee (includes Cardano Foundation)
+### Oversight Committee (2025 vs 2026 rosters)
 
-Per on-chain proposal metadata ([[sources/tweag-core-cardano-infrastructure-2026-2028]], [[sources/tweag-core-cardano-infrastructure-2026-2027]], same text as Cardano Vision admin):
+Per on-chain proposal metadata ([[sources/tweag-core-cardano-infrastructure-2026-2028]], [[sources/tweag-core-cardano-infrastructure-2026-2027]], same text as Cardano Vision admin for **2025 TRSC**):
 
 | Member | Role |
 |--------|------|
-| Sundae Labs | One of five **trusted entities** on TRSC/PSSC |
+| [[entities/sundae-labs|Sundae Labs]] | One of five **trusted entities** on TRSC/PSSC |
 | **Cardano Foundation** | Same — independent verification of admin actions |
 | Dquadrant | Same |
-| Xerberus | Same |
+| Xerberus | Same (2025 roster only) |
 | NMKR | Same |
+
+**2026 TRSC** deployments ([[sources/withdraw-hardware-wallet-maintenance-2026]]) use a **six-member** Oversight Committee: Sundae Labs, Cardano Foundation, Dquadrant, NMKR, Sundial, **[[entities/eternl|Eternl]]** — Xerberus replaced. Sign-off thresholds scale to 2/6 and 3/6 for Fund/Modify and Disburse respectively.
 
 **What the Foundation does here:** Co-sign selected on-chain TRSC/PSSC operations (e.g. two of five trusted entities for Fund/Modify; three of five for Disperse and Reorganize) alongside Intersect admins and leadership. Purpose: verify administrative actions for accuracy and consistency **without discretion over governance decisions**.
 
@@ -88,6 +90,8 @@ Per on-chain proposal metadata ([[sources/tweag-core-cardano-infrastructure-2026
 - [[proposals/eternl-path-to-sustainability-2026-2027]] — self-administered operational grant with revenue payback (no milestone escrow)
 - [[proposals/cardano-critical-integrations-v2]] — Pentad Steering Committee + Intersect TRSC for recurring integration maintenance
 - [[proposals/5am-earth-trust-layer-vision-2030-kpis]] — Intersect TRSC; 5/2/3 milestone schedule; public on-chain KPI dashboard
+- [[proposals/hardware-wallet-maintenance-2026]] — Intersect 2026 TRSC; Ledger/Trezor + cardano-hw-cli maintenance; updated six-member Oversight Committee
+- [[concepts/hardware-wallet-interoperability]] — CIP-21 signing constraints maintained by treasury-funded tooling
 
 ## Open questions
 

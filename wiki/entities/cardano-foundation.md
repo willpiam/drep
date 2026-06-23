@@ -8,7 +8,7 @@ In [[proposals/cardano-critical-integrations-v1|CCI V1]] and [[proposals/cardano
 
 ## TRSC oversight role
 
-Per [[concepts/treasury-escrow-oversight]], the Foundation co-signs selected on-chain TRSC/PSSC operations (e.g. 2-of-5 for Fund/Modify; 3-of-5 for Disperse/Reorganize) alongside Sundae Labs, Dquadrant, Xerberus, and NMKR. Purpose: verify administrative actions without governance discretion — not technical milestone acceptance or contracting.
+Per [[concepts/treasury-escrow-oversight]], the Foundation co-signs selected on-chain TRSC/PSSC operations alongside other trusted entities on the Oversight Committee. **2025 roster:** Sundae Labs, Dquadrant, Xerberus, NMKR. **2026 roster:** Sundae Labs, Dquadrant, NMKR, Sundial, Eternl (Xerberus replaced). Purpose: verify administrative actions without governance discretion — not technical milestone acceptance or contracting.
 
 ## DRep considerations
 

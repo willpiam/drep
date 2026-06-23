@@ -121,3 +121,7 @@ Ingested Tweag treasury proposal JSON (CIP-108/169): source summary, proposal pa
 ## [2026-06-22] filing | Ikigai stuck deposit — ledger accounting
 
 Filed [[analysis/ikigai-stuck-deposit-ledger-state]]: proposal deposit pot → treasury after unregistered return address at expiry; reimbursement treasury withdrawal live. Updated index.
+
+## [2026-06-23] ingest | Hardware Wallet Maintenance 2026 + CIP-21
+
+Ingested Intersect treasury withdrawal JSON (₳1.31M / 12-month Ledger-Trezor + cardano-hw-cli maintenance) and CIP-21 clipping (HW transaction interoperability spec). Created source summaries, proposal page, hardware-wallet-interoperability concept, VacuumLabs and Sundae Labs entities. Updated Intersect (2026 TRSC/Oversight Committee), Eternl (Oversight role + HW dependency), Cardano Foundation, treasury-escrow-oversight. Updated index and overview.
