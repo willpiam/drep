@@ -116,6 +116,7 @@ _Comparisons, queries filed back, and exploratory write-ups._
 | [analysis/cci-v2-budget-breakdown.md](analysis/cci-v2-budget-breakdown.md) | What ₳23M buys: 90% V1 maintenance + Fireblocks Y1, 5% tooling reserve, 5% audit/admin; vendor splits confidential |
 | [analysis/circle-usdcx-cci-costs.md](analysis/circle-usdcx-cci-costs.md) | Circle USDCx: no public V2 split; Year 2 was pre-contracted in V1; attestor + licensing fees; squeeze not provable |
 | [analysis/usdcx-two-year-funding-horizon.md](analysis/usdcx-two-year-funding-horizon.md) | V2 = one year USDCx ops (Year 2); Year 3+ needs future votes; liquidity/marketing excluded |
+| [analysis/ikigai-stuck-deposit-ledger-state.md](analysis/ikigai-stuck-deposit-ledger-state.md) | Ikigai ₳100k deposit: proposal pot → treasury after unregistered return address at expiry |
 
 ## Legacy vote context
 
