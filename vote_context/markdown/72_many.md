@@ -15,7 +15,7 @@
 | Withdraw 1,310,960 ada for Hardware Wallet Maintenance 2026 | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8syhyg4hw | YES | 0ddcd4ca90b959d1bfa0fd8a5f5305cc92af16ef81f379686b54a7439ae5fb4b | bafkreict2go7ehw5noadrqkjlzlonqpn6vcc5thvrv74kguqq2smi6vgzm |
 | Withdraw 1,193,000 ada for Intersect Technical Steering Committee Support | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sxypfkyr | | | |
 | Withdraw 25,400,000 ada for Intersect: Governance coordination and technical ... | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sgx6wlxf | | | |
-| Withdraw 3,810,423 ada for Mithril Protocol | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y | YES | | |
+| Withdraw 3,810,423 ada for Mithril Protocol | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y | YES | 5f7e3c13c9fe81d62a5a36e27983269ec7d36018d175998e527024f849866f46 | bafkreid4in33i3reqnviqqkbb3jxyq5mg67rwbxhpcoa7z2z5u7sgbzpry |
 | Withdraw 1,162,746 ada for MLabs Core Tool Maintenance & Enhancement: Plutarc... | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8svfsvefn | | | |
 | Withdraw 540,750 ada for Oura by TxPipe: Maintaining Cardano’s Event Pipeline | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sw64d667 | | | |
 | Withdraw 540,750 ada for Pallas by TxPipe: Maintaining Cardano's Core Rust Li... | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8ssd0ztd8 | | | |
