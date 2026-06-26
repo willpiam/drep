@@ -8,9 +8,11 @@
 
 [IPFS Vote Metadata](https://ipfs.io/ipfs/)
 
+## Actions & Votes
+
 | Action Title | Action Id | Vote | Vote Link | Metadata |
 | --- | --- | --- | --- | --- |
-| Withdraw 3,961,538 ada for Bringing Real-World Payments to Cardano with Wirex | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sqcw2nc5 | | | |
+| Withdraw 3,961,538 ada for Bringing Real-World Payments to Cardano with Wirex | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sqcw2nc5 | Intresting | | |
 | Withdraw 540,750 ada for by TxPipe Dolos: Maintaining Cardano's Lightweight D... | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sztttste | YES | 1aa72e28f3d665e0c516807e7250b6b0b29e50ee084e8fc814a4407ba360417a | bafkreifnzd2xkyt7cs5isb7ligxzuijct2ltiz646riq73dql3jxd2f424 |
 | Withdraw 1,310,960 ada for Hardware Wallet Maintenance 2026 | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8syhyg4hw | YES | 0ddcd4ca90b959d1bfa0fd8a5f5305cc92af16ef81f379686b54a7439ae5fb4b | bafkreict2go7ehw5noadrqkjlzlonqpn6vcc5thvrv74kguqq2smi6vgzm |
 | Withdraw 1,193,000 ada for Intersect Technical Steering Committee Support | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sxypfkyr | | | |
@@ -22,6 +24,10 @@
 | Withdraw 1,684,050 ada for Tx3 by TxPipe: Open API Layer for Cardano's dApp P... | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sj72rg72 | | | |
 | Withdraw 540,750 ada for UTxO RPC by TxPipe: Maintaining Cardano’s Integratio... | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s5z9qdza | | | |
 | | | | | |
+
+## Overall Thoughts
+
+- A lot of these proposals are comming from TxPipe. TxPipe has a well earned reputation for doing great work. 
 
 Signed, <br/>
 William Doyle
