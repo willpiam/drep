@@ -19,7 +19,7 @@
 | Withdraw 25,400,000 ada for Intersect: Governance coordination and technical ... | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sgx6wlxf | | | |
 | Withdraw 3,810,423 ada for Mithril Protocol | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y | YES | 5f7e3c13c9fe81d62a5a36e27983269ec7d36018d175998e527024f849866f46 | bafkreid4in33i3reqnviqqkbb3jxyq5mg67rwbxhpcoa7z2z5u7sgbzpry |
 | Withdraw 1,162,746 ada for MLabs Core Tool Maintenance & Enhancement: Plutarc... | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8svfsvefn | | | |
-| Withdraw 540,750 ada for Oura by TxPipe: Maintaining Cardano’s Event Pipeline | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sw64d667 | | | |
+| Withdraw 540,750 ada for Oura by TxPipe: Maintaining Cardano’s Event Pipeline | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sw64d667 | Yes | e05cdbba094bd0e2095888162afdbbe5d442f6ed274f261a0cdc24e3d5eeb7e6 | bafkreigezzzt4y5sef36v2prwlkxludunwtfkn4xuj6kitufi55zd7sjfy |
 | Withdraw 540,750 ada for Pallas by TxPipe: Maintaining Cardano's Core Rust Li... | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8ssd0ztd8 | | | |
 | Withdraw 1,684,050 ada for Tx3 by TxPipe: Open API Layer for Cardano's dApp P... | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sj72rg72 | | | |
 | Withdraw 540,750 ada for UTxO RPC by TxPipe: Maintaining Cardano’s Integratio... | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s5z9qdza | | | |
