@@ -27,6 +27,7 @@ Per [[sources/cardano-vision-2026-ior]], [[sources/tweag-core-cardano-infrastruc
 | [[proposals/cardano-critical-integrations-v2|CCI V2]] | Pentad + Intersect as Administrator | ₳23M — 12-month maintenance |
 | [[proposals/5am-earth-trust-layer-vision-2030-kpis|5am.earth trust layer]] | [[entities/5am-earth-foundation|5am.earth Foundation]] | ₳10M — 18-month agricultural trust layer |
 | [[proposals/hardware-wallet-maintenance-2026|Hardware wallet maintenance]] | Vendor (Intersect submitter) | ₳1.31M — 12-month Ledger/Trezor + cardano-hw-cli upkeep |
+| [[proposals/wirex-real-world-payments|Wirex real-world payments]] | [[entities/wirex|Wirex]] | ₳3.96M — Visa card + open-source payments infrastructure |
 | [[entities/eternl|Eternl]] (2025 budget) | [[entities/tastenkunst|Tastenkunst GmbH]] | ₳583,000 — funding period ends July 2026 |
 
 The 2026–2027 [[proposals/eternl-path-to-sustainability-2026-2027]] proposal shifts Eternl fund administration from Intersect to Tastenkunst self-administration with a [[concepts/treasury-payback-model|revenue payback]] model.
@@ -55,6 +56,8 @@ Intersect also coordinates **parameter-change** governance actions through inter
 - [[proposals/cardano-critical-integrations-v2]]
 - [[proposals/5am-earth-trust-layer-vision-2030-kpis]]
 - [[proposals/hardware-wallet-maintenance-2026]]
+- [[proposals/wirex-real-world-payments]]
+- [[entities/wirex]]
 - [[entities/sundae-labs]]
 - [[entities/vacuumlabs]]
 - [[concepts/hardware-wallet-interoperability]]

@@ -6,6 +6,8 @@
 
 CCI V1 ([[proposals/cardano-critical-integrations-v1]]) secured **₳70M** over 24 months for initial delivery and launch readiness. CCI V2 ([[proposals/cardano-critical-integrations-v2]]) requests **₳23M** for 12 months of Year 2 maintenance, enhancement tooling, and one new integration (Fireblocks). The proposers frame V2 as sustaining live infrastructure whose annual licensing and operational costs recur for as long as each integration remains active.
 
+**[[concepts/real-world-payments|Real-world payments]]** (e.g. [[proposals/wirex-real-world-payments|Wirex]]) address a complementary layer — merchant spend via Visa cards and banking rails — rather than stablecoin attestor infrastructure. USDCx from CCI may serve as a denomination rail for payment products built on Wirex-style infrastructure.
+
 ## Integrations
 
 | Integration | V1 status | V2 scope |
@@ -53,3 +55,5 @@ New integrations (USDT0, LayerZero OFT expansion, other custodial/analytics targ
 - [[entities/midnight-foundation]]
 - [[concepts/treasury-escrow-oversight]]
 - [[concepts/treasury-proposal-bundling]]
+- [[concepts/real-world-payments]]
+- [[proposals/wirex-real-world-payments]]

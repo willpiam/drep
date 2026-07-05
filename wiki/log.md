@@ -125,3 +125,7 @@ Filed [[analysis/ikigai-stuck-deposit-ledger-state]]: proposal deposit pot → t
 ## [2026-06-23] ingest | Hardware Wallet Maintenance 2026 + CIP-21
 
 Ingested Intersect treasury withdrawal JSON (₳1.31M / 12-month Ledger-Trezor + cardano-hw-cli maintenance) and CIP-21 clipping (HW transaction interoperability spec). Created source summaries, proposal page, hardware-wallet-interoperability concept, VacuumLabs and Sundae Labs entities. Updated Intersect (2026 TRSC/Oversight Committee), Eternl (Oversight role + HW dependency), Cardano Foundation, treasury-escrow-oversight. Updated index and overview.
+
+## [2026-07-05] ingest | Wirex Real-World Payments
+
+Ingested Intersect treasury withdrawal JSON (₳3.96M / Wirex Visa card + open-source payments infrastructure). Created source summary, proposal page, Wirex entity, real-world-payments concept. Updated Intersect, Sundae Labs, treasury-escrow-oversight, cardano-critical-integrations cross-links. Updated index and overview.

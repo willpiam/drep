@@ -12,7 +12,7 @@
 
 | Action Title | Action Id | Vote | Vote Link | Metadata |
 | --- | --- | --- | --- | --- |
-| Withdraw 3,961,538 ada for Bringing Real-World Payments to Cardano with Wirex | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sqcw2nc5 | Intresting | | |
+| Withdraw 3,961,538 ada for Bringing Real-World Payments to Cardano with Wirex | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sqcw2nc5 | No | 1ee6d8c286e58eea741d989449c769f0676558492fc566f36d88634de145606a | bafkreigsruesvkwvn7rwsuwwayipfy5mxp6zzt74l4shwexmc26snyezie |
 | Withdraw 540,750 ada for by TxPipe Dolos: Maintaining Cardano's Lightweight D... | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sztttste | Yes | 1aa72e28f3d665e0c516807e7250b6b0b29e50ee084e8fc814a4407ba360417a | bafkreifnzd2xkyt7cs5isb7ligxzuijct2ltiz646riq73dql3jxd2f424 |
 | Withdraw 1,310,960 ada for Hardware Wallet Maintenance 2026 | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8syhyg4hw | Yes | 0ddcd4ca90b959d1bfa0fd8a5f5305cc92af16ef81f379686b54a7439ae5fb4b | bafkreict2go7ehw5noadrqkjlzlonqpn6vcc5thvrv74kguqq2smi6vgzm |
 | Withdraw 1,193,000 ada for Intersect Technical Steering Committee Support | gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sxypfkyr | | | |
@@ -27,7 +27,8 @@
 ## Overall Thoughts
 
 - A lot of these proposals are comming from TxPipe. TxPipe has a well earned reputation for doing great work. 
-- I think this is a reasonable price to pay for UTxO RPC to not die. Framing it in such dramatic terms makes me grateful for this treasury and our ability to use it to stave of death for many important projects during this particularly brutal winter. I'm glad that Cardano doesn't live or die on the whims of a handful of VCs. 
+- I think this is a reasonable price to pay for UTxO RPC to not die. Framing it in such dramatic terms makes me grateful for this treasury and our ability to use it to stave of death for many important projects during this particularly brutal winter. I'm glad that Cardano doesn't live or die on the whims of a handful of VCs.
+- emurgo and wirex seem to have some kind of relationship 
 
 Signed, <br/>
 William Doyle

@@ -34,6 +34,7 @@ _Organizations, people, and governance bodies._
 | [entities/syngenta-foundation-india.md](entities/syngenta-foundation-india.md) | Syngenta Foundation India — Project Swaminathan field distribution; 26k+ AEs |
 | [entities/sundae-labs.md](entities/sundae-labs.md) | Sundae Labs — TRSC/PSSC treasury smart contracts; Oversight Committee member |
 | [entities/vacuumlabs.md](entities/vacuumlabs.md) | VacuumLabs — cardano-hw-cli and HW interop library; likely 2026 maintenance vendor |
+| [entities/wirex.md](entities/wirex.md) | Wirex — regulated Visa Principal Member; real-world payments treasury vendor |
 
 ## Concepts
 
@@ -66,6 +67,7 @@ _Governance topics, mechanisms, and recurring themes._
 | [concepts/agricultural-trust-layer.md](concepts/agricultural-trust-layer.md) | Shared Cardano-anchored farmer/farm verification — verify once, use many times |
 | [concepts/project-swaminathan.md](concepts/project-swaminathan.md) | Live Cardano Mainnet agricultural onboarding pilot in Maharashtra; Catalyst F13 baseline |
 | [concepts/hardware-wallet-interoperability.md](concepts/hardware-wallet-interoperability.md) | CIP-21 HW signing constraints; canonical CBOR; device capability gaps |
+| [concepts/real-world-payments.md](concepts/real-world-payments.md) | Merchant spend rails — Visa cards, banking connectivity; complements stablecoin and L2 layers |
 
 ## Sources
 
@@ -87,6 +89,7 @@ _Summaries of ingested raw documents (one page per source)._
 | [sources/cardano-critical-integrations-v2.md](sources/cardano-critical-integrations-v2.md) | Pentad CCI V2: ₳23M, 12-month maintenance for USDCx, LayerZero, Pyth, Dune + Fireblocks |
 | [sources/5am-earth-trust-layer-vision-2030-kpis.md](sources/5am-earth-trust-layer-vision-2030-kpis.md) | 5am.earth: ₳10M, 18-month agricultural trust layer; India/Cambodia/Kenya; Vision 2030 KPI alignment |
 | [sources/withdraw-hardware-wallet-maintenance-2026.md](sources/withdraw-hardware-wallet-maintenance-2026.md) | Intersect: ₳1.31M, 12-month Ledger/Trezor + cardano-hw-cli maintenance; 2026 TRSC |
+| [sources/withdraw-wirex-real-world-payments.md](sources/withdraw-wirex-real-world-payments.md) | Intersect: ₳3.96M, Wirex Visa card + open-source payments infrastructure; 2026 TRSC |
 | [sources/cip-21-hardware-wallet-interoperability.md](sources/cip-21-hardware-wallet-interoperability.md) | CIP-21: canonical CBOR and transaction restrictions for HW wallet signing |
 
 ## Proposals
@@ -107,6 +110,7 @@ _Governance actions and vote-context syntheses._
 | [proposals/cardano-critical-integrations-v2.md](proposals/cardano-critical-integrations-v2.md) | Treasury withdrawal — CCI V2 maintenance + Fireblocks; ₳23M / 12 months; DRep NO (vote 65) |
 | [proposals/5am-earth-trust-layer-vision-2030-kpis.md](proposals/5am-earth-trust-layer-vision-2030-kpis.md) | Treasury withdrawal — agricultural trust layer; ₳10M / 18 months; Intersect TRSC; DRep vote pending |
 | [proposals/hardware-wallet-maintenance-2026.md](proposals/hardware-wallet-maintenance-2026.md) | Treasury withdrawal — HW wallet maintenance; ₳1.31M / 12 months; Intersect 2026 TRSC; DRep vote pending |
+| [proposals/wirex-real-world-payments.md](proposals/wirex-real-world-payments.md) | Treasury withdrawal — Wirex payments + Visa cards; ₳3.96M; Intersect 2026 TRSC; DRep Interesting (vote 72) |
 
 ## Analysis
 

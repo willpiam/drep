@@ -31,5 +31,6 @@ Funds in TRSC/PSSC delegate to the **auto-abstain predefined DRep** and cannot s
 - [[entities/intersect]]
 - [[concepts/treasury-escrow-oversight]]
 - [[proposals/hardware-wallet-maintenance-2026]]
+- [[proposals/wirex-real-world-payments]]
 - [[proposals/cardano-vision-2026]]
 - [[proposals/tweag-core-cardano-infrastructure-2026-2028]]
