@@ -16,6 +16,10 @@ Confirmed [[proposals/update-plutus-cost-models]] on **2026-05-13** ([[sources/u
 
 The proposal frames TSC work as cross-pillar technical-governance infrastructure and states unspent treasury funds will be returned. It also notes execution is contingent on approval of the IntersectMBO budget proposal.
 
+## Funding context (Intersect operations 2026-2027)
+
+[[proposals/intersect-governance-coordination-and-technical-stewardship-2026]] funds Intersect's broader technical-stewardship layer (upgrade coordination, incident response, repo stewardship, security coordination) that interfaces with TSC governance functions. The withdrawal does not publish a named per-person compensation roster.
+
 ## Related
 
 - [[entities/intersect]]
@@ -24,4 +28,5 @@ The proposal frames TSC work as cross-pillar technical-governance infrastructure
 - [[proposals/committee-min-size-7-to-5]]
 - [[proposals/update-plutus-cost-models]]
 - [[proposals/technical-steering-committee-support-2026]]
+- [[proposals/intersect-governance-coordination-and-technical-stewardship-2026]]
 - [[concepts/van-rossem-hard-fork]]

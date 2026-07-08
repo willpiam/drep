@@ -133,3 +133,19 @@ Ingested Intersect treasury withdrawal JSON (₳3.96M / Wirex Visa card + open-s
 ## [2026-07-08] ingest | Withdraw 1,193,000 ada for Intersect Technical Steering Committee Support
 
 Ingested Intersect treasury withdrawal JSON (₳1.193M / 12-month TSC support across WP1 coordination, WP2 protocol-governance specialist groups, WP3 independent technical-review pilot). Created source summary and proposal page; updated Intersect and Technical Steering Committee entities plus treasury-escrow-oversight cross-links. Updated index and overview.
+
+## [2026-07-08] ingest | Withdraw 25,400,000 ada for Intersect: Governance coordination and technical stewardship
+
+Ingested Intersect treasury withdrawal JSON (₳25.4M / 12-month MBO operations, governance coordination, technical stewardship, incident response, and critical-process reserve). Created source summary and proposal page; updated Intersect, Civics Committee, Technical Steering Committee, Parameter Committee, and treasury-escrow-oversight cross-links. Updated index and overview.
+
+## [2026-07-08] query | Why two separate Intersect proposals
+
+Answered why Intersect submitted separate 2026 treasury actions for broad operations/technical stewardship and TSC-focused support, including dependency and scope-boundary interpretation.
+
+## [2026-07-08] filing | Intersect 2026: Why Two Separate Proposals
+
+Filed [[analysis/intersect-2026-why-two-proposals]] with reusable comparison of scope, governance granularity, evidence lines, and remaining uncertainty.
+
+## [2026-07-08] ingest | Bifrost: Unlocking Bitcoin DeFi on Cardano — Road to Mainnet (Phase 1 of 2)
+
+Ingested Bifrost treasury proposal JSON (₳12.33M / 9 months) for Phase 1 bridge hardening, security audits, private-mainnet readiness, and stewardship/economic setup before public launch. Created source summary, proposal page, FluidTokens and Lantr Engineering entities, and Bifrost bridge concept; updated Intersect admin cross-links, treasury-escrow-oversight context, index, and overview.

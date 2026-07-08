@@ -35,6 +35,8 @@ _Organizations, people, and governance bodies._
 | [entities/sundae-labs.md](entities/sundae-labs.md) | Sundae Labs — TRSC/PSSC treasury smart contracts; Oversight Committee member |
 | [entities/vacuumlabs.md](entities/vacuumlabs.md) | VacuumLabs — cardano-hw-cli and HW interop library; likely 2026 maintenance vendor |
 | [entities/wirex.md](entities/wirex.md) | Wirex — regulated Visa Principal Member; real-world payments treasury vendor |
+| [entities/fluidtokens.md](entities/fluidtokens.md) | FluidTokens — Cardano/Bitcoin DeFi builder; Bifrost Phase 1 co-proposer |
+| [entities/lantr-engineering.md](entities/lantr-engineering.md) | Lantr Engineering — Cardano/Bitcoin infrastructure R&D; Bifrost Phase 1 co-proposer |
 
 ## Concepts
 
@@ -68,6 +70,7 @@ _Governance topics, mechanisms, and recurring themes._
 | [concepts/project-swaminathan.md](concepts/project-swaminathan.md) | Live Cardano Mainnet agricultural onboarding pilot in Maharashtra; Catalyst F13 baseline |
 | [concepts/hardware-wallet-interoperability.md](concepts/hardware-wallet-interoperability.md) | CIP-21 HW signing constraints; canonical CBOR; device capability gaps |
 | [concepts/real-world-payments.md](concepts/real-world-payments.md) | Merchant spend rails — Visa cards, banking connectivity; complements stablecoin and L2 layers |
+| [concepts/bifrost-bitcoin-defi-bridge.md](concepts/bifrost-bitcoin-defi-bridge.md) | Bifrost bridge model — SPO-threshold BTC custody and fBTC liquidity rail framing |
 
 ## Sources
 
@@ -91,7 +94,9 @@ _Summaries of ingested raw documents (one page per source)._
 | [sources/withdraw-hardware-wallet-maintenance-2026.md](sources/withdraw-hardware-wallet-maintenance-2026.md) | Intersect: ₳1.31M, 12-month Ledger/Trezor + cardano-hw-cli maintenance; 2026 TRSC |
 | [sources/withdraw-wirex-real-world-payments.md](sources/withdraw-wirex-real-world-payments.md) | Intersect: ₳3.96M, Wirex Visa card + open-source payments infrastructure; 2026 TRSC |
 | [sources/withdraw-intersect-technical-steering-committee-support.md](sources/withdraw-intersect-technical-steering-committee-support.md) | Intersect: ₳1.193M, 12-month TSC support (WP1/WP2/WP3); independent technical-review pilot |
+| [sources/withdraw-intersect-governance-coordination-and-technical-stewardship.md](sources/withdraw-intersect-governance-coordination-and-technical-stewardship.md) | Intersect: ₳25.4M, MBO governance coordination + technical stewardship + incident response |
 | [sources/cip-21-hardware-wallet-interoperability.md](sources/cip-21-hardware-wallet-interoperability.md) | CIP-21: canonical CBOR and transaction restrictions for HW wallet signing |
+| [sources/bifrost-unlocking-bitcoin-defi-on-cardano-road-to-mainnet-phase-1-of-2.md](sources/bifrost-unlocking-bitcoin-defi-on-cardano-road-to-mainnet-phase-1-of-2.md) | Bifrost Phase 1: ₳12.33M for bridge hardening, audits, private mainnet readiness, and stewardship setup |
 
 ## Proposals
 
@@ -113,6 +118,8 @@ _Governance actions and vote-context syntheses._
 | [proposals/hardware-wallet-maintenance-2026.md](proposals/hardware-wallet-maintenance-2026.md) | Treasury withdrawal — HW wallet maintenance; ₳1.31M / 12 months; Intersect 2026 TRSC; DRep vote pending |
 | [proposals/wirex-real-world-payments.md](proposals/wirex-real-world-payments.md) | Treasury withdrawal — Wirex payments + Visa cards; ₳3.96M; Intersect 2026 TRSC; DRep Interesting (vote 72) |
 | [proposals/technical-steering-committee-support-2026.md](proposals/technical-steering-committee-support-2026.md) | Treasury withdrawal — Intersect TSC support; ₳1.193M / 12 months; Intersect 2026 TRSC; DRep vote pending |
+| [proposals/intersect-governance-coordination-and-technical-stewardship-2026.md](proposals/intersect-governance-coordination-and-technical-stewardship-2026.md) | Treasury withdrawal — Intersect operations + technical stewardship; ₳25.4M / 12 months; DRep vote pending |
+| [proposals/bifrost-road-to-mainnet-phase-1.md](proposals/bifrost-road-to-mainnet-phase-1.md) | Treasury withdrawal — Bifrost Phase 1 BTC bridge hardening/audits/private-mainnet readiness; ₳12.33M / 9 months; DRep vote not yet recorded |
 
 ## Analysis
 
@@ -129,6 +136,7 @@ _Comparisons, queries filed back, and exploratory write-ups._
 | [analysis/circle-usdcx-cci-costs.md](analysis/circle-usdcx-cci-costs.md) | Circle USDCx: no public V2 split; Year 2 was pre-contracted in V1; attestor + licensing fees; squeeze not provable |
 | [analysis/usdcx-two-year-funding-horizon.md](analysis/usdcx-two-year-funding-horizon.md) | V2 = one year USDCx ops (Year 2); Year 3+ needs future votes; liquidity/marketing excluded |
 | [analysis/ikigai-stuck-deposit-ledger-state.md](analysis/ikigai-stuck-deposit-ledger-state.md) | Ikigai ₳100k deposit: proposal pot → treasury after unregistered return address at expiry |
+| [analysis/intersect-2026-why-two-proposals.md](analysis/intersect-2026-why-two-proposals.md) | Why Intersect split 2026 asks into a ₳25.4M operating proposal and a separate ₳1.193M TSC package |
 
 ## Legacy vote context
 
