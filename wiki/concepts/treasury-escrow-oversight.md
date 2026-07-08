@@ -53,7 +53,7 @@ Enhancement-reserve drawdowns require Steering Committee scope approval; mainten
 
 ## Intersect TRSC model (Cardano Vision, Tweag)
 
-For [[proposals/cardano-vision-2026]], [[proposals/tweag-core-cardano-infrastructure-2026-2027]], [[proposals/tweag-core-cardano-infrastructure-2026-2028]], [[proposals/io-hydra]], [[proposals/5am-earth-trust-layer-vision-2030-kpis]], [[proposals/hardware-wallet-maintenance-2026]], and [[proposals/wirex-real-world-payments]], withdrawn ADA flows through Intersect's **Treasury Reserve Smart Contract (TRSC)** and project-specific **PSSC** contracts ([[entities/sundae-labs|Sundae Labs]] framework). This is a different pattern from Pebble's vendor-specific `treasury.ak` / `vendor.ak` board above.
+For [[proposals/cardano-vision-2026]], [[proposals/tweag-core-cardano-infrastructure-2026-2027]], [[proposals/tweag-core-cardano-infrastructure-2026-2028]], [[proposals/io-hydra]], [[proposals/5am-earth-trust-layer-vision-2030-kpis]], [[proposals/hardware-wallet-maintenance-2026]], [[proposals/wirex-real-world-payments]], and [[proposals/technical-steering-committee-support-2026]], withdrawn ADA flows through Intersect's **Treasury Reserve Smart Contract (TRSC)** and project-specific **PSSC** contracts ([[entities/sundae-labs|Sundae Labs]] framework). This is a different pattern from Pebble's vendor-specific `treasury.ak` / `vendor.ak` board above.
 
 [[proposals/5am-earth-trust-layer-vision-2030-kpis]] adds a **delivery/administration separation** explicit in constitutional terms: 5am.earth delivers; Intersect administers; Oversight Committee verifies admin actions; 3rd-party assurer reviews milestone deliverables. Payment schedule: ₳5M approval / ₳2M M1 / ₳3M M2 (M3 is evidence-only self-sustain gate).
 
@@ -92,6 +92,7 @@ Per on-chain proposal metadata ([[sources/tweag-core-cardano-infrastructure-2026
 - [[proposals/5am-earth-trust-layer-vision-2030-kpis]] — Intersect TRSC; 5/2/3 milestone schedule; public on-chain KPI dashboard
 - [[proposals/hardware-wallet-maintenance-2026]] — Intersect 2026 TRSC; Ledger/Trezor + cardano-hw-cli maintenance; updated six-member Oversight Committee
 - [[proposals/wirex-real-world-payments]] — Intersect 2026 TRSC; Wirex Visa card + open-source payments infrastructure; same six-member Oversight Committee
+- [[proposals/technical-steering-committee-support-2026]] — Intersect 2026 TRSC; 12-month TSC governance support and pilot independent technical review
 - [[concepts/hardware-wallet-interoperability]] — CIP-21 signing constraints maintained by treasury-funded tooling
 - [[concepts/real-world-payments]] — merchant spend rails complementing stablecoin and L2 layers
 

@@ -90,6 +90,7 @@ _Summaries of ingested raw documents (one page per source)._
 | [sources/5am-earth-trust-layer-vision-2030-kpis.md](sources/5am-earth-trust-layer-vision-2030-kpis.md) | 5am.earth: ₳10M, 18-month agricultural trust layer; India/Cambodia/Kenya; Vision 2030 KPI alignment |
 | [sources/withdraw-hardware-wallet-maintenance-2026.md](sources/withdraw-hardware-wallet-maintenance-2026.md) | Intersect: ₳1.31M, 12-month Ledger/Trezor + cardano-hw-cli maintenance; 2026 TRSC |
 | [sources/withdraw-wirex-real-world-payments.md](sources/withdraw-wirex-real-world-payments.md) | Intersect: ₳3.96M, Wirex Visa card + open-source payments infrastructure; 2026 TRSC |
+| [sources/withdraw-intersect-technical-steering-committee-support.md](sources/withdraw-intersect-technical-steering-committee-support.md) | Intersect: ₳1.193M, 12-month TSC support (WP1/WP2/WP3); independent technical-review pilot |
 | [sources/cip-21-hardware-wallet-interoperability.md](sources/cip-21-hardware-wallet-interoperability.md) | CIP-21: canonical CBOR and transaction restrictions for HW wallet signing |
 
 ## Proposals
@@ -111,6 +112,7 @@ _Governance actions and vote-context syntheses._
 | [proposals/5am-earth-trust-layer-vision-2030-kpis.md](proposals/5am-earth-trust-layer-vision-2030-kpis.md) | Treasury withdrawal — agricultural trust layer; ₳10M / 18 months; Intersect TRSC; DRep vote pending |
 | [proposals/hardware-wallet-maintenance-2026.md](proposals/hardware-wallet-maintenance-2026.md) | Treasury withdrawal — HW wallet maintenance; ₳1.31M / 12 months; Intersect 2026 TRSC; DRep vote pending |
 | [proposals/wirex-real-world-payments.md](proposals/wirex-real-world-payments.md) | Treasury withdrawal — Wirex payments + Visa cards; ₳3.96M; Intersect 2026 TRSC; DRep Interesting (vote 72) |
+| [proposals/technical-steering-committee-support-2026.md](proposals/technical-steering-committee-support-2026.md) | Treasury withdrawal — Intersect TSC support; ₳1.193M / 12 months; Intersect 2026 TRSC; DRep vote pending |
 
 ## Analysis
 

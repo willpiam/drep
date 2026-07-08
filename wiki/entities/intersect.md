@@ -28,6 +28,7 @@ Per [[sources/cardano-vision-2026-ior]], [[sources/tweag-core-cardano-infrastruc
 | [[proposals/5am-earth-trust-layer-vision-2030-kpis|5am.earth trust layer]] | [[entities/5am-earth-foundation|5am.earth Foundation]] | ₳10M — 18-month agricultural trust layer |
 | [[proposals/hardware-wallet-maintenance-2026|Hardware wallet maintenance]] | Vendor (Intersect submitter) | ₳1.31M — 12-month Ledger/Trezor + cardano-hw-cli upkeep |
 | [[proposals/wirex-real-world-payments|Wirex real-world payments]] | [[entities/wirex|Wirex]] | ₳3.96M — Visa card + open-source payments infrastructure |
+| [[proposals/technical-steering-committee-support-2026|TSC support 2026]] | [[entities/technical-steering-committee|Intersect Technical Steering Committee]] | ₳1.193M — 12-month technical-governance support (WP1/WP2/WP3) |
 | [[entities/eternl|Eternl]] (2025 budget) | [[entities/tastenkunst|Tastenkunst GmbH]] | ₳583,000 — funding period ends July 2026 |
 
 The 2026–2027 [[proposals/eternl-path-to-sustainability-2026-2027]] proposal shifts Eternl fund administration from Intersect to Tastenkunst self-administration with a [[concepts/treasury-payback-model|revenue payback]] model.
@@ -57,6 +58,7 @@ Intersect also coordinates **parameter-change** governance actions through inter
 - [[proposals/5am-earth-trust-layer-vision-2030-kpis]]
 - [[proposals/hardware-wallet-maintenance-2026]]
 - [[proposals/wirex-real-world-payments]]
+- [[proposals/technical-steering-committee-support-2026]]
 - [[entities/wirex]]
 - [[entities/sundae-labs]]
 - [[entities/vacuumlabs]]

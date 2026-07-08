@@ -129,3 +129,7 @@ Ingested Intersect treasury withdrawal JSON (₳1.31M / 12-month Ledger-Trezor +
 ## [2026-07-05] ingest | Wirex Real-World Payments
 
 Ingested Intersect treasury withdrawal JSON (₳3.96M / Wirex Visa card + open-source payments infrastructure). Created source summary, proposal page, Wirex entity, real-world-payments concept. Updated Intersect, Sundae Labs, treasury-escrow-oversight, cardano-critical-integrations cross-links. Updated index and overview.
+
+## [2026-07-08] ingest | Withdraw 1,193,000 ada for Intersect Technical Steering Committee Support
+
+Ingested Intersect treasury withdrawal JSON (₳1.193M / 12-month TSC support across WP1 coordination, WP2 protocol-governance specialist groups, WP3 independent technical-review pilot). Created source summary and proposal page; updated Intersect and Technical Steering Committee entities plus treasury-escrow-oversight cross-links. Updated index and overview.
