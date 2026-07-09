@@ -19,6 +19,69 @@ The proposal argues Cardano's eUTxO model, native assets, fee predictability, an
 | Atomic-swap fast lane | Optional faster entry path with premium fee |
 | SDK / white-label | Embeddable bridge access for wallets and dApps |
 
+## Security model
+
+Bifrost's security model is **threshold custody of real BTC on Bitcoin**, with **Cardano-side mint/burn of fBTC** and **permissionless observation** of Bitcoin state. The proposal frames it as avoiding a company, foundation, or fixed small signer committee in favour of Cardano's existing SPO set.
+
+### Actors and trust assumptions
+
+| Actor | Role | Trust assumption (proposal framing) |
+|-------|------|-------------------------------------|
+| **Users** | Deposit BTC, claim fBTC, return fBTC, receive BTC | Self-custody of claim/withdrawal actions |
+| **Watchtowers** | Observe Bitcoin and post confirmed headers to Cardano | Permissionless; anyone can run one |
+| **SPOs** | Co-sign BTC releases via threshold signing | Majority of delegated stake must cooperate to move locked BTC |
+| **Federated fallback** | Continuity path if SPO coordination fails | Separate operational fallback mode; trust profile not fully specified in Phase 1 metadata |
+
+### Core flows
+
+**Deposit (peg-in):**
+
+1. User sends BTC to a **Taproot custody script** on Bitcoin.
+2. A watchtower posts the confirmed deposit to Cardano.
+3. User claims equivalent **fBTC** on Cardano in a self-service transaction (no operator approval).
+
+**Withdrawal (peg-out):**
+
+1. User returns fBTC on Cardano.
+2. A **cryptographic threshold of SPOs** co-signs the Bitcoin release transaction.
+3. BTC is sent to the user's Bitcoin address. Withdrawals can be partial.
+
+**Fast lane (optional):** non-custodial **atomic swap** between a BTC holder entering Cardano and an fBTC holder providing instant liquidity; both sides cryptographically locked.
+
+### Cryptographic custody design
+
+- **FROST** (Flexible Round-Optimized Schnorr Threshold) produces a single Schnorr signature from many signers off-chain.
+- On Bitcoin, the spend appears as a normal **Taproot** transaction — compact and not visibly exposing signer count.
+- Custody is intended to scale to **400+ SPOs**, weighted by delegation, rather than a small fixed multisig set.
+- Moving funds requires a threshold representing the **majority of delegated stake**.
+- **Trade-off acknowledged:** off-chain signing rounds require signer liveness; stalled coordination stalls signing. Mitigations claimed: persistent SPO infrastructure + federated fallback.
+
+### What is *not* the security model
+
+- Not a custodial wrapped-BTC company holding keys.
+- Not synthetic BTC price exposure — fBTC is 1:1 with BTC locked in the Bitcoin script.
+- Not an ADA bridge — only BTC/fBTC movement between Bitcoin and Cardano.
+- Not BitVM/optimistic fraud-proof style — Bifrost uses threshold signing, not 1-of-N challenge games.
+
+### Assurance and rollout controls (Phase 1 emphasis)
+
+The proposal treats security as both **design** and **process**:
+
+- External audits: smart contracts, cryptographic protocol (Tapscript/FROST/Schnorr/DKG), off-chain components.
+- Formal verification of critical paths.
+- Penetration testing and bug bounty from private mainnet.
+- Staged rollout: private mainnet with real BTC under controlled access and TVL cap before public Phase 2.
+- Both custody modes (SPO threshold and federated fallback) must be demonstrated on mainnet before public launch.
+
+### Residual risks (as stated in proposal)
+
+| Risk | Residual exposure claimed |
+|------|---------------------------|
+| Smart-contract / crypto exploit | Low but non-zero; bounded early by TVL cap and bug bounty |
+| Custody validation on private mainnet | Bounded exposure under controlled access before public scale |
+| SPO coordination failure | Federated fallback; signing stalls if both paths fail |
+| Federated fallback mode | Open question — different trust concentration than full SPO threshold |
+
 ## Security and economics framing
 
 - Security emphasis: external audits, formal verification, pentest, bug bounty, and staged private-mainnet exposure before public launch.

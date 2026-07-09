@@ -70,7 +70,7 @@ _Governance topics, mechanisms, and recurring themes._
 | [concepts/project-swaminathan.md](concepts/project-swaminathan.md) | Live Cardano Mainnet agricultural onboarding pilot in Maharashtra; Catalyst F13 baseline |
 | [concepts/hardware-wallet-interoperability.md](concepts/hardware-wallet-interoperability.md) | CIP-21 HW signing constraints; canonical CBOR; device capability gaps |
 | [concepts/real-world-payments.md](concepts/real-world-payments.md) | Merchant spend rails — Visa cards, banking connectivity; complements stablecoin and L2 layers |
-| [concepts/bifrost-bitcoin-defi-bridge.md](concepts/bifrost-bitcoin-defi-bridge.md) | Bifrost bridge model — SPO-threshold BTC custody and fBTC liquidity rail framing |
+| [concepts/bifrost-bitcoin-defi-bridge.md](concepts/bifrost-bitcoin-defi-bridge.md) | Bifrost bridge model — FROST/Taproot SPO-threshold custody, watchtowers, federated fallback, staged assurance |
 
 ## Sources
 

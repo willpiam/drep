@@ -149,3 +149,7 @@ Filed [[analysis/intersect-2026-why-two-proposals]] with reusable comparison of 
 ## [2026-07-08] ingest | Bifrost: Unlocking Bitcoin DeFi on Cardano — Road to Mainnet (Phase 1 of 2)
 
 Ingested Bifrost treasury proposal JSON (₳12.33M / 9 months) for Phase 1 bridge hardening, security audits, private-mainnet readiness, and stewardship/economic setup before public launch. Created source summary, proposal page, FluidTokens and Lantr Engineering entities, and Bifrost bridge concept; updated Intersect admin cross-links, treasury-escrow-oversight context, index, and overview.
+
+## [2026-07-09] query | Bifrost security model
+
+Answered how Bifrost secures BTC custody and fBTC issuance: SPO-weighted FROST/Taproot threshold signing, permissionless watchtowers, federated fallback, and staged audit/private-mainnet controls. Filed expanded security-model section on [[concepts/bifrost-bitcoin-defi-bridge]].
