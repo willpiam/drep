@@ -29,12 +29,18 @@ IOG co-proposes [[concepts/cardano-critical-integrations|Cardano Critical Integr
 
 [[proposals/io-hydra|IO: Hydra]] requests **₳5,100,781** to harden **[[concepts/hydra|Hydra]] v2** — state-channel L2 with production users (Delta DeFi, Masumi, Intersect voting, Blockfrost, etc.). Intersect administers via TRSC/PSSC. DRep vote context records **YES** ([vote 62](../../vote_context/markdown/62_ioHydra.md), 2026-06-14).
 
+## Blockfrost not-for-profit transition (2026)
+
+[[proposals/blockfrost-transformation-to-not-for-profit|Blockfrost: Transformation to not-for-profit]] requests **₳9,832,979** over 18 months to transfer **[[entities/blockfrost|Blockfrost]]** IP and operations to a community-governed NFP with a free public API. IOG co-proposes with [[entities/intersect|Intersect]] witness; Intersect administers via 2026 TRSC/PSSC. Prior Blockfrost workstream receipt: **₳1,137,500** (88%). An earlier Blockfrost treasury ask was not funded; this revision responds to community reluctance to subsidize a commercial structure.
+
 ## Related
 
 - [[entities/io-research]]
 - [[entities/intersect]]
 - [[proposals/cardano-vision-2026]]
 - [[proposals/io-hydra]]
+- [[proposals/blockfrost-transformation-to-not-for-profit]]
+- [[entities/blockfrost]]
 - [[proposals/cardano-critical-integrations-v1]]
 - [[proposals/cardano-critical-integrations-v2]]
 - [[concepts/cardano-critical-integrations]]

@@ -37,6 +37,10 @@ _Organizations, people, and governance bodies._
 | [entities/wirex.md](entities/wirex.md) | Wirex — regulated Visa Principal Member; real-world payments treasury vendor |
 | [entities/fluidtokens.md](entities/fluidtokens.md) | FluidTokens — Cardano/Bitcoin DeFi builder; Bifrost Phase 1 co-proposer |
 | [entities/lantr-engineering.md](entities/lantr-engineering.md) | Lantr Engineering — Cardano/Bitcoin infrastructure R&D; Bifrost Phase 1 co-proposer |
+| [entities/blockfrost.md](entities/blockfrost.md) | Blockfrost — dominant Cardano hosted REST API; Icebreakers decentralization; NFP transition ask |
+| [entities/cardano-builder-dao.md](entities/cardano-builder-dao.md) | Cardano Builder DAO — smart contract-governed Initiative DAO; KPI-linked builder funding |
+| [entities/clarity.md](entities/clarity.md) | Clarity — Initiative DAO platform (clarity.vote); CB DAO enabler |
+| [entities/christian-taylor.md](entities/christian-taylor.md) | Christian Taylor — ex-Intersect OSPO head; Open Source Cowboy; dOSPO/OMF proposer |
 
 ## Concepts
 
@@ -71,6 +75,11 @@ _Governance topics, mechanisms, and recurring themes._
 | [concepts/hardware-wallet-interoperability.md](concepts/hardware-wallet-interoperability.md) | CIP-21 HW signing constraints; canonical CBOR; device capability gaps |
 | [concepts/real-world-payments.md](concepts/real-world-payments.md) | Merchant spend rails — Visa cards, banking connectivity; complements stablecoin and L2 layers |
 | [concepts/bifrost-bitcoin-defi-bridge.md](concepts/bifrost-bitcoin-defi-bridge.md) | Bifrost bridge model — FROST/Taproot SPO-threshold custody, watchtowers, federated fallback, staged assurance |
+| [concepts/blockfrost-decentralization.md](concepts/blockfrost-decentralization.md) | Blockfrost Icebreakers and community-governed NFP transition path |
+| [concepts/ecosystem-kpi-funding.md](concepts/ecosystem-kpi-funding.md) | Treasury sub-grants tied to MAU, transactions, and TVL — Vision 2030 KPI accountability |
+| [concepts/initiative-dao.md](concepts/initiative-dao.md) | Smart contract-governed funding bodies — Clarity platform; CB DAO as live example |
+| [concepts/dospo-omf.md](concepts/dospo-omf.md) | Decentralized OSPO + Open Maintenance Framework — dependency-driven OSS sustainment |
+| [concepts/paid-open-source-model.md](concepts/paid-open-source-model.md) | Intersect POSM — Maintainer Retainer, Tooling Sustainability; predecessor to dOSPO |
 
 ## Sources
 
@@ -97,6 +106,9 @@ _Summaries of ingested raw documents (one page per source)._
 | [sources/withdraw-intersect-governance-coordination-and-technical-stewardship.md](sources/withdraw-intersect-governance-coordination-and-technical-stewardship.md) | Intersect: ₳25.4M, MBO governance coordination + technical stewardship + incident response |
 | [sources/cip-21-hardware-wallet-interoperability.md](sources/cip-21-hardware-wallet-interoperability.md) | CIP-21: canonical CBOR and transaction restrictions for HW wallet signing |
 | [sources/bifrost-unlocking-bitcoin-defi-on-cardano-road-to-mainnet-phase-1-of-2.md](sources/bifrost-unlocking-bitcoin-defi-on-cardano-road-to-mainnet-phase-1-of-2.md) | Bifrost Phase 1: ₳12.33M for bridge hardening, audits, private mainnet readiness, and stewardship setup |
+| [sources/blockfrost-transformation-to-not-for-profit.md](sources/blockfrost-transformation-to-not-for-profit.md) | IOG: ₳9.83M, 18-month Blockfrost NFP transition, IP transfer, elected board, free public API |
+| [sources/cardano-builder-dao.md](sources/cardano-builder-dao.md) | CB DAO: continuation treasury withdrawal; KPI-linked Initiative DAO; dRep council admin |
+| [sources/revised-cardano-dospo-and-omf-program-proposal.md](sources/revised-cardano-dospo-and-omf-program-proposal.md) | Revised dOSPO/OMF: ₳4.09M / 12-month OSS sustainment pilot; Article II.7.5 administrator at withdrawal |
 
 ## Proposals
 
@@ -120,6 +132,9 @@ _Governance actions and vote-context syntheses._
 | [proposals/technical-steering-committee-support-2026.md](proposals/technical-steering-committee-support-2026.md) | Treasury withdrawal — Intersect TSC support; ₳1.193M / 12 months; Intersect 2026 TRSC; DRep vote pending |
 | [proposals/intersect-governance-coordination-and-technical-stewardship-2026.md](proposals/intersect-governance-coordination-and-technical-stewardship-2026.md) | Treasury withdrawal — Intersect operations + technical stewardship; ₳25.4M / 12 months; DRep vote pending |
 | [proposals/bifrost-road-to-mainnet-phase-1.md](proposals/bifrost-road-to-mainnet-phase-1.md) | Treasury withdrawal — Bifrost Phase 1 BTC bridge hardening/audits/private-mainnet readiness; ₳12.33M / 9 months; DRep vote not yet recorded |
+| [proposals/blockfrost-transformation-to-not-for-profit.md](proposals/blockfrost-transformation-to-not-for-profit.md) | Treasury withdrawal — Blockfrost NFP transition; ₳9.83M / 18 months; IOG + Intersect; DRep vote pending |
+| [proposals/cardano-builder-dao.md](proposals/cardano-builder-dao.md) | Treasury withdrawal — Cardano Builder DAO continuation; Initiative DAO; dRep council admin; DRep vote pending (vote 72) |
+| [proposals/revised-cardano-dospo-and-omf-program-2026.md](proposals/revised-cardano-dospo-and-omf-program-2026.md) | Treasury withdrawal — dOSPO/OMF 12-month pilot; ₳4.09M; sole Article II.7.5 administrator; DRep vote pending (original abstain vote 57) |
 
 ## Analysis
 

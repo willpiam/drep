@@ -18,6 +18,14 @@ Funds convert to stablecoins in a public wallet. **Every December and June:**
 
 **Not counted toward payback:** Eternl DApp Browser / MonsterSwap service fees (cover office, legal, licenses). **Ada price guard:** if ADA > $0.25 at conversion, only $420k kept as stablecoins; excess ADA returned immediately.
 
+## Blockfrost NFP commercial payback (proposed, post-subsidy)
+
+[[proposals/blockfrost-transformation-to-not-for-profit]] is primarily an **18-month milestone-escrowed transition** ([[concepts/treasury-escrow-oversight|Intersect TRSC/PSSC]]), not a payback-first operational grant. However, its **post-subsidy sustainability** section proposes that an elected not-for-profit board may operate **paid API tiers** with **profits returned to the Cardano Treasury** — structurally similar to Eternl's voluntary repayment but deferred to board discretion after the treasury subsidy ends. A vendor-backed federation alternative would route membership fees to the NFP rather than direct treasury payback. Neither path is contractually locked in the initial 18-month ask.
+
+## CB DAO unused-fund return
+
+[[proposals/cardano-builder-dao|Cardano Builder DAO]] commits to returning **unused or unallocated** DAO treasury funds to the Cardano Treasury after approved work completes — not a revenue payback model, but a **surplus-return** practice. After rounds 1–2, CB DAO returned **₳354,790** ([on-chain tx](https://adastat.net/transactions/dfcf57c8c65c50bb208106db91b2db38c4a7512f9fbf100f9f5e1f6301ceb8fc)).
+
 ## Contrast with other treasury patterns
 
 | Pattern | Example | Release trigger |
@@ -25,6 +33,8 @@ Funds convert to stablecoins in a public wallet. **Every December and June:**
 | Milestone escrow + oversight board | [[proposals/pebble-ecosystem-maintenance-2026]] | Deliverable acceptance per milestone |
 | Intersect TRSC/PSSC + assurer | [[proposals/tweag-core-cardano-infrastructure-2026-2028]] | Contract milestones + 3rd-party assurance |
 | Operational grant + revenue payback | [[proposals/eternl-path-to-sustainability-2026-2027]] | Calendar surplus assessments vs Pro revenue |
+| Transition escrow + future NFP revenue to treasury | [[proposals/blockfrost-transformation-to-not-for-profit]] | Milestones during subsidy; board-chosen commercial model afterward |
+| Initiative DAO sub-grants + unused return | [[proposals/cardano-builder-dao]] | Member-governed allocation; surplus returned after funding rounds |
 
 ## Open questions
 
@@ -37,4 +47,6 @@ Funds convert to stablecoins in a public wallet. **Every December and June:**
 - [[entities/eternl]]
 - [[entities/tastenkunst]]
 - [[proposals/eternl-path-to-sustainability-2026-2027]]
+- [[proposals/blockfrost-transformation-to-not-for-profit]]
+- [[proposals/cardano-builder-dao]]
 - [[concepts/treasury-escrow-oversight]]

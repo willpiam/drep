@@ -31,6 +31,8 @@ Targets referenced include **27M monthly transactions**, **3× throughput**, and
 
 Real-world adoption proposals also cite Vision 2030 pillar alignment. [[proposals/5am-earth-trust-layer-vision-2030-kpis]] projects by 2030: **3M farmers**, **112.5M annual on-chain transactions**, **$900M TVL**, and **16–20M ADA** annual protocol revenue from an [[concepts/agricultural-trust-layer|agricultural trust layer]] — contrasting with IOR's protocol-research framing but sharing the same KPI vocabulary.
 
+Builder-led sub-grants use the same KPI vocabulary through **[[concepts/ecosystem-kpi-funding|ecosystem KPI funding]]**. The **[[entities/cardano-builder-dao|Cardano Builder DAO]]** requires funded members to track MAU, monthly transactions, and TVL, with a public dashboard evolving from self-reporting (v1) to on-chain verification (v2). See [[proposals/cardano-builder-dao]].
+
 ## Sources
 
 - [[sources/cardano-vision-2026-ior]]

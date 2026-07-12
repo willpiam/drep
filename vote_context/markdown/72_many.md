@@ -47,6 +47,17 @@ NCL Change | gov_action15atytcy8ru7mkcs8m7r8mx7k5x36t0h6grtgmak6v5wmf4nq07lsqhak
 | Ticketing Platform | gov_action1xk6yrz0tg72a2a63ytd99gapz46nlqlavckarleqt6nr8lyekd8qqp0ga3d | No | 44fd50fe3ee030f3078482624406dc8880d2efadc8f4c0d82ee0ec966762c120 | bafkreihpvinilgr5kqgl3n5ojcichb54dgin2mpg3v6lmrxvhwzn54bzji |
 | ₳120M for AlphaGrowth’s Cardano PRIME | gov_action122wue2k65qq8gmpz795z2axt8apka6ay6xt3pwg8jxj5yfkujmtsqvlfpu7 | No | a665ccc75bdb66875fe7960a661776db90fcde64cb6e508b3db96844354d2027 | bafkreicucwdqoa5sqfpiyfmj2oxuu6p5tkrphhdeyv2fzw5ewspnsjid7a |
 | Se7en Labs: Daedalus | gov_action1mr0qdz2jmagvsch6r08fhqvq6vu8jakt4c8m9s7ea7z0p740vntqq4yjd6j | Yes | 8af551cebd37c194e0f9f98176d040fdbb4d9504024946da1ee645970b2413dc | bafkreibgkr3eqow2pfxnmjvxg5d35gedoyoeuydjvlkitmcvelbvwrrtqq |
+| Blockfrost not-for-profit | gov_action12sumv9qky4pkenmqp7gshv9nxqdk9zyn8gkd77fewkyy3t5tnxtsq457vgq | | | |
+| Cardano Builder DAO | gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc | No | 240a5fdb6d04671ba273942193e34ab960114ac5cf2d87df4d152f495a3dd188 | bafkreieqd2zms6njxyfr43rhbfasnuzokkhav2qztrelvsvtvsifagfzle |
+| dOSPO and OMF Program | gov_action19apfhh339syqd0gkrxw6zr6pghdfspckr6vagjrpwnr0hx53lxpsq637y3t | No | bafkreiafa64xyrzohxg4yx7nub2kzjf47pvd6k6zthlxhpdcewcshqdogq | 2c3da0ed041fab2acb844aee9789550875c5244002f3816533bd0de2bbc328bd |
+
+
+#### Batch 2 Thoughts
+
+
+- Blockfrost
+    - I use Blockfrost quite a bit
+    - I haven't paid them a subscription fee in a very long time, if ever. 
 
 
 Thank you for your attention on this matter. 

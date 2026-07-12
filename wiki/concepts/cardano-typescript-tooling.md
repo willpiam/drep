@@ -23,9 +23,23 @@
 
 The proposal names Mesh, Lucid Evolution, and Midgard as downstream projects that depend on the Harmonic Labs stack directly or transitively. It also points to wallet integrations, indexers, dApp backends, and other production projects as affected consumers.
 
+## Hosted API layer (Blockfrost)
+
+[[entities/blockfrost|Blockfrost]] is complementary to in-process TypeScript libraries: it provides a **hosted REST API** for chain reads and transaction submission so teams avoid running nodes. Per [[sources/blockfrost-transformation-to-not-for-profit]], it is the **#1 hosted platform** in the Cardano Foundation developer survey (71.5% in 2025) and carries **>50% of mainnet transaction submissions** in most epochs (proposer claim). [[proposals/blockfrost-transformation-to-not-for-profit]] asks treasury support to keep the **free tier** viable under community-governed not-for-profit stewardship — a public-goods argument parallel to library maintenance, but at the infrastructure/API layer rather than npm packages.
+
 ## Governance relevance
 
 The maintenance argument is a public-goods argument: if core library updates are not funded centrally, the proposal says the cost is pushed to each downstream team through emergency work, forks, frozen versions, or migration away from shared infrastructure. This makes the funding question partly about developer experience and partly about keeping protocol upgrades coherent across the ecosystem.
+
+## Ecosystem-wide maintenance (dOSPO/OMF)
+
+[[proposals/revised-cardano-dospo-and-omf-program-2026]] proposes a **cross-stack Maintenance Fund** (WP2) that would fund highest-centrality OSS — protocol libraries, wallet SDKs, developer tooling, indexers — by dependency audit rather than per-project proposals. This is complementary in scope to [[proposals/pebble-ecosystem-maintenance-2026]] (Harmonic Labs–specific) and [[proposals/blockfrost-transformation-to-not-for-profit]] (hosted API layer). The dOSPO proposer commits to deliberate non-overlap with existing programs; overlap risk with Pebble/Blockfrost/Eternl TypeScript stacks remains an open governance question.
+
+## Related proposals
+
+- [[proposals/blockfrost-transformation-to-not-for-profit]] — hosted API public-good transition
+- [[proposals/pebble-ecosystem-maintenance-2026]] — TypeScript ledger/UPLC library maintenance
+- [[proposals/revised-cardano-dospo-and-omf-program-2026]] — ecosystem-wide dependency-driven retainer fund
 
 ## Related votes
 

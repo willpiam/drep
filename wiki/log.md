@@ -153,3 +153,15 @@ Ingested Bifrost treasury proposal JSON (₳12.33M / 9 months) for Phase 1 bridg
 ## [2026-07-09] query | Bifrost security model
 
 Answered how Bifrost secures BTC custody and fBTC issuance: SPO-weighted FROST/Taproot threshold signing, permissionless watchtowers, federated fallback, and staged audit/private-mainnet controls. Filed expanded security-model section on [[concepts/bifrost-bitcoin-defi-bridge]].
+
+## [2026-07-10] ingest | Blockfrost's transformation to not-for-profit
+
+Ingested IOG treasury proposal JSON (₳9.83M / 18-month Blockfrost not-for-profit transition, IP transfer, elected board, free public API). Created source summary, proposal page, Blockfrost entity, and blockfrost-decentralization concept. Updated IOG, Intersect, treasury-payback-model, treasury-escrow-oversight, and cardano-typescript-tooling cross-links. Updated index and overview.
+
+## [2026-07-10] ingest | Cardano Builder DAO
+
+Ingested CB DAO treasury continuation JSON: Initiative DAO with KPI-linked builder funding (MAU, transactions, TVL), ₳11.1M distributed in 2 prior rounds, dRep DAO council multisig admin (distinct from Intersect TRSC). Created source summary, proposal page, Cardano Builder DAO and Clarity entities, initiative-dao and ecosystem-kpi-funding concepts. Updated cardano-vision, treasury-escrow-oversight, treasury-payback-model, index, and overview.
+
+## [2026-07-12] ingest | Revised Cardano dOSPO and OMF Program Proposal
+
+Ingested revised treasury proposal JSON (₳4,094,000 / 12-month pilot). Successor to failed ₳12M/36-month dOSPO ask (vote 57 abstain). Created source summary, proposal page, Christian Taylor entity, dospo-omf and paid-open-source-model concepts. Updated Intersect OSPO/POSM history, treasury-escrow-oversight Article II.7.5 pattern, cardano-typescript-tooling cross-links, index, and overview.

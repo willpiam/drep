@@ -23,6 +23,7 @@ Per [[sources/cardano-vision-2026-ior]], [[sources/tweag-core-cardano-infrastruc
 | [[proposals/tweag-core-cardano-infrastructure-2026-2027]] | [[entities/tweag|Tweag]] (Intersect submitter) | ₳18.3M |
 | [[proposals/tweag-core-cardano-infrastructure-2026-2028]] | [[entities/tweag|Tweag]] | ₳39.8M |
 | [[proposals/io-hydra]] | [[entities/input-output-group|IOG]] | ₳5.1M |
+| [[proposals/blockfrost-transformation-to-not-for-profit|Blockfrost NFP transition]] | [[entities/input-output-group|IOG]] (Intersect witness) | ₳9.83M — 18-month API public-good transition |
 | [[proposals/cardano-critical-integrations-v1|CCI V1]] | Pentad (IOG, CF, EMURGO, Midnight) | ₳70M — enacted Dec 2025 |
 | [[proposals/cardano-critical-integrations-v2|CCI V2]] | Pentad + Intersect as Administrator | ₳23M — 12-month maintenance |
 | [[proposals/5am-earth-trust-layer-vision-2030-kpis|5am.earth trust layer]] | [[entities/5am-earth-foundation|5am.earth Foundation]] | ₳10M — 18-month agricultural trust layer |
@@ -34,6 +35,12 @@ Per [[sources/cardano-vision-2026-ior]], [[sources/tweag-core-cardano-infrastruc
 | [[entities/eternl|Eternl]] (2025 budget) | [[entities/tastenkunst|Tastenkunst GmbH]] | ₳583,000 — funding period ends July 2026 |
 
 The 2026–2027 [[proposals/eternl-path-to-sustainability-2026-2027]] proposal shifts Eternl fund administration from Intersect to Tastenkunst self-administration with a [[concepts/treasury-payback-model|revenue payback]] model.
+
+## Open source governance (OSPO / POSM)
+
+[[entities/christian-taylor|Christian Taylor]] built Intersect's open source governance function as Senior Manager of Open Source Governance and Head of OSPO — designing contribution frameworks and the maintainer support architecture that informed the **[[concepts/paid-open-source-model|Paid Open Source Model (POSM)]]** (Maintainer Retainer, Tooling Sustainability, Developer Advocates). POSM treasury funding flowed to Intersect MBO via the Open Source Committee, not to Taylor personally.
+
+Taylor departed Intersect to pursue **[[concepts/dospo-omf|dOSPO/OMF]]** independently via Open Source Cowboy Consulting. The revised treasury pilot ([[proposals/revised-cardano-dospo-and-omf-program-2026]]) positions itself as evolving POSM lessons through a governance-independent, data-driven maintenance layer — explicitly **not** Intersect-administered TRSC/PSSC.
 
 ## Governance parameter proposals
 
