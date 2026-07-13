@@ -34,3 +34,5 @@ Funds in TRSC/PSSC delegate to the **auto-abstain predefined DRep** and cannot s
 - [[proposals/wirex-real-world-payments]]
 - [[proposals/cardano-vision-2026]]
 - [[proposals/tweag-core-cardano-infrastructure-2026-2028]]
+- [[proposals/scalus-2026]] — Lantr vendor escrow via same treasury-contracts framework
+- [[proposals/bifrost-road-to-mainnet-phase-1]] — referenced escrow pattern in Phase 1 metadata

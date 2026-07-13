@@ -36,7 +36,11 @@ _Organizations, people, and governance bodies._
 | [entities/vacuumlabs.md](entities/vacuumlabs.md) | VacuumLabs — cardano-hw-cli and HW interop library; likely 2026 maintenance vendor |
 | [entities/wirex.md](entities/wirex.md) | Wirex — regulated Visa Principal Member; real-world payments treasury vendor |
 | [entities/fluidtokens.md](entities/fluidtokens.md) | FluidTokens — Cardano/Bitcoin DeFi builder; Bifrost Phase 1 co-proposer |
-| [entities/lantr-engineering.md](entities/lantr-engineering.md) | Lantr Engineering — Cardano/Bitcoin infrastructure R&D; Bifrost Phase 1 co-proposer |
+| [entities/lantr-engineering.md](entities/lantr-engineering.md) | Lantr Engineering — Scalus maintainer; Bifrost Phase 1 co-proposer |
+| [entities/sundial-protocol.md](entities/sundial-protocol.md) | Sundial Protocol — Alchemy BTCfi co-proposer; 2026 TRSC Oversight Committee member |
+| [entities/charms.md](entities/charms.md) | Charms — Bitcoin meta-protocol layer; Alchemy technical partner |
+| [entities/dano-finance.md](entities/dano-finance.md) | Dano Finance — Cardano DeFi protocol; DeFi Kernel treasury proposer |
+| [entities/minswap-labs.md](entities/minswap-labs.md) | Minswap Labs — budget administrator for DeFi Kernel proposal |
 | [entities/blockfrost.md](entities/blockfrost.md) | Blockfrost — dominant Cardano hosted REST API; Icebreakers decentralization; NFP transition ask |
 | [entities/cardano-builder-dao.md](entities/cardano-builder-dao.md) | Cardano Builder DAO — smart contract-governed Initiative DAO; KPI-linked builder funding |
 | [entities/clarity.md](entities/clarity.md) | Clarity — Initiative DAO platform (clarity.vote); CB DAO enabler |
@@ -75,6 +79,10 @@ _Governance topics, mechanisms, and recurring themes._
 | [concepts/hardware-wallet-interoperability.md](concepts/hardware-wallet-interoperability.md) | CIP-21 HW signing constraints; canonical CBOR; device capability gaps |
 | [concepts/real-world-payments.md](concepts/real-world-payments.md) | Merchant spend rails — Visa cards, banking connectivity; complements stablecoin and L2 layers |
 | [concepts/bifrost-bitcoin-defi-bridge.md](concepts/bifrost-bitcoin-defi-bridge.md) | Bifrost bridge model — FROST/Taproot SPO-threshold custody, watchtowers, federated fallback, staged assurance |
+| [concepts/cardano-btcfi.md](concepts/cardano-btcfi.md) | Cardano BTCfi — structured BTC-backed exposure; Alchemy FIRE/ICE reserve model |
+| [concepts/defi-kernel.md](concepts/defi-kernel.md) | DeFi Kernel — permissionless composable order-book standard and defikernel.org registry |
+| [concepts/scalus.md](concepts/scalus.md) | Scalus — JVM-native Cardano application platform; embedded in MeshJS/Lucid/Evolution |
+| [concepts/dijkstra-hard-fork.md](concepts/dijkstra-hard-fork.md) | Dijkstra hard fork — Plutus V4, nested transactions, accounts, guard scripts |
 | [concepts/blockfrost-decentralization.md](concepts/blockfrost-decentralization.md) | Blockfrost Icebreakers and community-governed NFP transition path |
 | [concepts/ecosystem-kpi-funding.md](concepts/ecosystem-kpi-funding.md) | Treasury sub-grants tied to MAU, transactions, and TVL — Vision 2030 KPI accountability |
 | [concepts/initiative-dao.md](concepts/initiative-dao.md) | Smart contract-governed funding bodies — Clarity platform; CB DAO as live example |
@@ -109,6 +117,9 @@ _Summaries of ingested raw documents (one page per source)._
 | [sources/blockfrost-transformation-to-not-for-profit.md](sources/blockfrost-transformation-to-not-for-profit.md) | IOG: ₳9.83M, 18-month Blockfrost NFP transition, IP transfer, elected board, free public API |
 | [sources/cardano-builder-dao.md](sources/cardano-builder-dao.md) | CB DAO: continuation treasury withdrawal; KPI-linked Initiative DAO; dRep council admin |
 | [sources/revised-cardano-dospo-and-omf-program-proposal.md](sources/revised-cardano-dospo-and-omf-program-proposal.md) | Revised dOSPO/OMF: ₳4.09M / 12-month OSS sustainment pilot; Article II.7.5 administrator at withdrawal |
+| [sources/alchemy-sundial-charms-cardano-native-bitcoin-treasury-protocol.md](sources/alchemy-sundial-charms-cardano-native-bitcoin-treasury-protocol.md) | Alchemy: ₳10M BTCfi infrastructure; FIRE/ICE reserve; Sundial x Charms; Intersect interim admin |
+| [sources/global-order-book-connect-cardano-defi.md](sources/global-order-book-connect-cardano-defi.md) | DeFi Kernel: ₳3.33M; Dano Finance; Spot Leverage Order Book, American Options, composable SDK |
+| [sources/scalus-2026-maintenance-dijkstra-readiness.md](sources/scalus-2026-maintenance-dijkstra-readiness.md) | Scalus 2026: ₳2.46M / 9 months; Dijkstra readiness, JVM/JS interoperability, scoped runtime |
 
 ## Proposals
 
@@ -135,6 +146,9 @@ _Governance actions and vote-context syntheses._
 | [proposals/blockfrost-transformation-to-not-for-profit.md](proposals/blockfrost-transformation-to-not-for-profit.md) | Treasury withdrawal — Blockfrost NFP transition; ₳9.83M / 18 months; IOG + Intersect; DRep vote pending |
 | [proposals/cardano-builder-dao.md](proposals/cardano-builder-dao.md) | Treasury withdrawal — Cardano Builder DAO continuation; Initiative DAO; dRep council admin; DRep vote pending (vote 72) |
 | [proposals/revised-cardano-dospo-and-omf-program-2026.md](proposals/revised-cardano-dospo-and-omf-program-2026.md) | Treasury withdrawal — dOSPO/OMF 12-month pilot; ₳4.09M; sole Article II.7.5 administrator; DRep vote pending (original abstain vote 57) |
+| [proposals/alchemy-cardano-native-bitcoin-treasury.md](proposals/alchemy-cardano-native-bitcoin-treasury.md) | Treasury withdrawal — Alchemy BTCfi; ₳10M; FIRE/ICE reserve; Sundial x Charms; Intersect interim admin; DRep vote pending |
+| [proposals/global-order-book-defi-kernel.md](proposals/global-order-book-defi-kernel.md) | Treasury withdrawal — DeFi Kernel + leveraged order book + options + SDK; ₳3.33M; Minswap Labs admin; DRep vote pending |
+| [proposals/scalus-2026.md](proposals/scalus-2026.md) | Treasury withdrawal — Scalus maintenance/Dijkstra/runtime; ₳2.46M / 9 months; SundaeSwap escrow; DRep vote pending |
 
 ## Analysis
 
@@ -152,6 +166,7 @@ _Comparisons, queries filed back, and exploratory write-ups._
 | [analysis/usdcx-two-year-funding-horizon.md](analysis/usdcx-two-year-funding-horizon.md) | V2 = one year USDCx ops (Year 2); Year 3+ needs future votes; liquidity/marketing excluded |
 | [analysis/ikigai-stuck-deposit-ledger-state.md](analysis/ikigai-stuck-deposit-ledger-state.md) | Ikigai ₳100k deposit: proposal pot → treasury after unregistered return address at expiry |
 | [analysis/intersect-2026-why-two-proposals.md](analysis/intersect-2026-why-two-proposals.md) | Why Intersect split 2026 asks into a ₳25.4M operating proposal and a separate ₳1.193M TSC package |
+| [analysis/alchemy-what-theyre-building.md](analysis/alchemy-what-theyre-building.md) | Alchemy product definition: FIRE/ICE reserve BTCfi layer vs Bifrost bridge |
 
 ## Legacy vote context
 

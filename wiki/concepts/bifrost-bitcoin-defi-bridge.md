@@ -95,6 +95,8 @@ The source compares Bifrost with multisig, threshold-ECDSA bridges, and BitVM-st
 ## Related proposals
 
 - [[proposals/bifrost-road-to-mainnet-phase-1]]
+- [[proposals/alchemy-cardano-native-bitcoin-treasury]] — structured BTCfi (FIRE/ICE) vs. bridge liquidity
+- [[concepts/cardano-btcfi]]
 - [[proposals/io-hydra]] (complementary Cardano scalability stack)
 - [[proposals/cardano-critical-integrations-v2]] (other ecosystem infrastructure/funding trade-offs)
 

@@ -69,6 +69,14 @@ Transparency commitments include on-chain Pro-plan metadata, public earnings rep
 
 The prior 2025 Eternl treasury withdrawal (₳583,000) was **Intersect-administered**; the 2026–2027 proposal shifts administration to Tastenkunst directly.
 
+## Off-chain budget administrator (Minswap Labs)
+
+[[proposals/global-order-book-defi-kernel]] uses **[[entities/minswap-labs|Minswap Labs]]** as budget administrator (1% fee) for milestone review and disbursement — **not** Intersect TRSC/PSSC. This is a lighter-weight accountability pattern than smart-contract escrow or TRSC custody.
+
+## Intersect interim administration (Alchemy)
+
+[[proposals/alchemy-cardano-native-bitcoin-treasury]] proposes **Intersect as interim fund administrator** for Sundial/Charms Alchemy — accounting, fund separation, milestone verification, and custody controls. If Intersect does not confirm within 30 days of enactment, proposer nominates an alternative independent administrator. Administrator-held ADA: auditable accounts, auto-abstain DRep delegation, no SPO delegation.
+
 ## Pentad CCI model (Critical Integrations V2)
 
 [[proposals/cardano-critical-integrations-v2|CCI V2]] uses Intersect TRSC administration with a **Pentad Steering Committee** layer above standard Oversight Committee multisig:
@@ -127,6 +135,9 @@ Per on-chain proposal metadata ([[sources/tweag-core-cardano-infrastructure-2026
 - [[proposals/bifrost-road-to-mainnet-phase-1]] — Intersect-administered escrow pattern is referenced; proposal also details milestone gates, independent oversight, and refundable contingency mechanics
 - [[proposals/cardano-builder-dao]] — dRep DAO council multisig administrator; CB DAO smart-contract sub-allocation to funded builders
 - [[proposals/revised-cardano-dospo-and-omf-program-2026]] — Article II.7.5 sole administrator; advisory councils + Mill Law audit; no TRSC escrow
+- [[proposals/scalus-2026]] — SundaeSwap vendor escrow; Gianelloni/Benkort/Kilgore oversight board; No.Witness Labs assurance
+- [[proposals/global-order-book-defi-kernel]] — Minswap Labs off-chain budget administrator (no TRSC)
+- [[proposals/alchemy-cardano-native-bitcoin-treasury]] — Intersect interim administrator; separated liquidity/delivery pools
 - [[concepts/hardware-wallet-interoperability]] — CIP-21 signing constraints maintained by treasury-funded tooling
 - [[concepts/real-world-payments]] — merchant spend rails complementing stablecoin and L2 layers
 

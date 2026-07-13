@@ -32,6 +32,7 @@ Per [[sources/cardano-vision-2026-ior]], [[sources/tweag-core-cardano-infrastruc
 | [[proposals/technical-steering-committee-support-2026|TSC support 2026]] | [[entities/technical-steering-committee|Intersect Technical Steering Committee]] | ₳1.193M — 12-month technical-governance support (WP1/WP2/WP3) |
 | [[proposals/intersect-governance-coordination-and-technical-stewardship-2026|Intersect governance coordination + technical stewardship]] | [[entities/intersect|Intersect]] | ₳25.4M — MBO operations, technical stewardship, incident response, critical-process reserve |
 | [[proposals/bifrost-road-to-mainnet-phase-1|Bifrost road to mainnet (Phase 1)]] | [[entities/fluidtokens|FluidTokens]] + [[entities/lantr-engineering|Lantr Engineering]] | ₳12.33M — BTC bridge hardening/audits/private-mainnet readiness |
+| [[proposals/alchemy-cardano-native-bitcoin-treasury|Alchemy BTCfi]] | [[entities/sundial-protocol|Sundial]] + [[entities/charms|Charms]] | ₳10M — **Intersect proposed as interim fund administrator** (subject to confirmation) |
 | [[entities/eternl|Eternl]] (2025 budget) | [[entities/tastenkunst|Tastenkunst GmbH]] | ₳583,000 — funding period ends July 2026 |
 
 The 2026–2027 [[proposals/eternl-path-to-sustainability-2026-2027]] proposal shifts Eternl fund administration from Intersect to Tastenkunst self-administration with a [[concepts/treasury-payback-model|revenue payback]] model.

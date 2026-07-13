@@ -15,6 +15,10 @@
 | `plutus-machine` | CEK machine implementation for UPLC evaluation |
 | `uplc` | TypeScript/JavaScript representation of UPLC |
 
+## Scalus-embedded JS/TS components
+
+[[concepts/scalus|Scalus]] exports script evaluation, cost calculation, and in-memory node emulation into **MeshJS**, **Lucid Evolution**, and **Evolution SDK** — so many TypeScript projects depend on Scalus components without direct Scalus integration ([[sources/scalus-2026-maintenance-dijkstra-readiness]]). [[proposals/scalus-2026]] funds improved JS/TS interfaces and **[[concepts/dijkstra-hard-fork|Dijkstra]]** readiness across these embedded paths.
+
 ## Wallet-native TypeScript stacks
 
 [[entities/eternl|Eternl]] is rewriting its core with a **custom TypeScript CBOR library** (planned BUSL-1.1 release to npm under `@eternl`), replacing CSL across the codebase per [[proposals/eternl-path-to-sustainability-2026-2027]]. This is parallel infrastructure to the Harmonic Labs ledger/UPLC stack — wallet-local encoding and transaction building rather than shared protocol libraries — but it expands the TypeScript dependency surface for Cardano client software.
@@ -39,6 +43,7 @@ The maintenance argument is a public-goods argument: if core library updates are
 
 - [[proposals/blockfrost-transformation-to-not-for-profit]] — hosted API public-good transition
 - [[proposals/pebble-ecosystem-maintenance-2026]] — TypeScript ledger/UPLC library maintenance
+- [[proposals/scalus-2026]] — JVM platform with exported JS/TS evaluation/emulator components
 - [[proposals/revised-cardano-dospo-and-omf-program-2026]] — ecosystem-wide dependency-driven retainer fund
 
 ## Related votes

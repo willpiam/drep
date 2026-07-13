@@ -165,3 +165,37 @@ Ingested CB DAO treasury continuation JSON: Initiative DAO with KPI-linked build
 ## [2026-07-12] ingest | Revised Cardano dOSPO and OMF Program Proposal
 
 Ingested revised treasury proposal JSON (₳4,094,000 / 12-month pilot). Successor to failed ₳12M/36-month dOSPO ask (vote 57 abstain). Created source summary, proposal page, Christian Taylor entity, dospo-omf and paid-open-source-model concepts. Updated Intersect OSPO/POSM history, treasury-escrow-oversight Article II.7.5 pattern, cardano-typescript-tooling cross-links, index, and overview.
+
+## [2026-07-13] ingest | Alchemy by Sundial x Charms
+
+Ingested BTCfi treasury proposal JSON (₳10M). Created source summary, proposal page, Sundial Protocol and Charms entities, cardano-btcfi concept. Updated Intersect (interim admin), bifrost-bitcoin-defi-bridge cross-links, treasury-escrow-oversight, index, and overview.
+
+## [2026-07-13] ingest | Global Order Book / DeFi Kernel
+
+Ingested Dano Finance treasury proposal JSON (₳3.33M). Created source summary, proposal page, Dano Finance and Minswap Labs entities, defi-kernel concept. Updated treasury-escrow-oversight (Minswap admin pattern), index, and overview.
+
+## [2026-07-13] ingest | Scalus 2026
+
+Ingested Lantr Engineering treasury proposal JSON (₳2.46M / 9 months). Created source summary, proposal page, scalus and dijkstra-hard-fork concepts. Updated Lantr Engineering, Sundae Labs, cardano-typescript-tooling, treasury-escrow-oversight, index, and overview.
+
+## [2026-07-13] query | alchemy-what-theyre-building
+
+## [2026-07-13] filing | Alchemy — what they are trying to make
+
+Query synthesis: Alchemy is Cardano-native BTCfi (FIRE/ICE shared reserve, dashboards, launch liquidity), not a BTC bridge; complements Bifrost. Filed [[analysis/alchemy-what-theyre-building]].
+
+## [2026-07-13] query | alchemy-uses-fbtc
+
+Clarified: Alchemy proposal does not use or require Bifrost fBTC; Charms path for BTC reserve + Cardano-native FIRE/ICE. Updated [[concepts/cardano-btcfi]], [[proposals/alchemy-cardano-native-bitcoin-treasury]], [[analysis/alchemy-what-theyre-building]].
+
+## [2026-07-13] query | alchemy-bridging-btc
+
+Answer: Alchemy is not a Bifrost-style BTC bridge; product is FIRE/ICE BTCfi; Charms supplies Bitcoin↔Cardano asset path (proposal still lists Charms bridge/oracle risk). Updated [[entities/charms]], [[concepts/cardano-btcfi]].
+
+## [2026-07-13] query | alchemy-funds-charms-dev
+
+Answer: No general Charms-protocol grant; ₳10M funds Alchemy delivery with Charms as technical partner. Updated [[entities/charms]], [[sources/alchemy-sundial-charms-cardano-native-bitcoin-treasury-protocol]].
+
+## [2026-07-13] query | global-order-book-what-is-this
+
+## [2026-07-13] query | defi-kernel-vs-intents
