@@ -15,6 +15,32 @@ Public registry: [defikernel.org](https://defikernel.org/) — maintained under 
 - Registration does **not** require payment, licensing, certification fees, listing fees, revenue share, or mandatory smart-contract open-sourcing.
 - Compatible protocols must publish enough metadata for wallets, bots, indexers, and dApps to interact safely.
 
+## What it takes for an existing dApp to integrate
+
+Per [defikernel.org](https://defikernel.org/) and the [registry README](https://github.com/DeFiKernel-Cardano/DeFi-Kernel-Registry-for-Cardano):
+
+### 1. Conform to three on-chain properties (the real bar)
+
+| Rule | Meaning for an existing dApp |
+|------|------------------------------|
+| **Permissionless** | Users must sign/submit fills themselves to a Cardano node — **no required batcher / privileged operator** standing between intent and settlement |
+| **Composable** | Publish a full public **datum (and reusable integration) schema** so others can read intents and chain txs atomically |
+| **Discoverable** | Orders/intents findable from the UTxO set alone (e.g. **CIP-89 beacons**, deterministic addresses, or equivalent on-chain tags) — not only via a private indexer |
+
+If a dApp is batcher-gated or only discoverable through a closed API, listing alone is not enough — it needs a contract/UX redesign (or a parallel kernel-compatible surface).
+
+### 2. Document and register (cheap relative to #1)
+
+1. Fork [DeFi-Kernel-Registry-for-Cardano](https://github.com/DeFiKernel-Cardano/DeFi-Kernel-Registry-for-Cardano), copy `_template.md`.
+2. Fill YAML (name, developer, category, **script hashes**, links) + markdown (`Description`, `Datum Schema`, `Integration Guide`, `Off-Chain Libraries`).
+3. Open a PR. Stated checks: parseable file, hashes resolve on mainnet, three rules implemented — **no review committee / fee**.
+
+### 3. Optional tooling (what this treasury ask adds)
+
+WP4’s **Composable DeFi Transaction Builder SDK** is meant to lower integrator cost after registration (registry reader, schema parsing, tx helpers, adapters). Until that ships, integrators rely on each contract’s published guide + own off-chain libs.
+
+**DRep framing:** registry onboarding is intentionally light; the hard cost for incumbent AMM/batcher dApps is meeting **permissionless + on-chain discoverability**, not filling out a form.
+
 ## Reference implementations (treasury-funded)
 
 | Primitive | Description |

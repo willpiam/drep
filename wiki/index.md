@@ -39,7 +39,7 @@ _Organizations, people, and governance bodies._
 | [entities/lantr-engineering.md](entities/lantr-engineering.md) | Lantr Engineering — Scalus maintainer; Bifrost Phase 1 co-proposer |
 | [entities/sundial-protocol.md](entities/sundial-protocol.md) | Sundial Protocol — Alchemy BTCfi co-proposer; 2026 TRSC Oversight Committee member |
 | [entities/charms.md](entities/charms.md) | Charms — Bitcoin meta-protocol layer; Alchemy technical partner |
-| [entities/dano-finance.md](entities/dano-finance.md) | Dano Finance — Cardano DeFi protocol; DeFi Kernel treasury proposer |
+| [entities/dano-finance.md](entities/dano-finance.md) | Dano Finance (+ fallen-icarus) — DeFi Kernel proposer; self-reports lending/CL/oracles, ~$18M TVL |
 | [entities/minswap-labs.md](entities/minswap-labs.md) | Minswap Labs — budget administrator for DeFi Kernel proposal |
 | [entities/blockfrost.md](entities/blockfrost.md) | Blockfrost — dominant Cardano hosted REST API; Icebreakers decentralization; NFP transition ask |
 | [entities/cardano-builder-dao.md](entities/cardano-builder-dao.md) | Cardano Builder DAO — smart contract-governed Initiative DAO; KPI-linked builder funding |
@@ -166,7 +166,9 @@ _Comparisons, queries filed back, and exploratory write-ups._
 | [analysis/usdcx-two-year-funding-horizon.md](analysis/usdcx-two-year-funding-horizon.md) | V2 = one year USDCx ops (Year 2); Year 3+ needs future votes; liquidity/marketing excluded |
 | [analysis/ikigai-stuck-deposit-ledger-state.md](analysis/ikigai-stuck-deposit-ledger-state.md) | Ikigai ₳100k deposit: proposal pot → treasury after unregistered return address at expiry |
 | [analysis/intersect-2026-why-two-proposals.md](analysis/intersect-2026-why-two-proposals.md) | Why Intersect split 2026 asks into a ₳25.4M operating proposal and a separate ₳1.193M TSC package |
-| [analysis/alchemy-what-theyre-building.md](analysis/alchemy-what-theyre-building.md) | Alchemy product definition: FIRE/ICE reserve BTCfi layer vs Bifrost bridge |
+| [analysis/global-order-book-complexity.md](analysis/global-order-book-complexity.md) | Complexity map: bundled scope, leverage/options risk, incumbent adoption bar, soft security/people |
+| [analysis/alchemy-bitcoin-treasury-meaning.md](analysis/alchemy-bitcoin-treasury-meaning.md) | “Bitcoin treasury protocol” = structured BTC product, not multi-asset Cardano L1 treasury |
+| [analysis/alchemy-vs-bifrost-value-add.md](analysis/alchemy-vs-bifrost-value-add.md) | If Bifrost works: Alchemy adds FIRE/ICE structured BTCfi — not BTC access; skeptical case noted |
 
 ## Legacy vote context
 

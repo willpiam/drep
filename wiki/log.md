@@ -196,6 +196,37 @@ Answer: Alchemy is not a Bifrost-style BTC bridge; product is FIRE/ICE BTCfi; Ch
 
 Answer: No general Charms-protocol grant; ₳10M funds Alchemy delivery with Charms as technical partner. Updated [[entities/charms]], [[sources/alchemy-sundial-charms-cardano-native-bitcoin-treasury-protocol]].
 
+## [2026-07-14] query | alchemy-bitcoin-treasury-meaning
+
+## [2026-07-14] filing | Alchemy “Bitcoin treasury protocol” — meaning
+
+Clarified: Bitcoin treasury = Strategy/DJED-style structured BTC reserve product (FIRE/ICE), not L1 multi-asset governance treasury; control via Alchemy+Charms stack under-specified vs Plutus. Filed [[analysis/alchemy-bitcoin-treasury-meaning]]; updated [[concepts/cardano-btcfi]], [[proposals/alchemy-cardano-native-bitcoin-treasury]], index.
+
+## [2026-07-14] query | alchemy-vs-bifrost-value-add
+
+## [2026-07-14] filing | Alchemy value-add if Bifrost succeeds
+
+Skeptical synthesis: Bifrost = BTC rail; Alchemy = FIRE/ICE structured product + bootstrap. Marginal benefit weak if DReps only want spendable BTC on existing DeFi. Filed [[analysis/alchemy-vs-bifrost-value-add]].
+
+## [2026-07-14] query | alchemy-less-compelling-with-bifrost
+
+Judgment filed: yes — Bifrost success materially weakens Alchemy’s treasury case; residual value is structured-product capitalization, not BTC access. Updated [[analysis/alchemy-vs-bifrost-value-add]], [[concepts/cardano-btcfi]].
+
 ## [2026-07-13] query | global-order-book-what-is-this
 
 ## [2026-07-13] query | defi-kernel-vs-intents
+
+## [2026-07-14] query | dano-finance-who-and-track-record
+
+## [2026-07-14] query | global-order-book-user-story
+
+## [2026-07-14] query | dano-people-associated
+
+## [2026-07-14] query | dano-finance-reputation-twitter
+
+## [2026-07-14] query | defi-kernel-existing-dapp-integration
+
+## [2026-07-14] query | defi-kernel-security-trust
+
+## [2026-07-14] query | global-order-book-complexity
+## [2026-07-14] filing | Global Order Book / DeFi Kernel — points of complexity

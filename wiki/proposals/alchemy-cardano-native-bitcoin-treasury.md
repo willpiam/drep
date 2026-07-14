@@ -7,6 +7,8 @@
 
 The proposal requests **₳10,000,000** (~$2.0M at $0.20/ADA) to deploy **Alchemy** — reusable Cardano **[[concepts/cardano-btcfi|BTCfi]]** infrastructure with FIRE/ICE composable assets, public reporting, ecosystem integrations, and treasury-supported launch liquidity.
 
+**“Bitcoin treasury” here** means a DeFi-style BTC reserve + structured claims (Strategy/Strive-category analogy), **not** changing Cardano’s ADA governance treasury into a multi-asset vault ([[analysis/alchemy-bitcoin-treasury-meaning]]).
+
 ## Context
 
 | Item | Detail |

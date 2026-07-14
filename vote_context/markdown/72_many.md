@@ -50,9 +50,9 @@ NCL Change | gov_action15atytcy8ru7mkcs8m7r8mx7k5x36t0h6grtgmak6v5wmf4nq07lsqhak
 | Blockfrost not-for-profit | gov_action12sumv9qky4pkenmqp7gshv9nxqdk9zyn8gkd77fewkyy3t5tnxtsq457vgq | Yes | f5cdabafb99bd8499f31b1a460ba1c61f2c43e8ce5354d87144888da4ac5984c | bafkreiehxxbjizhfxhtqishx7gxmojhqgbqkyoki43sdpd5kf5k45h2j5q |
 | Cardano Builder DAO | gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc | No | 240a5fdb6d04671ba273942193e34ab960114ac5cf2d87df4d152f495a3dd188 | bafkreieqd2zms6njxyfr43rhbfasnuzokkhav2qztrelvsvtvsifagfzle |
 | dOSPO and OMF Program | gov_action19apfhh339syqd0gkrxw6zr6pghdfspckr6vagjrpwnr0hx53lxpsq637y3t | No | bafkreiafa64xyrzohxg4yx7nub2kzjf47pvd6k6zthlxhpdcewcshqdogq | 2c3da0ed041fab2acb844aee9789550875c5244002f3816533bd0de2bbc328bd |
-| Alchemy by Sundial x Charms: Cardano-Native Bitcoin Treasury Protocol | gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2 | | |
+| Alchemy by Sundial x Charms: Cardano-Native Bitcoin Treasury Protocol | gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2 | No | 410918cf9e787ed69e58daa4b7a47575ac04e4900d5093fe7fff797406c81878 | bafkreicbjr6sgr4el2ymnhcc7gllv3kmssapqsonr33wg756qlyrjslkz4 |
 | Scalus 2026: Maintenance, Dijkstra Readiness, Interoperability & Application Runtime | gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc | Abstain | ce5d7b422be1ccabcc35605e945eaf90870704a458cdba7ae71b8457db171cf0 | bafkreifzknharwza75i5ytpkx7ls6khpbuposewvyaavi4ilmkkp3oulqu |
-| Global Order Book connect Cardano DeFi to increase transaction | gov_action1cpnqmlgpkz3dnwnm4spqzsmsp93y9mr4vqcm2ltcpqyyf7a7nszsq4h586r | | | | 
+| Global Order Book connect Cardano DeFi to increase transaction | gov_action1cpnqmlgpkz3dnwnm4spqzsmsp93y9mr4vqcm2ltcpqyyf7a7nszsq4h586r | No | f57f057fdbb6981fbfa1d2d4446fb0fe2e095dea525a33d4fbbdfb870acd3033 | bafkreidijxl6growza7hum6nv4rfbqfdzgwb5sogu2vagflyqsj45c5a4a | 
 
 
 #### Batch 2 Thoughts
@@ -66,7 +66,13 @@ NCL Change | gov_action15atytcy8ru7mkcs8m7r8mx7k5x36t0h6grtgmak6v5wmf4nq07lsqhak
     - But it is legitimate infrastructure
     - ₳2.5M or ~$403K
 - Global Order Book:
-    - is this like Intents? 
+    - ₳3.3M
+    - Who is Dano Finance?
+    - Shared Cardano DeFi standard
+    - How much work will be required to make existing defi platforms compatible with this Global Order Book?
+    - How much use could we expect this to have? How much volume will a dapp gain by integrating this system, and will that volume increase be worth the integration costs? 
+- Alchemy by Sundial x Charms
+    - With bifrost comming this proposal doesn't make much sense. 
 
 Thank you for your attention on this matter. 
 
