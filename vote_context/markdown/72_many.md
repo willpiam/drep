@@ -51,7 +51,7 @@ NCL Change | gov_action15atytcy8ru7mkcs8m7r8mx7k5x36t0h6grtgmak6v5wmf4nq07lsqhak
 | Cardano Builder DAO | gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc | No | 240a5fdb6d04671ba273942193e34ab960114ac5cf2d87df4d152f495a3dd188 | bafkreieqd2zms6njxyfr43rhbfasnuzokkhav2qztrelvsvtvsifagfzle |
 | dOSPO and OMF Program | gov_action19apfhh339syqd0gkrxw6zr6pghdfspckr6vagjrpwnr0hx53lxpsq637y3t | No | bafkreiafa64xyrzohxg4yx7nub2kzjf47pvd6k6zthlxhpdcewcshqdogq | 2c3da0ed041fab2acb844aee9789550875c5244002f3816533bd0de2bbc328bd |
 | Alchemy by Sundial x Charms: Cardano-Native Bitcoin Treasury Protocol | gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2 | | |
-| Scalus 2026: Maintenance, Dijkstra Readiness, Interoperability & Application Runtime | gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc | Leaning No | | |
+| Scalus 2026: Maintenance, Dijkstra Readiness, Interoperability & Application Runtime | gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc | Abstain | ce5d7b422be1ccabcc35605e945eaf90870704a458cdba7ae71b8457db171cf0 | bafkreifzknharwza75i5ytpkx7ls6khpbuposewvyaavi4ilmkkp3oulqu |
 | Global Order Book connect Cardano DeFi to increase transaction | gov_action1cpnqmlgpkz3dnwnm4spqzsmsp93y9mr4vqcm2ltcpqyyf7a7nszsq4h586r | | | | 
 
 
@@ -64,6 +64,7 @@ NCL Change | gov_action15atytcy8ru7mkcs8m7r8mx7k5x36t0h6grtgmak6v5wmf4nq07lsqhak
 - Scalus
     - I don't see much value in investing in the java development ecosystem.
     - But it is legitimate infrastructure
+    - ₳2.5M or ~$403K
 - Global Order Book:
     - is this like Intents? 
 
