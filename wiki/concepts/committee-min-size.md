@@ -15,6 +15,8 @@ The parameter sets a **floor**, not the target elected size. Intersect's CC elec
 
 When membership equals `committeeMinSize`, a single resignation or term expiration can halt governance until seats are refilled. Lowering the minimum creates headroom (e.g. 7 members with min 5 tolerates two departures).
 
+Four seats expire at **Epoch 653**. [[proposals/update-constitutional-committee-2026]] is the corresponding **Update Committee** action (2026 election) intended to refill those seats at enactment. If that action fails while `committeeMinSize` is still 7, expirations could drop membership below the floor.
+
 ## Voting threshold interaction
 
 Constitutional Committee approval typically uses a **2/3** threshold among active members. Smaller committees change how many votes are needed to pass or block:
@@ -40,6 +42,8 @@ Setting to **5** satisfies all three.
 ## Related
 
 - [[concepts/constitutional-committee]]
+- [[concepts/committee-max-term-length]]
 - [[proposals/committee-min-size-7-to-5]]
+- [[proposals/update-constitutional-committee-2026]]
 - [[entities/parameter-committee]]
 - [[sources/reduce-committeeminsize-7-to-5]]

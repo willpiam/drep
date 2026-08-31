@@ -230,3 +230,7 @@ Judgment filed: yes — Bifrost success materially weakens Alchemy’s treasury 
 
 ## [2026-07-14] query | global-order-book-complexity
 ## [2026-07-14] filing | Global Order Book / DeFi Kernel — points of complexity
+
+## [2026-08-31] ingest | Update Constitutional Committee 2026
+
+Ingested Intersect Update Committee JSON: 2026 CC election seating for four Epoch-653 seats (expire 799; `committeeMaxTermLength` 146). Created source, proposal, committee-max-term-length concept, and entities for Mahut, DiSarro, Leandros BSP, Cardano Curia. Updated constitutional-committee roster, committeeMinSize interaction, Intersect/Civics election role. No DRep vote context yet.

@@ -45,7 +45,7 @@ A prior action (`gov_action1mldvtys6ketjg87wtpvr6cd77kdrd8sp62a8sxgadhmxx2s8lh7s
 - **Pro:** Governance continues if membership falls to 5 or 6 while refilling seats.
 - **Con:** At 5 active members (2/3 threshold), only **2** dissenting votes block ratification (vs **3** at size 7). One inactive member plus one dissenter can veto.
 
-Intersect states this is **not** an attempt to centralize governance or shrink the elected committee; elections still target **7 seats**.
+Intersect states this is **not** an attempt to centralize governance or shrink the elected committee; elections still target **7 seats**. The 2026 election seating action is [[proposals/update-constitutional-committee-2026]] (four Epoch-653 seats → Epoch 799).
 
 ## Reversion
 
@@ -57,7 +57,7 @@ Vote context placeholder exists ([vote 60](../../vote_context/markdown/60_commit
 
 ## Open questions
 
-- Is a buffer of two seats (7 elected, min 5) sufficient given CC election cadence and term lengths?
+- Is a buffer of two seats (7 elected, min 5) sufficient given CC election cadence and term lengths? Epoch 653 expirations are addressed by [[proposals/update-constitutional-committee-2026]], which itself can only enact in its final lifetime epoch.
 - How should delegates weigh easier blocking at effective size 5 vs catastrophic governance halt at size 6 with min 7?
 - Does temporal bundling with the van Rossem cost-model action affect voter strategy?
 
@@ -65,6 +65,7 @@ Vote context placeholder exists ([vote 60](../../vote_context/markdown/60_commit
 
 - [[concepts/committee-min-size]]
 - [[concepts/constitutional-committee]]
+- [[proposals/update-constitutional-committee-2026]]
 - [[entities/intersect]]
 - [[entities/civics-committee]]
 - [[entities/technical-steering-committee]]

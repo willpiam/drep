@@ -45,6 +45,10 @@ _Organizations, people, and governance bodies._
 | [entities/cardano-builder-dao.md](entities/cardano-builder-dao.md) | Cardano Builder DAO — smart contract-governed Initiative DAO; KPI-linked builder funding |
 | [entities/clarity.md](entities/clarity.md) | Clarity — Initiative DAO platform (clarity.vote); CB DAO enabler |
 | [entities/christian-taylor.md](entities/christian-taylor.md) | Christian Taylor — ex-Intersect OSPO head; Open Source Cowboy; dOSPO/OMF proposer |
+| [entities/philip-disarro.md](entities/philip-disarro.md) | Philip DiSarro (Phil_uplc) — CC member; 2026 re-election, 1st by voting power |
+| [entities/marek-mahut.md](entities/marek-mahut.md) | Marek Mahut — 2026-elected CC member; 3rd by voting power, most DRep ballots |
+| [entities/leandros-bsp.md](entities/leandros-bsp.md) | Leandros BSP — 2026-elected CC member; 2nd by voting power; script credential |
+| [entities/cardano-curia.md](entities/cardano-curia.md) | Cardano Curia — CC member; 2026 re-election, 4th by voting power |
 
 ## Concepts
 
@@ -69,8 +73,9 @@ _Governance topics, mechanisms, and recurring themes._
 | [concepts/treasury-escrow-oversight.md](concepts/treasury-escrow-oversight.md) | Milestone escrow, oversight boards, and reporting controls for treasury withdrawals |
 | [concepts/treasury-proposal-bundling.md](concepts/treasury-proposal-bundling.md) | When multi-WP treasury actions are appropriate; DRep evolving view (vote 56) |
 | [concepts/treasury-payback-model.md](concepts/treasury-payback-model.md) | Voluntary treasury repayment from commercial revenue; Eternl Pro-plan payback schedule |
-| [concepts/constitutional-committee.md](concepts/constitutional-committee.md) | CC role in ratifying parameter, constitution, treasury, and hard-fork actions |
+| [concepts/constitutional-committee.md](concepts/constitutional-committee.md) | CC role; 7-seat body; 2026 election roster (Epoch 653→799 terms) |
 | [concepts/committee-min-size.md](concepts/committee-min-size.md) | On-chain minimum CC membership; operability floor and voting-threshold trade-offs |
+| [concepts/committee-max-term-length.md](concepts/committee-max-term-length.md) | On-chain cap on a single CC term (146 epochs); fixed-expiration enactment quirk |
 | [concepts/plutus-cost-models.md](concepts/plutus-cost-models.md) | On-chain CPU/memory costs per Plutus builtin; PCM guardrails; benchmarking process |
 | [concepts/van-rossem-hard-fork.md](concepts/van-rossem-hard-fork.md) | Protocol Version 11 hard fork; new Plutus primitives; governance dependencies |
 | [concepts/cardano-critical-integrations.md](concepts/cardano-critical-integrations.md) | Pentad-led tier-one integration program (USDCx, LayerZero, Pyth, Dune, Fireblocks); V1 delivery + V2 maintenance |
@@ -120,6 +125,7 @@ _Summaries of ingested raw documents (one page per source)._
 | [sources/alchemy-sundial-charms-cardano-native-bitcoin-treasury-protocol.md](sources/alchemy-sundial-charms-cardano-native-bitcoin-treasury-protocol.md) | Alchemy: ₳10M BTCfi infrastructure; FIRE/ICE reserve; Sundial x Charms; Intersect interim admin |
 | [sources/global-order-book-connect-cardano-defi.md](sources/global-order-book-connect-cardano-defi.md) | DeFi Kernel: ₳3.33M; Dano Finance; Spot Leverage Order Book, American Options, composable SDK |
 | [sources/scalus-2026-maintenance-dijkstra-readiness.md](sources/scalus-2026-maintenance-dijkstra-readiness.md) | Scalus 2026: ₳2.46M / 9 months; Dijkstra readiness, JVM/JS interoperability, scoped runtime |
+| [sources/update-constitutional-committee-2026.md](sources/update-constitutional-committee-2026.md) | Intersect Update Committee: 2026 CC election seating; four seats Epoch 653→799 |
 
 ## Proposals
 
@@ -149,6 +155,7 @@ _Governance actions and vote-context syntheses._
 | [proposals/alchemy-cardano-native-bitcoin-treasury.md](proposals/alchemy-cardano-native-bitcoin-treasury.md) | Treasury withdrawal — Alchemy BTCfi; ₳10M; FIRE/ICE reserve; Sundial x Charms; Intersect interim admin; DRep vote pending |
 | [proposals/global-order-book-defi-kernel.md](proposals/global-order-book-defi-kernel.md) | Treasury withdrawal — DeFi Kernel + leveraged order book + options + SDK; ₳3.33M; Minswap Labs admin; DRep vote pending |
 | [proposals/scalus-2026.md](proposals/scalus-2026.md) | Treasury withdrawal — Scalus maintenance/Dijkstra/runtime; ₳2.46M / 9 months; SundaeSwap escrow; DRep vote pending |
+| [proposals/update-constitutional-committee-2026.md](proposals/update-constitutional-committee-2026.md) | Update Committee — 2026 CC election; four seats expire 799; quorum 2/3; DRep vote not yet recorded |
 
 ## Analysis
 

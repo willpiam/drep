@@ -55,6 +55,8 @@ Intersect also coordinates **parameter-change** governance actions through inter
 
 **[[proposals/committee-min-size-7-to-5]]** (2026): Intersect proposes reducing [[concepts/committee-min-size|`committeeMinSize`]] from 7 to 5 for [[concepts/constitutional-committee|Constitutional Committee]] operational resilience. Civics approved 2026-03-13; TSC approved 2026-06-03. Resubmission after a prior action collided with another parameter change. Ratification depends temporally on [[proposals/update-plutus-cost-models]]. Intersect also facilitates periodic CC elections targeting **7 seats**.
 
+**[[proposals/update-constitutional-committee-2026]]** (2026): Intersect submits an **Update Committee** action seating the four candidates from the 2026 CC election (terms expire Epoch 799; quorum stays 2/3). Process under Constitution Article III, Section 3 (2); Civics election working group; DRep stake-weighted ballot on Ekklesia; DQuadrant audit (23–26 July 2026). Because [[concepts/committee-max-term-length|`committeeMaxTermLength`]] is 146 and expiration is a fixed epoch, the action can only enact at Epoch 653.
+
 **[[proposals/update-plutus-cost-models]]** (2026): Intersect (Parameter Committee) proposes updating [[concepts/plutus-cost-models|Plutus V1/V2/V3 cost models]] for the **[[concepts/van-rossem-hard-fork|van Rossem hard fork]]** (Protocol Version 11). Parameter Committee recommended 2026-03-05/19; TSC confirmed 2026-05-13. Tested on SanchoNet, Preview, and Preprod before mainnet submission.
 
 ## Related
@@ -91,4 +93,6 @@ Intersect also coordinates **parameter-change** governance actions through inter
 - [[entities/technical-steering-committee]]
 - [[entities/parameter-committee]]
 - [[proposals/committee-min-size-7-to-5]]
+- [[proposals/update-constitutional-committee-2026]]
 - [[concepts/constitutional-committee]]
+- [[concepts/committee-max-term-length]]
