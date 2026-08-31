@@ -4,9 +4,9 @@
 
 [gov_action14dr5yg75pchr2sz42djtuflpvx5qnsek29qg7s7cft8lzrqt5vrqqtqntpk](https://cardanoscan.io/govAction/gov_action14dr5yg75pchr2sz42djtuflpvx5qnsek29qg7s7cft8lzrqt5vrqqtqntpk)
 
-[View Vote On-Chain](https://cardanoscan.io/vote/)
+[View Vote On-Chain](https://cardanoscan.io/vote/2753b1bb179dbdc8ae26ad313418696f0142e3156e0efee4c9b2ebafb7c22bf0)
 
-[IPFS Vote Metadata](https://ipfs.io/ipfs/)
+[IPFS Vote Metadata](https://ipfs.io/ipfs/bafkreies6qnzykx5vmcycrq5pyo67f3dfuqgkh77gs47tsj3nxxqhk6wyy)
 
 ## Summary
 

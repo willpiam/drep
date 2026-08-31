@@ -25,6 +25,10 @@ Cardano Vision 2026 is a distinct IOR program ask (₳32.917M); broader 2026 IOG
 
 IOG co-proposes [[concepts/cardano-critical-integrations|Cardano Critical Integrations]] with the Cardano Foundation, EMURGO, and Midnight Foundation. [[proposals/cardano-critical-integrations-v1|CCI V1]] (₳70M, enacted Dec 2025) delivered tier-one integrations; [[proposals/cardano-critical-integrations-v2|CCI V2]] (₳23M) funds 12-month maintenance plus Fireblocks. [[entities/intersect|Intersect]] administers via TRSC; Pentad Steering Committee sets maintenance and enhancement priorities.
 
+## Constitutional Committee
+
+IOG held an **appointed founding-entity seat** on the Interim Constitutional Committee (with Cardano Foundation, EMURGO, and Intersect). It did **not** stand in the 2025 elected CC and did **not** run in the 2026 election. After [[proposals/update-constitutional-committee-2026]] enacts, **no IOG-named seat** is on the seven-member committee. See [[analysis/founding-entities-constitutional-committee]].
+
 ## Hydra L2 (2026)
 
 [[proposals/io-hydra|IO: Hydra]] requests **₳5,100,781** to harden **[[concepts/hydra|Hydra]] v2** — state-channel L2 with production users (Delta DeFi, Masumi, Intersect voting, Blockfrost, etc.). Intersect administers via TRSC/PSSC. DRep vote context records **YES** ([vote 62](../../vote_context/markdown/62_ioHydra.md), 2026-06-14).
@@ -45,3 +49,5 @@ IOG co-proposes [[concepts/cardano-critical-integrations|Cardano Critical Integr
 - [[proposals/cardano-critical-integrations-v2]]
 - [[concepts/cardano-critical-integrations]]
 - [[concepts/hydra]]
+- [[concepts/constitutional-committee]]
+- [[analysis/founding-entities-constitutional-committee]]

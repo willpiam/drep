@@ -12,6 +12,12 @@ Published vote context on CCI V2 ([vote 65](../../vote_context/markdown/65_criti
 
 *Note:* Vote context uses "Emergo" spelling; on-chain proposal metadata uses "EMURGO."
 
+## Constitutional Committee
+
+EMURGO held an **appointed founding-entity seat** on the Interim Constitutional Committee (with IOG, Cardano Foundation, and Intersect). It did **not** stand in the 2025 elected CC and did **not** run in the 2026 election. After [[proposals/update-constitutional-committee-2026]] enacts, **no EMURGO-named seat** is on the seven-member committee. Same pattern for the other founding entities: [[analysis/founding-entities-constitutional-committee]].
+
+EMURGO still votes as a **DRep** (explorer records: abstain on that Update Committee action). That is separate from CC membership.
+
 ## Related
 
 - [[entities/cardano-foundation]]
@@ -19,3 +25,7 @@ Published vote context on CCI V2 ([vote 65](../../vote_context/markdown/65_criti
 - [[entities/midnight-foundation]]
 - [[entities/intersect]]
 - [[concepts/cardano-critical-integrations]]
+- [[concepts/constitutional-committee]]
+- [[analysis/emurgo-constitutional-committee]]
+- [[analysis/founding-entities-constitutional-committee]]
+- [[proposals/update-constitutional-committee-2026]]

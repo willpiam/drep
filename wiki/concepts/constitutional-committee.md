@@ -20,6 +20,8 @@ Outgoing at Epoch 653: Cardano Japan Council, KtorZ, Cardano Atlantic Council (r
 
 **After enactment of the 2026 update:** Marek Mahut, Cardano Curia, Philip DiSarro, Leandros BSP, Eastern Cardano Council, Tingvard, Ace Alliance.
 
+Founding entities ([[entities/emurgo|EMURGO]], [[entities/input-output-group|IOG]], [[entities/cardano-foundation|Cardano Foundation]]) and Intersect held **appointed** seats on the Interim CC and **did not stand** for the 2025 elected committee. None of them is among 2026 candidates or the post-enactment roster. See [[analysis/founding-entities-constitutional-committee]].
+
 ## Approval mechanics
 
 For typical actions, CC ratification uses a **two-thirds** threshold among active members. [[proposals/update-constitutional-committee-2026]] leaves quorum at **2/3**. The number of yes and no votes required scales with committee size; see [[concepts/committee-min-size#Voting threshold interaction]].
@@ -31,6 +33,9 @@ For typical actions, CC ratification uses a **two-thirds** threshold among activ
 - [[concepts/committee-max-term-length]]
 - [[entities/civics-committee]] — Intersect body involved in CC governance process
 - [[entities/intersect]]
+- [[entities/emurgo]]
+- [[entities/cardano-foundation]]
+- [[analysis/founding-entities-constitutional-committee]]
 
 ## Open questions
 

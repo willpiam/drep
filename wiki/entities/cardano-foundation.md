@@ -14,6 +14,12 @@ Per [[concepts/treasury-escrow-oversight]], the Foundation co-signs selected on-
 
 Published vote context on CCI V2 ([vote 65](../../vote_context/markdown/65_critical.md)) records concern that the Foundation has **no community-elected board members**, cited as a factor in the **NO** vote on [[proposals/cardano-critical-integrations-v2]].
 
+## Constitutional Committee
+
+The Foundation held an **appointed founding-entity seat** on the Interim Constitutional Committee (with IOG, EMURGO, and Intersect). It did **not** stand in the 2025 elected CC and did **not** run in the 2026 election. After [[proposals/update-constitutional-committee-2026]] enacts, **no Cardano Foundation-named seat** is on the seven-member committee. See [[analysis/founding-entities-constitutional-committee]].
+
+The Foundation still participates in governance via **TRSC Oversight** and the CCI Pentad Steering Committee — not via CC membership.
+
 ## Related
 
 - [[entities/input-output-group]]
@@ -22,3 +28,6 @@ Published vote context on CCI V2 ([vote 65](../../vote_context/markdown/65_criti
 - [[entities/intersect]]
 - [[concepts/cardano-critical-integrations]]
 - [[concepts/treasury-escrow-oversight]]
+- [[concepts/constitutional-committee]]
+- [[analysis/founding-entities-constitutional-committee]]
+- [[proposals/update-constitutional-committee-2026]]

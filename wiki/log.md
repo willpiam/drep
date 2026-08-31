@@ -234,3 +234,15 @@ Judgment filed: yes — Bifrost success materially weakens Alchemy’s treasury 
 ## [2026-08-31] ingest | Update Constitutional Committee 2026
 
 Ingested Intersect Update Committee JSON: 2026 CC election seating for four Epoch-653 seats (expire 799; `committeeMaxTermLength` 146). Created source, proposal, committee-max-term-length concept, and entities for Mahut, DiSarro, Leandros BSP, Cardano Curia. Updated constitutional-committee roster, committeeMinSize interaction, Intersect/Civics election role. No DRep vote context yet.
+
+## [2026-08-31] query | emurgo-on-constitutional-committee
+
+## [2026-08-31] filing | EMURGO and the Constitutional Committee
+
+No EMURGO-named seat on the post-2026-update CC. Interim appointed seat ended when founding entities (including EMURGO) declined to stand in 2025; not a 2026 candidate. Filed [[analysis/emurgo-constitutional-committee]]; updated [[entities/emurgo]] and [[concepts/constitutional-committee]].
+
+## [2026-08-31] query | cardano-foundation-on-constitutional-committee
+
+## [2026-08-31] filing | Founding entities and the Constitutional Committee
+
+No Cardano Foundation-named seat on the post-2026-update CC (same as EMURGO, IOG, Intersect). Generalized [[analysis/founding-entities-constitutional-committee]]; updated CF, IOG, and CC pages.

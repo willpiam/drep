@@ -27,8 +27,8 @@ _Organizations, people, and governance bodies._
 | [entities/civics-committee.md](entities/civics-committee.md) | Intersect Civics Committee — constitutional process; approved committeeMinSize proposal |
 | [entities/technical-steering-committee.md](entities/technical-steering-committee.md) | Intersect TSC — technical approval for protocol governance actions |
 | [entities/parameter-committee.md](entities/parameter-committee.md) | Intersect Parameter Committee — PCP review for protocol parameter changes |
-| [entities/cardano-foundation.md](entities/cardano-foundation.md) | Cardano Foundation — Pentad co-proposer; TRSC Oversight Committee; CCI Steering Committee |
-| [entities/emurgo.md](entities/emurgo.md) | EMURGO — founding entity; Pentad co-proposer and CCI Steering Committee member |
+| [entities/cardano-foundation.md](entities/cardano-foundation.md) | Cardano Foundation — Pentad/TRSC oversight; interim CC seat then stepped aside (not on 2026 CC) |
+| [entities/emurgo.md](entities/emurgo.md) | EMURGO — founding entity; Pentad CCI; interim CC seat then stepped aside (not on 2026 CC) |
 | [entities/midnight-foundation.md](entities/midnight-foundation.md) | Midnight Foundation — privacy sidechain steward; Pentad CCI co-proposer |
 | [entities/5am-earth-foundation.md](entities/5am-earth-foundation.md) | 5am.earth Foundation — neutral steward of open agricultural trust layer on Cardano |
 | [entities/syngenta-foundation-india.md](entities/syngenta-foundation-india.md) | Syngenta Foundation India — Project Swaminathan field distribution; 26k+ AEs |
@@ -176,6 +176,8 @@ _Comparisons, queries filed back, and exploratory write-ups._
 | [analysis/global-order-book-complexity.md](analysis/global-order-book-complexity.md) | Complexity map: bundled scope, leverage/options risk, incumbent adoption bar, soft security/people |
 | [analysis/alchemy-bitcoin-treasury-meaning.md](analysis/alchemy-bitcoin-treasury-meaning.md) | “Bitcoin treasury protocol” = structured BTC product, not multi-asset Cardano L1 treasury |
 | [analysis/alchemy-vs-bifrost-value-add.md](analysis/alchemy-vs-bifrost-value-add.md) | If Bifrost works: Alchemy adds FIRE/ICE structured BTCfi — not BTC access; skeptical case noted |
+| [analysis/emurgo-constitutional-committee.md](analysis/emurgo-constitutional-committee.md) | Pointer: EMURGO not on 2026 CC — see founding-entities analysis |
+| [analysis/founding-entities-constitutional-committee.md](analysis/founding-entities-constitutional-committee.md) | CF, EMURGO, IOG, Intersect: interim CC seats; none on 2026 elected committee |
 
 ## Legacy vote context
 
